@@ -1,0 +1,199 @@
+# STOCKHOLM 1.0
+
+#=GS T1129s2                      DE P06971; P23207, E. coli; enterobacteriophage T5, subunit 2, 640 residues|
+#=GS UniRef90_P23207/1-640        DE [subseq from] Receptor-binding protein pb5 n=7 Tax=Tequintavirus TaxID=187218 RepID=RBP5_BPT5
+#=GS UniRef90_A0A0M9JJ99/1-639    DE [subseq from] Uncharacterized protein n=1 Tax=Escherichia phage slur09 TaxID=1728958 RepID=A0A0M9JJ99_9CAUD
+#=GS UniRef90_A0A7R8R646/1-657    DE [subseq from] Receptor-binding tail protein n=17 Tax=Sugarlandvirus TaxID=2560233 RepID=A0A7R8R646_9CAUD
+#=GS UniRef90_A0A4Y5P1W2/1-610    DE [subseq from] Receptor binding protein n=1 Tax=Pantoea phage vB_PagS_AAS21 TaxID=2575261 RepID=A0A4Y5P1W2_9CAUD
+#=GS UniRef90_A0A5Q2UCN3/1-166    DE [subseq from] Uncharacterized protein n=1 Tax=Bacteriophage Eos TaxID=2662137 RepID=A0A5Q2UCN3_9CAUD
+#=GS UniRef90_A0A5Q2UCN3/335-680  DE [subseq from] Uncharacterized protein n=1 Tax=Bacteriophage Eos TaxID=2662137 RepID=A0A5Q2UCN3_9CAUD
+#=GS UniRef90_A0A482N539/1-166    DE [subseq from] Receptor-binding protein n=5 Tax=Caudoviricetes TaxID=2731619 RepID=A0A482N539_9CAUD
+#=GS UniRef90_A0A482N539/273-531  DE [subseq from] Receptor-binding protein n=5 Tax=Caudoviricetes TaxID=2731619 RepID=A0A482N539_9CAUD
+#=GS UniRef90_A0A6G8QZM9/1-595    DE [subseq from] Receptor-binding protein n=9 Tax=Tequintavirus TaxID=187218 RepID=A0A6G8QZM9_9CAUD
+#=GS UniRef90_I7LEH0/1-225        DE [subseq from] Receptor-binding tail protein n=1 Tax=Yersinia phage phiR2-01 TaxID=1206557 RepID=I7LEH0_9CAUD
+#=GS UniRef90_I7LEH0/96-525       DE [subseq from] Receptor-binding tail protein n=1 Tax=Yersinia phage phiR2-01 TaxID=1206557 RepID=I7LEH0_9CAUD
+#=GS UniRef90_A0A6C1FBN5/1-157    DE [subseq from] Receptor-binding protein n=28 Tax=Markadamsvirinae TaxID=2732013 RepID=A0A6C1FBN5_9CAUD
+#=GS UniRef90_A0A6C1FBN5/270-560  DE [subseq from] Receptor-binding protein n=28 Tax=Markadamsvirinae TaxID=2732013 RepID=A0A6C1FBN5_9CAUD
+#=GS UniRef90_A0A482N6E0/1-199    DE [subseq from] Receptor-binding protein n=11 Tax=Tequintavirus TaxID=187218 RepID=A0A482N6E0_9CAUD
+#=GS UniRef90_A0A482N6E0/280-595  DE [subseq from] Receptor-binding protein n=11 Tax=Tequintavirus TaxID=187218 RepID=A0A482N6E0_9CAUD
+#=GS UniRef90_A0A7G8AP98/1-187    DE [subseq from] Receptor-binding tail protein n=60 Tax=Epseptimavirus TaxID=2732017 RepID=A0A7G8AP98_9CAUD
+#=GS UniRef90_A0A7G8AP98/275-593  DE [subseq from] Receptor-binding tail protein n=60 Tax=Epseptimavirus TaxID=2732017 RepID=A0A7G8AP98_9CAUD
+#=GS UniRef90_A0A8A6RNW1/1-156    DE [subseq from] Receptor-binding tail protein n=3 Tax=Epseptimavirus TaxID=2732017 RepID=A0A8A6RNW1_9CAUD
+#=GS UniRef90_A0A8A6RNW1/277-593  DE [subseq from] Receptor-binding tail protein n=3 Tax=Epseptimavirus TaxID=2732017 RepID=A0A8A6RNW1_9CAUD
+#=GS UniRef90_A0A6G8RJ19/1-167    DE [subseq from] Receptor-binding tail protein n=2 Tax=Epseptimavirus TaxID=2732017 RepID=A0A6G8RJ19_9CAUD
+#=GS UniRef90_A0A6G8RJ19/268-593  DE [subseq from] Receptor-binding tail protein n=2 Tax=Epseptimavirus TaxID=2732017 RepID=A0A6G8RJ19_9CAUD
+#=GS UniRef90_A0A5P1M865/1-203    DE [subseq from] Receptor-binding protein n=9 Tax=Epseptimavirus TaxID=2732017 RepID=A0A5P1M865_9CAUD
+#=GS UniRef90_A0A5P1M865/250-590  DE [subseq from] Receptor-binding protein n=9 Tax=Epseptimavirus TaxID=2732017 RepID=A0A5P1M865_9CAUD
+#=GS UniRef90_A0A5P8PM36/1-649    DE [subseq from] Receptor-binding tail protein n=1 Tax=Serratia phage Slocum TaxID=2601679 RepID=A0A5P8PM36_9CAUD
+#=GS UniRef90_UPI0018D45681/2-132 DE [subseq from] hypothetical protein n=1 Tax=Oleiphilus sp. HI0123 TaxID=1822265 RepID=UPI0018D45681
+#=GS UniRef90_A0A2U8UX02/1-573    DE [subseq from] Receptor binding protein n=1 Tax=Escherichia phage Gostya9 TaxID=2182345 RepID=A0A2U8UX02_9CAUD
+#=GS UniRef90_A0A7R8MN29/1-168    DE [subseq from] Receptor-binding protein n=1 Tax=Klebsiella phage vB_KaS-Veronica TaxID=2762824 RepID=A0A7R8MN29_9CAUD
+#=GS UniRef90_A0A7R8MN29/324-589  DE [subseq from] Receptor-binding protein n=1 Tax=Klebsiella phage vB_KaS-Veronica TaxID=2762824 RepID=A0A7R8MN29_9CAUD
+#=GS UniRef90_A0A0A7TXK0/1-494    DE [subseq from] Receptor binding protein n=3 Tax=Markadamsvirinae TaxID=2732013 RepID=A0A0A7TXK0_9CAUD
+#=GS UniRef90_A0A482N5P3/1-82     DE [subseq from] Uncharacterized protein n=1 Tax=Escherichia phage vB_EcoS_VAH1 TaxID=2508173 RepID=A0A482N5P3_9CAUD
+
+T1129s2                              MSFFAGKL-N-NKSILSLRR-GS---G-GDT-NQHINPDSQTIFHSDMSHVIITETHSTGLRLDQGAGD-YYWSEMPSRVTQLHNNDPNRV--VLTEI-EF--S-DG--S---R--H--MLSGMSMGVGAK-AYG--I-----INP--QIM--SQ---------G---G---LKT--------QI----TAS--ADLSLD
+UniRef90_P23207/1-640                MSFFAGKL-N-NKSILSLRR-GS---G-GDT-NQHINPDSQTIFHSDMSHVIITETHSTGLRLDQGAGD-YYWSEMPSRVTQLHNNDPNRV--VLTEI-EF--S-DG--S---R--H--MLSGMSMGVGAK-AYG--I-----INP--QIM--SQ---------G---G---LKT--------QI----TAS--ADLSLD
+UniRef90_A0A0M9JJ99/1-639            MGFFAGRL-N-NTPTLSLKR-GS---G-GDI-NQHINPDNNTIFHSNMPHVIITETHSANLAL--ATNE-YYWAAMPSRIVTLHNNDSNLV--ILTEI-EF--T-DG--T---R--H--MINGMSMGVGVK-AYG--T-----TNP--QVS--SG---------G---G---NKI--------QI----TAS--ADLSLD
+UniRef90_A0A7R8R646/1-657            MGFFAGRI-G-DKKVLSLTS-GN---N-KDI-NNHLNNGWDTIFHSDMPHVVILETHEVTL--WDGGDW-YRCSRMPDRIIQVLSADYDRV--VLTEV-EF--E-DG--T---R--R--FIYGTSLGVGAK-AYN--AYFSNTVGS--QVSAGTM---------A---S---MKT--------NV----CAS--ADLHMD
+UniRef90_A0A4Y5P1W2/1-610            MSFFAGRL-N-NVPTFSLKN-EG---G-GDI-NRHINPDDNTLFHSSMPHVLITEEYEAQL--QQRDYG-YWTCAMPGRISSLLANDANLV--VLTEV-EY--Y-VG--NTICR--R--MLYGGATGVGAA-NWQSQW-----VSI--QII--GSRPITIPHFFG---A---FGT--------TF----VAS--NDVIAD
+UniRef90_A0A5Q2UCN3/1-166            MSFFAGKI-G-TKSVLSLNS-AS---GTGNTPTNHNVPDTNTIFHSDMPYVLVQEEYSAAL--TNAGND-YFVCNLPAAIVNYVSNS-SRI--IIPML-TV--N-HGGVE---K--H-TILSGGSMSLGNC-TAG--S-----LAI--DIG--NE---------W---GQADTGS--------QIRNIWQFS--NDLTFD
+UniRef90_A0A5Q2UCN3/335-680          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N539/1-166            MGFFAGKY-SDGKTVLSLNT-AS---G-GDI-NAHKNPSTNTIFHSDMPFVLVESTYESALS--NAGNG-FFVCQMPSVIANLKSNDPGRV--ILTAI-EV--N-GT--H---R--G--FLNGTQSQVGQF-LSS--T-----QAD--PFR--SF---------A---S---LSQ--------TA----GFA--FGNSLA
+UniRef90_A0A482N539/273-531          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8QZM9/1-595            MGFFAGKY-SDGKTVLSLNK-VN---G-GDI-NAHKTPNANTIFHSDMPFVLVESTYESALS--NAGNG-FFVCQMPSVIANLKSNDPGRV--ILTAV-EI--N-GT--H---R--G--FLNGTQSQVGQF-LAF--F-----EDP--PIG--R----------A---G---AEV--------GL----TSAFASGNSLA
+UniRef90_I7LEH0/1-225                MSIFVGRL-G-GKSVLSLNA-GA---S-TDT-NVHINPNADTIFHSDMPFVLVDSTHESALT-SIGNG--FYVCQMPADIASLKSNDSGRV--ILTAI-EI--N-GT--H---T--G--FLNGTQSFVGQTLMYG--N-----DEQ--RAY--SS---------L---S---MSS--------GF----ASG--SSLAHG
+UniRef90_I7LEH0/96-525               --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6C1FBN5/1-157            MGFFAGKY-SDGKTVLSLNT-ES---G-GDI-NRHYSPNANSIFHSDMPFVLVDGTYEAGLG-NAG-NG-FFVCQMPSDIINIKSNDPGRV--ILTAI-EI--N-GT--H---R--A--FLNGTQSKVGQT-IVA--T-----QAD--PFR--SF---------A---S---VSQ--------TS----GFA--FGNSLA
+UniRef90_A0A6C1FBN5/270-560          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N6E0/1-199            MGFFAGKY-SDGKTVLSLNT-ES---G-GDI-NRHYSPNANSIFHSDMPFVLVDGTYEAALG--NAGNG-FFVCQMPSDIINIKSNDPGRV--ILTAI-EI--N-GT--H---R--A--FLNGTQSQVGQF-TAF--F-----EDP--PIG--RA---------GAEVG---LTS--------AF----ASG--NSLAHG
+UniRef90_A0A482N6E0/280-595          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7G8AP98/1-187            MSFFAGKF-SDGKTVLSLNA-AN---G-GDT-GEHYSPNTNSIFHSDMPFVLVDGTYEAALG--NAGNG-YFVTQMPWDIINIKSNDPGRV--ILTAI-EI--N-GT--H---R--G--FLNGTQSQVGQF-LSF--F-----EDP--PRA--GA---------E---L---SVT--------SA----FAI--GDSLAH
+UniRef90_A0A7G8AP98/275-593          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8A6RNW1/1-156            MSFFAGKF-SDGKTVLSLNA-AN---G-GDI-NQHYSPNTNSIFHSDMPFVLVDGTYEAALG--NAGNG-YFVCQMPWDIINIKSNDPGRV--ILTAV-EI--N-GT--H---R--G--FLNGTQSQVGSY-LTL--A-----EDPGFRAF--AQ---------V---G---LSS--------AF----AIG--DSLAHG
+UniRef90_A0A8A6RNW1/277-593          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8RJ19/1-167            MSFFAGKF-SDGKTVLSLTN-SN---G-GDT-SEHYSPGGNTIFHSDMPFVLVDGTYEATL--GNAGNG-YFVCQMPNDIINMKSNDPGRV--ILTAV-EI--N-GT--H---R--G--FLNGTQSQVGQFLAFF--E-----DPP--RAG--AE---------L---G---LTS--------AF----A-I--GDSLAH
+UniRef90_A0A6G8RJ19/268-593          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5P1M865/1-203            MGFFAGKF-SDGKTVLSLTN-NN---G-GDT-NEHYSPGGNTIFHSDMPFVLVDGTYEAALG--NAGNG-YFVCAMPPDIINMKSNDPGRV--ILTAI-EI--N-GT--H---R--G--FLNGTQSQVGQY-LTF--A-----EEP-SRAF--AA---------V---G---LSS--------AF----AIG--DSLASG
+UniRef90_A0A5P1M865/250-590          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5P8PM36/1-649            MSVFMGKF-SDGKTVLSLRNRGGTAWG-EDA-WEHHDPQLDSIFHSDMPHMFIEEYYAANT---WHAGDGYFITPMPARVIETLANAADRV--VITSV-TFRSN-DG--D---E--YKSAISGNSINFGTA-LQG--R-----ASQ--AGS--WQ---------N---G---YNTVSSGIWFSSF----NQS--ADVTLD
+UniRef90_UPI0018D45681/2-132         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A2U8UX02/1-573            MSFFAGRI-G-TKTVLSLNT-AS---G-GDV-NIHNTPNGNTIFHSDMPHLFVKTRYTV--NLGAGGDG-YFIGTLPTELRTILANRANVV--IPVLVCKN--S-GG--T---EYYH--QMFGMA---RAS-SYL--W-----HDL--DLI--GV---------S---C---LYG---------G----SLS--FDLNLE
+UniRef90_A0A7R8MN29/1-168            MGFFAGKL-G-SKSVFSLDT-RR---G-GSP-NDHANPNGDTIFHSDMPFLFVEKRYRVNVNP-EGDRG-YFVGEMPAELANILSNDQDQV--IIPVY-VF--IHDG--RE-MR--K--QLMGRQENVGYN-IFQ--A-----DWV--QSL--AV---------T---G---SQH--------GS-----TF--PDMQIE
+UniRef90_A0A7R8MN29/324-589          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A0A7TXK0/1-494            MSFFAGKYTD-GKTVLSLNR-AS---G-GDI-NVHYSPNTNSIFHSDMPHMFVKRRFQVGLG--NAGNG-YFTGALPSDLSYLLANRANVILPVLVVR-DN--A-DG--T---EYYH--QMTGIQRNSTYR-WRN--L------YE--SI---SI---------W---G---QYT--------G-----SIQ--FDLNLE
+UniRef90_A0A482N5P3/1-82             MGFFAGKY-SDGKTVLSLNT-ES---G-GDI-NRHYSPNANSIFHSDMPFVLVDGTYEAALG--NAGNG-FFVCQMPSDIINIKSNDPGRV--T----------------------------------------------------------------------------------------------------------
+#=GC RF                              xxxxxxxx.x.xxxxxxxxx.xx...x.xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx..xxxxx.xx..x.xx..x...x..x..xxxxxxxxxxxx.xxx..x.....xxx..xxx..xx.........x...x...xxx........xx....xxx..xxxxxx
+
+T1129s2                              VGYFNTG-TS-GTI-PQK-LR-DGTGCQ--HMFGA--------FS--G---RR---GF-AS----------SAMY--LGGAALYKSAWSG-S--GYV-VA-D--AGT---LTIPS-------D-YVRH--PGARNFG--FNAIYVRGRSCNR--VLYGMEGPNYTTGG--AVQGASSSGA-LNFTYNP-SNPE----SPK
+UniRef90_P23207/1-640                VGYFNTG-TS-GTI-PQK-LR-DGTGCQ--HMFGA--------FS--G---RR---GF-AS----------SAMY--LGGAALYKSAWSG-S--GYV-VA-D--AGT---LTIPS-------D-YVRH--PGARNFG--FNAIYVRGRSCNR--VLYGMEGPNYTTGG--AVQGASSSGA-LNFTYNP-SNPE----SPK
+UniRef90_A0A0M9JJ99/1-639            VGYFNTG-TS-GSI-VEK-LR-DGTGCQ--HMFGS--------YA--M---RR---GF-AT----------AAMY--MGSAALYKSAWDG-S--SNV-VA-D--RNT---LTVKS-------S-SIRH--PGSRSLG--FDAIYVRGRSCPR--IVYGYNGPNHTTAG--RVQGVASSAAEMVKNYNS-TDPS----SMA
+UniRef90_A0A7R8R646/1-657            ISFYFEE-TP-GTI-NEK-LR-DGTGCM--YTWGV--------NSEWG---DR---GP-GPPVGAPIRPNFETII--KAGWVLYRGAFSG-NIAGSV-SP-P--NRP---LTIGV-------D-AMRH--PWMRTTG--VNSICLRGETLNR--NMYGHMGPRYGQSS--NPVGGP--YA-HN--IQT-ESYQ----EVQ
+UniRef90_A0A4Y5P1W2/1-610            HGFFSESNPG-GNV-SQK-LL-YGTGRK--LMWSG--------SS--T--WES---SQGAS----------NTYF--EGGQTVPNS-----P--NY--YF-D--VGH---LIPPS----------------G-AQRG--FDSFYIKAGHPRL--EMFYRNAATGSTSN--PQPPQLPAGT-VGYQLHTFSNRYNGGGGVA
+UniRef90_A0A5Q2UCN3/1-166            TGYYTKS-SA-LTD-VQS-IG-LGTGR-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5Q2UCN3/335-680          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N539/1-166            SGTYSYN-SSLGHE-ESI-AR-SGTGGT--VLHST--------YH--G--------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N539/273-531          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8QZM9/1-595            HGTYTYNSSL-GHE-ESI-AR-QGTGGTISQASGF--------NL--Y---RP---GG-AY----------AAEA--MGRAWTLAGFPAG-A--SKV-SI-N--SGN---VDFWH------PN-WQAP--IGAGKRG--HNWFYV----CNS--NIRGYAGKKGTTPS--N----------VSVLYNS-STYP----NK-
+UniRef90_I7LEH0/1-225                TYQYISG--R-GHE-ESI-AR-NGTGGTILQVAGA--------NI--F---RP---GG-VS----------PGET--IS--ICYTLLGFG-N--GTI-VPIN--ASN---PNYWN------PN-WQSP--IGAANMG--HDWFYVCSS----------------------------------------------------
+UniRef90_I7LEH0/96-525               -----NG-TQ-SFV-GQT-LM-YGNDEQ--RAYSS--------LS--M---SS---GF-AS----------GSSL--AHGTYQYISGRGH-E--ESI-AR-NGTGGT--ILQVAG-------A-NIFR--PGGVSPGETISICYTLLGFGNGTIVPINASNPNYWNPNWQSPIGAANMGH-DWFYVCS-SNIR----GVT
+UniRef90_A0A6C1FBN5/1-157            SGTYNYN-PSIGHE-ESI-SR-NGTGG-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6C1FBN5/270-560          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N6E0/1-199            TYIYNSG-L--GHE-ESI-AR-QGTGGT----ISQ--------AS--G---FN---LY-RP----------GGAY--AGEA-I-GRAWTL-A--GFP-------AGA---STVPI-------D-----------------------------------------------------------------------------
+UniRef90_A0A482N6E0/280-595          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7G8AP98/1-187            GTYIYNG-GL-GHE-ESI-AR-QGSGGS--LL--Q--------SS--G---FQ---IF-RP----------GGVP--AGEA-I-ARAWSL-M--GF--------------------------------------------------------------------------------------------------------
+UniRef90_A0A7G8AP98/275-593          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8A6RNW1/1-156            TYTYNSG-L--GHE-ESI-AR-QGTG------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8A6RNW1/277-593          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8RJ19/1-167            GTYTYNG-SL-GHE-ESI-AR-QGTGGS----LSQ--------VS--G---FQ---IY----------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8RJ19/268-593          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5P1M865/1-203            TYIYN-S-SI-GHE-ESI-AR-QGTGGT--LIQGS--------DF--GIVRPG---GF-VP----------AGEA--IARAYDLLGFPKG-S--STV-PL-D--GGN---AK----------------------------------------------------------------------------------------
+UniRef90_A0A5P1M865/250-590          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5P8PM36/1-649            VGYFWYD-TN-NSF-KTM-LS-HGSSRR--IFWHAETVHNSNTNG--G---GRPPNPF-AV----------DYWY--MAGFMFFDSDGSGVP--GYNGPA-N--NNTSWYATKPNVIRNFHVD-WWRP--PTSRGTG--YSAIYIRM-GMPR--MLVG----SFQRGG--WVPEG-GEWL-VNESGNSNAGPQ----GGA
+UniRef90_UPI0018D45681/2-132         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A2U8UX02/1-573            WGYYTAA-SG-VTV-ADR-IGVAGTGGY--TIFNV--------EA--G---ED---YD-PA----------YAFD--IASGATITGVWSQ-Y--PYK-RT-P-NRNW---LPRGS-------NPYTGNIRDMEKNFL--INPDYMYPLGPSS--ST-------YDTVF-VRAGGARNLTG-IKNTYAG-TTAS----SVR
+UniRef90_A0A7R8MN29/1-168            WGTWRRG-GL-NNL-EAEIAR-QGTGGS--MARIS--------FG--G--------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7R8MN29/324-589          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A0A7TXK0/1-494            WGYWKQG----GAVWDQI-GN-YGTGGH--TIFDH---------E--G---GE---DY-VA----------DAYYDLAGGWIMYQWRDPQ-D--WYM-YT-N--WIP---RAQSR-------P-IMNY--EDSQNL---VNPDYMHPLGPSS--SVYDA---VYVRAG--GARCATGMGD-PNAYGNT-AYTK----VRN
+UniRef90_A0A482N5P3/1-82             --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GC RF                              xxxxxxx.xx.xxx.xxx.xx.xxxxxx..xxxxx........xx..x...xx...xx.xx..........xxxx..xxxxxxxxxxxxx.x..xxx.xx.x..xxx...xxxxx.......x.xxxx..xxxxxxx..xxxxxxxxxxxxx..xxxxxxxxxxxxxx..xxxxxxxxxx.xxxxxxx.xxxx....xxx
+
+T1129s2                              ----YSVGFARA-DPTNYAY-----WES-----MGDPND-SANGPIG-I--Y-S-E--HLGIYPSKITWYVTNLVY-NG--S-G--YNIDGGLFNGN-DIKLSPREFIIKGVNVNNTSWKFINFIEKNF-NVGNRADFR-DVGC---NLSK-DS--PSTGIS-G-IAT-FG-LPTTES--N----N--APSIKGGNV---
+UniRef90_P23207/1-640                ----YSVGFARA-DPTNYAY-----WES-----MGDPND-SANGPIG-I--Y-S-E--HLGIYPSKITWYVTNLVY-NG--S-G--YNIDGGLFNGN-DIKLSPREFIIKGVNVNNTSWKFINFIEKNF-NVGNRADFR-DVGC---NLSK-DS--PSTGIS-G-IAT-FG-LPTTES--N----N--APSIKGGNV---
+UniRef90_A0A0M9JJ99/1-639            ----WAVGFARA-APHGYAY-----WEG-----MSDPNN-GPGGPIG-I--Y-S-E--SLGVTPKKVTWYVTNLRY-TG--S-G--FTVGTDLFKGS-DIKISPNDFTIRGVNLSTTSWKFINFVQPGY-NPGSRADIR-NIGN---NVSS-SS--NSTGVN-G-IAT-FA-VPVTNG--S----N--APLFKGGNV---
+UniRef90_A0A7R8R646/1-657            ----YKAGFFRG-PPNNFMG-----WEN-----TDNNNAGSGWGNNA-I--Y-R-D--NNFRVPKRVRWYITNMKY-NG--Q-G--FYAENVFGSRNQEIKISPREFIVNGINLMNTGWKFINQNDINY-SPGNRPDIR-VIAT---NVAR-FSGNPTVGNN-G-YVH-FN-QPLTRP--D----N--GAEFGQGNI---
+UniRef90_A0A4Y5P1W2/1-610            ----LDAGQAAALAPNDFSY-----TNS-----SV-------RRDGE-A--R-E-I--NYGFGFAKVRWYVTNLRY-NG--W-G--YDVTYQPFAGN-SILLSPKNFVIKDVNLMNTSFKFINLVSPG--NGWNRPDMH-LTSP---NIYR-GN--VQSGLEAGDIPW-NG-VETGG---M----G--AGYWYGA-G---
+UniRef90_A0A5Q2UCN3/1-166            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5Q2UCN3/335-680          ---------------------------------------------------Y-N-Q-----ATPVRMTWFVTNLTY-NE--S-AGTYSATSPFTANG-PIKLSPSEFIINNVNVGAQNWSFLTQLSS---GVLNNANNRIAMGA---NLSR-ST--AKNGSS-A--AA-IP-IPYVNG--N----T--ETLLGGDTS---
+UniRef90_A0A482N539/1-166            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N539/273-531          ----------------------------------------------K-I--V-Q-D--GYGVTPTKVIWYVLNLRY-SN--G-G--MSVSSNPFTGS-DIIISPSNFTIKGVKLSTTGWKFINQNA-LG-NLTSRADME-YIGV---NAAH-G------GVF-G-DTT-GR-CEFVCS--N----K--GSIWAPVNY---
+UniRef90_A0A6G8QZM9/1-595            ------VYVCRG-STSNLAS-----QAA--------------KK--Q-Y--V-Q-D--SYNITPTKVIWYVLNLRY-SN--G-G--MSVASNPFTGS-DIRISPSNFTIKGVSLPNTSYKFINQN-AFG-NLSSRPDME-YIGN---NVA-------YTGVF-G-DTT-AR-CEIVGS--N----K--GSLWSPVNY---
+UniRef90_I7LEH0/1-225                --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_I7LEH0/96-525               ----ANYGTSRP-GNTDLLF-----SQNATYTVKGSSTN-LGNQGTA-VRRV-Q-D--SYPCTPTKVIWYVLNLKY-SD--G-T--MNVAGNPFTGT-DIILSPKDFTIKGVKLRETTYKFINQN--SFGSLTGRPDME-YIGS---NSSY-P------GVF-G-DTT-GR-AAFNAS--N----N--GSIITPVSY---
+UniRef90_A0A6C1FBN5/1-157            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6C1FBN5/270-560          -------------------------------------------GNAT-I--L-Q-D--WYNITPTKVIWYVLNLRY-SN--G-N--MGISGNPFTGS-DILISPSNFTIKGVSLPNTGYKFINQN-AFG-NLGYRPDME-YVGN---NA-------AYTGAF-G-DTT-AR-CELVGS--S----N--GSLWSPVDY---
+UniRef90_A0A482N6E0/1-199            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N6E0/280-595          -------------------------------------------------------D--GYNITPTKVIWYVLNLRY-SN--G-N--MGVSGNPFTGS-DILITPSNFTIKGVSLPNTGYKFINQN-AFG-NLGYRPDME-YIGN---NA-------AYTGAF-G-DTT-AR-CEIVGS--S----N--GSLWSPVDY---
+UniRef90_A0A7G8AP98/1-187            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7G8AP98/275-593          ------------------------------------------------Y--V-Q-D--WYNVTPTKVIWYVLNLRY-SN--G-S--MGVSGNPFTGS-DILISPSNFTIKGVSLPNTGYKFINQN-AFG-NLGYRPDME-YVGN---NA-------AYTGVF-G-DNT-AR-CEFIGS--S----N--GGLWSPINY---
+UniRef90_A0A8A6RNW1/1-156            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8A6RNW1/277-593          -----------------------------------------------------Q-D--WYNITPTKVIWYVLNLRY-SN--G-N--MVVSGNPFTGS-DILISPSNFTIKGVSLPNSGYKFINQN-AFG-NLGYRPDME-YIGN---NA-------AYTGVF-G-DTT-AR-CEFIGS--S----N--GGLWSPVNY---
+UniRef90_A0A6G8RJ19/1-167            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8RJ19/268-593          -----------------------------------------AQSSRA-V--Y-VQD--WYNVTPTKVIWYVLNLRY-SN--G-N--MGVSGTPFTGS-DILISPSNFTIKGVSLPNTGYKFINQN-AFG-NLGYRPDME-YVGN---NA-------AYTGVF-G-DTT-AR-CEFIGS--S----N--GGLWSPVGY---
+UniRef90_A0A5P1M865/1-203            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5P1M865/250-590          --------------PSNLVY-----A-C-----RGSASN-MASQSVNTV--YVQ-D--WYNITPTKVIWYVLNLRY-SN--G-N--ISVSGTPFTGS-DILISPSNFTIKGVSLPNTGYKFINQN-AFG-NLGYRPDME-YVGN---NA-------AYTGVF-G-DTT-AR-CEFIGS--N----N--GSLWSPVNY---
+UniRef90_A0A5P8PM36/1-649            ----WICRSWTG-NPID-AA-----WDN-----VGAKEV---KDQ----------I--QWGWTPVQVEWYFTNFWF-NG--SDG--YNVS-NIFTGN-DILFSRDNFTVKGQNLMAIGRKMVMAVDAGE-SGRNWRDV--HIGS---NVYKWDL--NSNPIN-F-LG---G-IPKSFA--KKGWCG--MAAVDGGTF---
+UniRef90_UPI0018D45681/2-132         -------------------------------------------------------------------------------------------------------------------NTGWKFINQNDINY-SPGNRPDIK-VIAT---NVAR-FSGNPTVGNN-G-YVH-FN-QPLTRP--D----N--GAEFGQGNV---
+UniRef90_A0A2U8UX02/1-573            ----NIDYYANS-IPDLYASVPMSKFVR-----AGIERH-VRNGLIS-G--F-T-EATYAGMTPVRMEYLVLNVTF-SN--T-G--GYTAQNLFTGS-DIKVSRTDFNIKGVNLRSTSYEMLSAVS-----TGTPSISN-TYFC---SNTQ-AS--SATALP-D-GGA-FRFYGTTGS--G----G--SGSWAASNVETS
+UniRef90_A0A7R8MN29/1-168            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7R8MN29/324-589          ------------------------------------------------------------PIWPVAIEFLKLNLRT-RGRQG-G--YVV-TNPFQGN-EIKISKNEFIIRNYDLRQTDMEMLIAIS--G-GAGDRLGWA-NSWFSTNNLLN-GM--GDIGDG-G-SLNLCG-ARSSDG--V----TETLVPNQGGSG---
+UniRef90_A0A0A7TXK0/1-494            LDFPYQIPMANS----SSAY-----L-T-----AGAERH-VANARMS-G--F-S-E-VYYPFTPVRMEYLWLNVTFDNY--W-G--YSAE-NLFTGN-DIKIAKDSFIIKGVDLRNTNYEMLAAVSTGTPSISNTYFSS-NVFA---WSST-EM--DDGGA----FRF-FG-ANAWGGLKG----F--TGSNTGSTV---
+UniRef90_A0A482N5P3/1-82             --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GC RF                              ....xxxxxxxx.xxxxxxx.....xxx.....xxxxxx.xxxxxxx.x..x.x.x..xxxxxxxxxxxxxxxxxx.xx..x.x..xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxx...xxxx.xx..xxxxxx.x.xxx.xx.xxxxxx..x....x..xxxxxxxxx...
+
+T1129s2                              -GGLHANV-VSIYNFLPSASWYVSSNPPKIGNNYGDVWSENLLPLRLLGG--S--GSTI-L--SG---NI--V---F----Q--G-N-G-SVH--V--GTVGLDLN-SS-RN-GAIVCTMEFID-DTWLSAG-G-IGCFN-----PTEMLSQG--AEYGDSR--FRI---G--GNTIN--KKLHQILSLPAGEYVPFFTI
+UniRef90_P23207/1-640                -GGLHANV-VSIYNFLPSASWYVSSNPPKIGNNYGDVWSENLLPLRLLGG--S--GSTI-L--SG---NI--V---F----Q--G-N-G-SVH--V--GTVGLDLN-SS-RN-GAIVCTMEFID-DTWLSAG-G-IGCFN-----PTEMLSQG--AEYGDSR--FRI---G--GNTIN--KKLHQILSLPAGEYVPFFTI
+UniRef90_A0A0M9JJ99/1-639            -GGLTNST-VSIYSFMPSSSWYAQSTPPKIGNKYGDVWSESNIPLRLIAG--S--ASAT-L--SG---NV--V---F----S--S-G-S-SVH--L--TTMGLGIQ-SA-RD-GAIVCTMEFLD-DTWLSAG-G-IGCFN-----PNEILNRG--ATTGDSR--FRI---S--SNAVS--KKLHQILSLPSGKYVPFLTI
+UniRef90_A0A7R8R646/1-657            -SEMHVTT-VGVYNFRSDAQWYVKSNPPEIGNQWGPVWSEATRPLRLVGG--T--GSAD-I--GG---NL--R---T----S--G-N-A-SHH--L--ATLWLGVN-NS-RN-GACVVTLDWKN-DEWIAAA-G-IGCYN-----PLEDLTQW--SEV-DSR--LRI---F--GNHFQ--KRVHQIMCLPVNMCVPFHFI
+UniRef90_A0A4Y5P1W2/1-610            -SNWGSTT-LALYKFQPSASWYVNSTVPSIGNQWGDVWSPGQIPLRLFGN--R--AAVV-E--VS---GG--A---F----QLSA-N-Q-VTG--I--QNANLGLN-DS-RN-GAVVMTIVFND-ITWFLAS-G-RGVYN-----PMRWNG-G--GSLPASQ--MRV---TGYGNSTY--HIRHQILSLPVGGYVPFYVC
+UniRef90_A0A5Q2UCN3/1-166            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5Q2UCN3/335-680          -DGWLLHK-LALYKFNRNNQWKVDTRTNSIGNADGDVWSPSVNPLKIFAG--N--SSVVNV--GG---NL--I---N----T--N-T-N-EVL--L--TTVNLGMN-TNVRA-GSVIASVQLRD-ATVFTAG-G-YGAFNGSGPQPGNPETIG--VAGTASR--LRT---S--GAIGA--THHHSFCTLPVGRFVPIYAV
+UniRef90_A0A482N539/1-166            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N539/273-531          -SGTRAQ--LSIYKFSASKTWYVNSNNNTIGNENGVVWGPSSVPLRLLSG--N--VASA-Y--IG---ND--ITPTY----P--G-T-G-NVYKPL--ATVGLGLP-N--NN-STVILTSEILS-GNLNVAGLP-VNTWN-----GSVFQVQG--RK---SQ--SYT---G--GDAI-----FHQILVLPPGKLVPFHTT
+UniRef90_A0A6G8QZM9/1-595            -GGSKS-Q-ISIYKFSAGKQWYVNSNNNTIGNEHGVVWGPSSVPLRLLPN--N-VASTY-I--GD---DINPS---Y----P--G-T-G-NKY--VALSTVSLGLP-N--AN-STVILTTEVVA-GNLNTAG-GPIRTYG-----GTAWQVQG--RRQ---Q--SYT---G--GDGI-----FHQILTLPPNHLVPFHTT
+UniRef90_I7LEH0/1-225                --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_I7LEH0/96-525               -GG-RASQ-LSIYKFNASKEWYMNTKTTSIGNENGEVWSPRTIPLRLLAN--N--VASS-Y--IGDDINP--L---L----I--A-S-G-DRY--T--AQSSVYLGIPN-RD-TTVILTIEVIM-GNINSSGLM-VGTFG-----GTTWPTQG--RKA---I--SYT---G--GDGI-----FHQILTLPPGELVPFHS-
+UniRef90_A0A6C1FBN5/1-157            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6C1FBN5/270-560          -GGAKS-Q-ISIYKFGAGKQWYVNSSNNTIGNEHGVVWGPSSVPLRLFSG--N-VGSSY-M--GD---DI--TP-YY----P--G-T-G-DRY--VALSTIGLGIP-G--GN-ATVILTTEVIS-GN-LNCA-G-V---------PANTWNNG--VFQVQGR--RAY---S--YSNGD--AIFHQILTLPVGYLVPFHTT
+UniRef90_A0A482N6E0/1-199            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A482N6E0/280-595          -GGAKS-Q-ISIYKFGAGKQWYVNSSNNTIGNEHGAVWSPSTVPLRLFPN--N-VASTY-V--GD---DI--TP-TY----P--G-A-G-NYYRAL--ATIGLGLP-N--AN-ATVILTTEVIM-GNINTAG-GAIRTYG-----GVAWQVQG--RRQH--S--YTE------GDGI-----FHQILTLPPGYLVPYHST
+UniRef90_A0A7G8AP98/1-187            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7G8AP98/275-593          -GGA-ASQ-ISLYKFGVGKQWYVDTNTNSIGNEHGPVWSPSTVPLRLFPG--N-VASTY-V--GD---DI--TP-SY----P--G-A-G-DFYTPL--ATVWLGLP-NA-HS--TVILTTEVIM-GNLNTAGMP-VRTYG-----GSAWQVQG--RRQ--QS--YTA---G------D--GVFHQILTLPPGYLVPYHST
+UniRef90_A0A8A6RNW1/1-156            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8A6RNW1/277-593          -GGA-ASQ-ISLYKFGAGKQWYVDTNSNSIGNEHGPVWSPSTVPLRLFPG--N-VASTY-V--GD---DINPS---YP--AA--G-N-Y-YQP--L--ATVWLGLP-NA-H--STIILTTEIIM-GNINTAGMP-VRTYG-----GSAWQVQG--RRQ--QS--YTA------GD-----GIFHQILTLPPGYLVPYHST
+UniRef90_A0A6G8RJ19/1-167            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A6G8RJ19/268-593          -GGA-ASQ-ISLYKFNAGKQWYVDTNTNTIGNEHGPVWSPSTVPLRLFPN--N-VASTY-V--GDD-LNP--S---Y----P--S-A-G-DYYQPL--STVWLGLP-N--AN-STIILTTEVIM-GNINTAGQR-ISTYG-----GSAWQVQG--RRQ--QS--YTA------GDGI-----FHQILTLPPGYLVPYHST
+UniRef90_A0A5P1M865/1-203            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A5P1M865/250-590          -GGA-ASQ-ISIYKFNAGKQWYVDTNTNSIGNEHGAVWSPSTVPLRLFPN--N-VASTY-V--GD---DI--TP-SY----P--G-T-G-DYYLPL--STVWLGLP-NA-H--STIILTSEVIM-GNINTAG-QPIRTYA-----GSAWQVQG--RRQ--QS--YTA---G------D--GVFHQILTLPPGHLVPYH--
+UniRef90_A0A5P8PM36/1-649            -SSFGPAS-IAIHEFVPGKQWYLNGTVPSIGNQDGDIWSPSSVPLKNFAW--N--KSAFWL--GG---QS--V---W----S--DQN-N-MTW--L--AEADIGFA-SS-RA-GTGLVMVQFHDLPTYMSCG-G-FGSFM-----PLRALGPN--VPMDNTW--MNV---V--GNMDARPQRFFNICVIPPNCHVPVFTV
+UniRef90_UPI0018D45681/2-132         -SEMHVTT-VGVYNFRSDAQWYVKSNPPEIGNQWGPVWSEATRPLRLVGG--T--GFAD-I--GG---NL--R---T----S--G-N-A-SHH-----------------------------------------------------------------------------------------------------------
+UniRef90_A0A2U8UX02/1-573            IGSTTQWN-IGLYKFPTNSSIAINSSGPKISINNVDIWSPTVRPLQLFTG-NK--ASNV-I--IG---DN--E---WLHEIA--T-G-G-TKM--I--SSVGMGLP-AS-GT-TVVLMSIEWMG-NDLCSPN-G-DPSMG-----YLWSLNSSIYSPAGVSKRLTKF---D--YDKGD--AVSHQIIVLNPNVYVPIY--
+UniRef90_A0A7R8MN29/1-168            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7R8MN29/324-589          -AGYPGNVKMGFYKFPRNSTVEISSRDNAIKLNGQDIWSGTHRPLHLWNGWQK--NDVI-I--GH---NY-EL---I----Q--C-NEGQEIM--L--GEYDLGLN-AG-NHTNIIIMSMEYMA-AGLHITG-D-KQF----------MKGAG--LRWEGAG--RRLSDDG--YNRGD--AFHHMFITLPSDVYIPIH--
+UniRef90_A0A0A7TXK0/1-494            -GNSTPWN-IGLYRLPQNSNIEINSPQNKIAINGVDIWSPNVRPLHLFTQ--NKANNII-LGDNG---RL--Y---P----M--A-Y-G-ETR-LI--NTVDVGLG-G--------------------------------------------------------------------------------------------
+UniRef90_A0A482N5P3/1-82             --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GC RF                              .xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x..xxxx.x..xx...xx..x...x....x..x.x.x.xxx..x..xxxxxxxx.xx.xx.xxxxxxxxxxx.xxxxxxx.x.xxxxx.....xxxxxxxx..xxxxxxx..xxx...x..xxxxx..xxxxxxxxxxxxxxxxxxxx
+
+T1129s2                              KGTVVNACKLQA-AAYNPTPYWVSGLPG-SV-G-QTGYYTLTYYMRNDGNNNISIWLDSSMS---NIIG-MKACLPNIKLIIQRLT
+UniRef90_P23207/1-640                KGTVVNACKLQA-AAYNPTPYWVSGLPG-SV-G-QTGYYTLTYYMRNDGNNNISIWLDSSMS---NIIG-MKACLPNIKLIIQRLT
+UniRef90_A0A0M9JJ99/1-639            KGTAVNATGGGG-AMFTPTAFWVSSLYG-GN-A-QTGYYTITYYLKNDGNGNVSVWLNASVS---NVVG-LKACLPNVKITIQRLT
+UniRef90_A0A7R8R646/1-657            RGTVTQCGVIPGNNAMQMKAMWAPATTN-SA-T-Q-GDYAIIYWLIARADGSVEVWVNVEMS---NIMN-MRVILPEVRIAVQRL-
+UniRef90_A0A4Y5P1W2/1-610            R------CGSM--AS-----YGSDGSSL-AD-H-STGFYTVIFYIRNIGNGEVEFSCEL---------------------------
+UniRef90_A0A5Q2UCN3/1-166            --------------------------------------------------------------------------------------
+UniRef90_A0A5Q2UCN3/335-680          RTAGYNYSN--T-AVFPP-AWFTPGGAS-MA-N-KNLECSFLIYLKNEGNGNVGIYCGTGRNADAALMGNFTFILPNLRISVQRLT
+UniRef90_A0A482N539/1-166            --------------------------------------------------------------------------------------
+UniRef90_A0A482N539/273-531          S-------------------------------------------------------------------------------------
+UniRef90_A0A6G8QZM9/1-595            -------------ASYSYTQQWASRPDD-LT-FRRSGF---IYTIKNLGNGNAELGVVIHAN---E--S-AAVFLPRLRVTIQRLT
+UniRef90_I7LEH0/1-225                --------------------------------------------------------------------------------------
+UniRef90_I7LEH0/96-525               --------------------------------------------------------------------------------------
+UniRef90_A0A6C1FBN5/1-157            --------------------------------------------------------------------------------------
+UniRef90_A0A6C1FBN5/270-560          SA-----------FRYTPNN---------AL-S-R---NSFTYTVKNLGNGNVEL-------------------------------
+UniRef90_A0A482N6E0/1-199            --------------------------------------------------------------------------------------
+UniRef90_A0A482N6E0/280-595          -------------TAYSYTQTWASRPDE-LTFR-RNGY---IYTIKNLGNGNAELGVIIHAD---EA---AAIFLPRLRVTVQRLT
+UniRef90_A0A7G8AP98/1-187            --------------------------------------------------------------------------------------
+UniRef90_A0A7G8AP98/275-593          -------------TSYSYTQTWASRPDEFAF-R-RNGY---IYTIKNLGNGNVELGVIIHAA---EA---AAVFLPRLRVTVQRLT
+UniRef90_A0A8A6RNW1/1-156            --------------------------------------------------------------------------------------
+UniRef90_A0A8A6RNW1/277-593          -------------TAYSYIQEWASRPDS-MI-F-RRNGY--IYTIKNLGNGNVELGVIIHAA---EA---AAIFLPRLRVTVQRLT
+UniRef90_A0A6G8RJ19/1-167            --------------------------------------------------------------------------------------
+UniRef90_A0A6G8RJ19/268-593          -------------TAYSNTQTWASRPDE-FAFR-RNGY---IYTIKNLGNGNVEFGVIIHAA---EA---AAIFLPRLRITVQRLT
+UniRef90_A0A5P1M865/1-203            --------------------------------------------------------------------------------------
+UniRef90_A0A5P1M865/250-590          -GT----------SSYSYWQVWASSPEM-EF-R-RNGYI---YTVKNLGNGNVEFGVIIHAG---SQ---AAVFLPRLRVTVQRLT
+UniRef90_A0A5P8PM36/1-649            RNGITNDN------ISDPFIYIRDGANNHML-N-EVLYYSMTLWIHNNADGKVSLWVSVSRN---D--------------------
+UniRef90_UPI0018D45681/2-132         --------------------------------------------------------------------------------------
+UniRef90_A0A2U8UX02/1-573            --------------------------------------------------------------------------------------
+UniRef90_A0A7R8MN29/1-168            --------------------------------------------------------------------------------------
+UniRef90_A0A7R8MN29/324-589          --------------------------------------------------------------------------------------
+UniRef90_A0A0A7TXK0/1-494            --------------------------------------------------------------------------------------
+UniRef90_A0A482N5P3/1-82             --------------------------------------------------------------------------------------
+#=GC RF                              xxxxxxxxxxxx.xxxxxxxxxxxxxxx.xx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx.xxxxxxxxxxxxxxxx
+//

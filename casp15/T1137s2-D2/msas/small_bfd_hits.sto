@@ -1,0 +1,723 @@
+# STOCKHOLM 1.0
+#=GF ID T1137s2-i1
+
+#=GS T1137s2                                                             DE MceG complex, Mycobacterium smegmatis, subunit 2, 343 residues|
+#=GS ERR1700712_3606117/99-292                                           DE [subseq from] ERR1700712_3606117
+#=GS SRR5580693_8657307/679-872                                          DE [subseq from] SRR5580693_8657307
+#=GS SRR3984885_12033178/444-635                                         DE [subseq from] SRR3984885_12033178
+#=GS SRR6516165_6500255/706-898                                          DE [subseq from] SRR6516165_6500255
+#=GS ERR1700751_1592527/1-186                                            DE [subseq from] ERR1700751_1592527
+#=GS SRR5574337_116662/287-469                                           DE [subseq from] SRR5574337_116662
+#=GS SRR5579875_1468038/37-200                                           DE [subseq from] SRR5579875_1468038
+#=GS ERR1700712_80697/261-450                                            DE [subseq from] ERR1700712_80697
+#=GS SRR5882757_5821731/690-880                                          DE [subseq from] SRR5882757_5821731
+#=GS SRR5882757_2406290/427-617                                          DE [subseq from] SRR5882757_2406290
+#=GS ERR1700722_15568042/639-829                                         DE [subseq from] ERR1700722_15568042
+#=GS SRR5882757_7345513/318-493                                          DE [subseq from] SRR5882757_7345513
+#=GS SRR5882757_7345513/647-807                                          DE [subseq from] SRR5882757_7345513
+#=GS ERR1700677_2599725/342-532                                          DE [subseq from] ERR1700677_2599725
+#=GS SRR5918999_76774/180-359                                            DE [subseq from] SRR5918999_76774
+#=GS SRR5882757_5380715/371-557                                          DE [subseq from] SRR5882757_5380715
+#=GS A0A1M6X7V9_PSETH/157-337                                            DE [subseq from] A0A1M6X7V9_PSETH
+#=GS SRR5882757_74815/569-757                                            DE [subseq from] SRR5882757_74815
+#=GS ERR1700677_5051635/182-370                                          DE [subseq from] ERR1700677_5051635
+#=GS SRR5882757_129670/243-431                                           DE [subseq from] SRR5882757_129670
+#=GS SRR6185312_7040739/228-403                                          DE [subseq from] SRR6185312_7040739
+#=GS SRR6478736_6090433/44-217                                           DE [subseq from] SRR6478736_6090433
+#=GS SRR4051794_692484/236-413                                           DE [subseq from] SRR4051794_692484
+#=GS SRR3569833_649156/565-730                                           DE [subseq from] SRR3569833_649156
+#=GS SRR6478609_3795971/331-499                                          DE [subseq from] SRR6478609_3795971
+#=GS SRR5882762_8690974/378-545                                          DE [subseq from] SRR5882762_8690974
+#=GS SRR3954469_23033829/226-394                                         DE [subseq from] SRR3954469_23033829
+#=GS SRR5580658_3394076/242-411                                          DE [subseq from] SRR5580658_3394076
+#=GS SRR6478672_4101785/506-684                                          DE [subseq from] SRR6478672_4101785
+#=GS SRR5882757_1018426/292-457                                          DE [subseq from] SRR5882757_1018426
+#=GS SRR5664280_1023584/786-951                                          DE [subseq from] SRR5664280_1023584
+#=GS SRR5882757_3794086/321-488                                          DE [subseq from] SRR5882757_3794086
+#=GS SRR6478609_3301712/601-775                                          DE [subseq from] SRR6478609_3301712
+#=GS SRR3954453_6595310/422-588                                          DE [subseq from] SRR3954453_6595310
+#=GS SRR6266498_1229344/224-399                                          DE [subseq from] SRR6266498_1229344
+#=GS SRR3954447_25091019/613-775                                         DE [subseq from] SRR3954447_25091019
+#=GS SRR4029078_6866993/17-180                                           DE [subseq from] SRR4029078_6866993
+#=GS SRR3954452_2044039/529-692                                          DE [subseq from] SRR3954452_2044039
+#=GS SRR6478735_4409619/524-695                                          DE [subseq from] SRR6478735_4409619
+#=GS SRR4051812_2581185/746-915                                          DE [subseq from] SRR4051812_2581185
+#=GS SRR5215475_3619145/370-557                                          DE [subseq from] SRR5215475_3619145
+#=GS SRR5437764_3795250/236-340                                          DE [subseq from] SRR5437764_3795250
+#=GS SRR5437764_3795250/491-588                                          DE [subseq from] SRR5437764_3795250
+#=GS ERR1700712_160575/284-453                                           DE [subseq from] ERR1700712_160575
+#=GS SRR3954464_15851031/1030-1201                                       DE [subseq from] SRR3954464_15851031
+#=GS SRR2546421_2373908/573-760                                          DE [subseq from] SRR2546421_2373908
+#=GS SRR2546423_552312/462-644                                           DE [subseq from] SRR2546423_552312
+#=GS SRR5579863_288961/434-609                                           DE [subseq from] SRR5579863_288961
+#=GS SRR3546814_577506/237-366                                           DE [subseq from] SRR3546814_577506
+#=GS SRR6478735_990830/212-379                                           DE [subseq from] SRR6478735_990830
+#=GS SRR3954453_6570229/266-452                                          DE [subseq from] SRR3954453_6570229
+#=GS SRR5882757_965163/195-374                                           DE [subseq from] SRR5882757_965163
+#=GS ERR1700722_15031479/235-419                                         DE [subseq from] ERR1700722_15031479
+#=GS SRR5699024_7763442/2-159                                            DE [subseq from] SRR5699024_7763442
+#=GS SRR4051794_2977141/350-469                                          DE [subseq from] SRR4051794_2977141
+#=GS SRR5437764_649587/432-536                                           DE [subseq from] SRR5437764_649587
+#=GS R4LVY7_MYCTX/169-280                                                DE [subseq from] R4LVY7_MYCTX
+#=GS SRR3546814_18026671/25-159                                          DE [subseq from] SRR3546814_18026671
+#=GS SRR5690349_22648666/1-118                                           DE [subseq from] SRR5690349_22648666
+#=GS SRR5689334_2381760/1-158                                            DE [subseq from] SRR5689334_2381760
+#=GS Q0S3I6_RHOJR/154-328                                                DE [subseq from] Q0S3I6_RHOJR
+#=GS SRR3546814_595772/340-457                                           DE [subseq from] SRR3546814_595772
+#=GS SRR5579875_3069522/432-601                                          DE [subseq from] SRR5579875_3069522
+#=GS SRR5690348_15326377/2-159                                           DE [subseq from] SRR5690348_15326377
+#=GS SRR5262249_11606903/227-418                                         DE [subseq from] SRR5262249_11606903
+#=GS SRR3954468_639521/37-151                                            DE [subseq from] SRR3954468_639521
+#=GS SRR5689334_17045666/10-137                                          DE [subseq from] SRR5689334_17045666
+#=GS SRR3954469_1026311/2-170                                            DE [subseq from] SRR3954469_1026311
+#=GS SRR6478736_5988504/9-118                                            DE [subseq from] SRR6478736_5988504
+#=GS SRR5581483_6025193/177-321                                          DE [subseq from] SRR5581483_6025193
+#=GS SRR5689334_4664240/239-365                                          DE [subseq from] SRR5689334_4664240
+#=GS SRR5689334_20447199/2-139                                           DE [subseq from] SRR5689334_20447199
+#=GS SRR5689334_18246123/2-158                                           DE [subseq from] SRR5689334_18246123
+#=GS SRR5690606_7960004/5-138                                            DE [subseq from] SRR5690606_7960004
+#=GS SRR6059036_1446498/2-103                                            DE [subseq from] SRR6059036_1446498
+#=GS A0A1A3JNT2_9MYCO/152-327                                            DE [subseq from] A0A1A3JNT2_9MYCO
+#=GS SRR6266545_895399/290-455                                           DE [subseq from] SRR6266545_895399
+#=GS SRR5215469_6411099/456-535                                          DE [subseq from] SRR5215469_6411099
+#=GS SRR5215469_6411099/800-961                                          DE [subseq from] SRR5215469_6411099
+#=GS SRR5437763_3668782/3-141                                            DE [subseq from] SRR5437763_3668782
+#=GS ERR671922_480461/173-347                                            DE [subseq from] ERR671922_480461
+#=GS SRR6516162_9774910/204-285                                          DE [subseq from] SRR6516162_9774910
+#=GS SRR6516162_9774910/534-695                                          DE [subseq from] SRR6516162_9774910
+#=GS SRR3954452_1760472/219-376                                          DE [subseq from] SRR3954452_1760472
+#=GS X8AC78_MYCAV/151-333                                                DE [subseq from] X8AC78_MYCAV
+#=GS SRR5581483_638727/277-434                                           DE [subseq from] SRR5581483_638727
+#=GS SRR6202047_270365/108-162                                           DE [subseq from] SRR6202047_270365
+#=GS SRR6202047_270365/233-295                                           DE [subseq from] SRR6202047_270365
+#=GS X8CVC8_MYCIT/677-841                                                DE [subseq from] X8CVC8_MYCIT
+#=GS SRR6266540_3359644/2-120                                            DE [subseq from] SRR6266540_3359644
+#=GS SRR4051812_10052005/408-582                                         DE [subseq from] SRR4051812_10052005
+#=GS ERR1700712_1453707/2-153                                            DE [subseq from] ERR1700712_1453707
+#=GS TergutCu122P5_1016488.scaffolds.fasta_scaffold666336_5/8-177        DE [subseq from] TergutCu122P5_1016488.scaffolds.fasta_scaffold666336_5
+#=GS SRR5580765_7047788/4-167                                            DE [subseq from] SRR5580765_7047788
+#=GS SRR3954447_9634908/259-426                                          DE [subseq from] SRR3954447_9634908
+#=GS SRR6516164_7231934/157-225                                          DE [subseq from] SRR6516164_7231934
+#=GS A0A0U1DIE3_9MYCO/681-850                                            DE [subseq from] A0A0U1DIE3_9MYCO
+#=GS A0A0H5RVI8_9MYCO/631-800                                            DE [subseq from] A0A0H5RVI8_9MYCO
+#=GS SRR2546429_338525/354-411                                           DE [subseq from] SRR2546429_338525
+#=GS SRR3546814_7153313/124-204                                          DE [subseq from] SRR3546814_7153313
+#=GS ERR1700739_3606884/227-394                                          DE [subseq from] ERR1700739_3606884
+#=GS SRR3546814_10941801/62-124                                          DE [subseq from] SRR3546814_10941801
+#=GS SRR5438309_2368827/148-269                                          DE [subseq from] SRR5438309_2368827
+#=GS SRR3954454_12910414/66-212                                          DE [subseq from] SRR3954454_12910414
+#=GS SRR3954469_1975435/221-378                                          DE [subseq from] SRR3954469_1975435
+#=GS ERR1700722_11665215/422-554                                         DE [subseq from] ERR1700722_11665215
+#=GS ERR1700730_13954005/222-287                                         DE [subseq from] ERR1700730_13954005
+#=GS SRR5579863_8919283/29-153                                           DE [subseq from] SRR5579863_8919283
+#=GS SRR3954466_15072214/2-126                                           DE [subseq from] SRR3954466_15072214
+#=GS SRR4051794_18886535/42-130                                          DE [subseq from] SRR4051794_18886535
+#=GS SRR5947209_1613693/363-536                                          DE [subseq from] SRR5947209_1613693
+#=GS SRR5919106_2448304/313-476                                          DE [subseq from] SRR5919106_2448304
+#=GS SRR4051812_47053329/2-177                                           DE [subseq from] SRR4051812_47053329
+#=GS SRR5712692_433972/243-385                                           DE [subseq from] SRR5712692_433972
+#=GS OpeIllAssembly_1097287.scaffolds.fasta_scaffold581035_1/51-171      DE [subseq from] OpeIllAssembly_1097287.scaffolds.fasta_scaffold581035_1
+#=GS SRR5713101_765220/320-492                                           DE [subseq from] SRR5713101_765220
+#=GS A0A200GNP9_MYCPC/171-310                                            DE [subseq from] A0A200GNP9_MYCPC
+#=GS SRR5437763_1118084/7-127                                            DE [subseq from] SRR5437763_1118084
+#=GS SRR5581483_3462113/261-387                                          DE [subseq from] SRR5581483_3462113
+#=GS SRR5581483_3462113/618-748                                          DE [subseq from] SRR5581483_3462113
+#=GS X8B5I0_MYCAV/162-298                                                DE [subseq from] X8B5I0_MYCAV
+#=GS X8B5I0_MYCAV/539-671                                                DE [subseq from] X8B5I0_MYCAV
+#=GS SRR5919198_1499114/2-101                                            DE [subseq from] SRR5919198_1499114
+#=GS GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold970268_2/26-156 DE [subseq from] GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold970268_2
+#=GS SRR5437764_2900920/352-478                                          DE [subseq from] SRR5437764_2900920
+#=GS SRR5437660_1713481/6-131                                            DE [subseq from] SRR5437660_1713481
+#=GS SRR5437660_1713481/203-310                                          DE [subseq from] SRR5437660_1713481
+#=GS M3TSE7_9ACTN/182-317                                                DE [subseq from] M3TSE7_9ACTN
+#=GS SRR5438094_9224422/3-137                                            DE [subseq from] SRR5438094_9224422
+#=GS ERR1700733_14022830/396-523                                         DE [subseq from] ERR1700733_14022830
+#=GS SRR6202000_3428539/250-405                                          DE [subseq from] SRR6202000_3428539
+#=GS SRR5579875_71823/354-504                                            DE [subseq from] SRR5579875_71823
+#=GS SRR5581483_880941/393-529                                           DE [subseq from] SRR5581483_880941
+#=GS SRR5579875_653727/608-750                                           DE [subseq from] SRR5579875_653727
+#=GS SRR5919106_2705091/165-319                                          DE [subseq from] SRR5919106_2705091
+#=GS SRR5580704_5963657/420-562                                          DE [subseq from] SRR5580704_5963657
+#=GS SRR3984957_8864128/392-555                                          DE [subseq from] SRR3984957_8864128
+#=GS SRR5690625_728848/246-414                                           DE [subseq from] SRR5690625_728848
+#=GS SRR5947209_5693835/3-103                                            DE [subseq from] SRR5947209_5693835
+#=GS SRR4029078_6225441/1-113                                            DE [subseq from] SRR4029078_6225441
+#=GS SRR4051812_15259833/226-340                                         DE [subseq from] SRR4051812_15259833
+#=GS SRR3954452_17549584/287-417                                         DE [subseq from] SRR3954452_17549584
+
+T1137s2                                                                     LEPEKVNTIATSLITIFQGQGGTINDI---LDQTAQLTASLADRDQAIGEVIKNLNTVL----DTTVR---HQK----QFDETLVNFET-LITGL----KNRADPIATSVADISDA-AGSLADLLS--DNR-P-LL-KDTIGYL-DVIQAPL--VE--QK-Q--E--V-SD-ILVQ-MPQA-L---KII-GRA---G--G
+ERR1700712_3606117/99-292                                                   LDPDKVNTIATSIITIFQGQGGTINDI---LDQTASLTSALADRDQAIGEVVKNLNTVL----ATTVK---HQQ----QFDETVKNFET-LVTGL----KNRADPIASSVADISNA-AGSVADLLG--DNR-P-LL-QKTVTNL-EILQQPL--VD--QK-D--Q--L-ND-TLIK-IPAA-L---KII-GRA---G--G
+#=GR ERR1700712_3606117/99-292                                           PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.***...*..*
+SRR5580693_8657307/679-872                                                  LDPEKVNNIASAIITVFQGQGGTINDI---LDQTAQLTAHIAERDQAIGEVVKNLNIVL----DTTVR---HRA----QFDQTVDNFEK-LITGL----NNHAEPLAANTANISNA-AGTVADLLA--DNR-A-LV-HDTLNYL-DPIQQTI--VD--QR-D--K--Y-DD-LLHR-IPTG-V---NTV-GRA---V--G
+#=GR SRR5580693_8657307/679-872                                          PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.***...*..*
+SRR3984885_12033178/444-635                                                 LDPQKVNSIASSIITVFQGEGGTINDI---LDQTAQLTDRLAESDQAIGDVIHNLNTVL----DTTVR---HRD----QFDATIDKFDL-LITGL----KDRATPLADGTAHISNA-AGTIADLLA--DNR-A-LV-HDTVDRL-ETLAGPL--VE--QR-D--R--I-GD-LVGK-VPAA-F---NII-GRA---S--G
+#=GR SRR3984885_12033178/444-635                                         PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.***...*..*
+SRR6516165_6500255/706-898                                                  LDPGKVNTIAQALIAVLQGQGGTISDI---LDQIAQFTSTLAERDQTIGEVINNLNTVL----DTTVK---HQK----QFDDTVKNFEV-LITGL----KNHKDPIADSTVAISNT-VATVADLLA--DNR-P-LL-HDTLGHL-ETILLPL--VD--NK-D--D--L-ND-MLRR-APDG-L---KII-GRA---G--G
+#=GR SRR6516165_6500255/706-898                                          PP 78*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.***...*..*
+ERR1700751_1592527/1-186                                                    -----VNTIASAIIHVFQGPGGTINDI---LDQTAQLTAHIAERDQAIGEVVKNLNIVL----DTTVR---HRN----EFDQTVDNFEK-LITGL----ENHADPLAAGVAKISNA-AGTVADLLA--DNR-A-LL-HKEINYL-QALQQPL--VD--QR-D--Q--L-SD-LIHK-TPTA-L---NLI-GRS---I--G
+#=GR ERR1700751_1592527/1-186                                            PP .....7*********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.***...*..*
+SRR5574337_116662/287-469                                                   LTPEKINTITSAIITVFQGQGGTISDI---LDQTAQLTSTIAERDRAIGDVVKNLNIVL----DTTVR---HRV----EFDQTVDNLEK-LVTGL----KNHADPLADGVARISNA-AGTLADLLA--EDR-P-LL-QKTVKRT-EGVAQPL--ID--QG-D--D--L-DQ-TLRD-LPGA-I---KAF-GRT------G
+#=GR SRR5574337_116662/287-469                                           PP 67*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**8......6
+SRR5579875_1468038/37-200                                                   LDPDKVNRIAQSIITVFQGQGGTISDI---LDQTASLTSTLADRDRAIGEVINNLNVVL----STTVK---HQK----DFDRTVHNFEV-LITGL----RHRADPLATAVAHISNA-AGTLADLLT--ENQ-T-LL-HSTVGYL-EGIQQPL--ID--EM-P--Q--V-DD-VLTK-LPGA-Y---RLI-GRS---G--G
+#=GR SRR5579875_1468038/37-200                                           PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.***...*..*
+ERR1700712_80697/261-450                                                    LDPDQVNALTGQLIQAFQGQGATINSF---LTQTGALTSTLADRDQLIGQVITNLNTVL----GSLGD---ENK----QFDKAVTSLSE-LVSGL----SGRKQDISNAVAYANSA-AGGVADLLA--QAR-P-PL-KKVVAET-DRTASNV--LG--DQ-G--F--L-DN-LLAT-LPDA-Y---QVL-NRQ------G
+#=GR ERR1700712_80697/261-450                                            PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.***9999..99..99.9..9..9.**.****.****.*...***.997......6
+SRR5882757_5821731/690-880                                                  LDPNQVNALSGELISAFQGQGDTIGSF---LTQTAALTSTLADRDQLIGQVVVNLNTVL----GSLAG---QGD----QFAKAVESLSS-LVAGL----QARKQGLSNGLAYANAA-TASISDLLA--QAR-P-PL-KDALTQT-DRVASTV--LA--DK-D--F--F-DD-YLNT-LPDA-Y---HVL-TRQ------A
+#=GR SRR5882757_5821731/690-880                                          PP 78*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.997......6
+SRR5882757_2406290/427-617                                                  LDPNQVNALSGELISAFQGQGDSIGSF---LTQTAALTGALADRDQLIGQVVVNLNTVL----GSLAG---QGD----QFAKAVDSLSS-LIAGL----ESRKKDISTGLAYANAA-TASISDLLA--QAR-P-PM-KDALTQT-DRVASTV--LA--DK-D--F--F-DD-FLNT-LPDA-Y---HVL-TRQ------A
+#=GR SRR5882757_2406290/427-617                                          PP 78*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.997......6
+ERR1700722_15568042/639-829                                                 LDPQKVNELSGQLIQAFQGQGPTIGSF---LDQAAAVTNTLADRDELIGQVIINLNVVL----GSLGG---QTD----KLDKAVTSLSE-LVHGL----AARRTDISSSVAYINSA-AGTVADLLS--QAR-Q-PF-QKVVHET-DRTAGIA--VA--DH-D--Y--L-DN-LLNQ-LPDK-Y---KAL-ARQ------G
+#=GR ERR1700722_15568042/639-829                                         PP 79*************************...*****************************....***99...99*....***********.*****....*****************.*********..***.9.99.99*****.**99999..99..99.9..9..*.**.****.****.*...***.*97......6
+SRR5882757_7345513/318-493                                                  LDPQQVNELTGQLIGAFQGQGPTIESF---LAHTAELTNTLADRDQLVDQVITNLNTVF----GSLRE---QND----QFAKAIDSLSE-LLKTL----AGRKGDISTAVAYTNDA-AKTVADLLV--QAR-P-AL-QKTVHEG-DRTAGLV--MA--DR-D--Y--V-DD-LLAT-LPEA-Y---QAL-ARQ------G
+#=GR SRR5882757_7345513/318-493                                          PP 79*************************...*****************************....99888...889....***********.*****....*****************.*********..***.*.**.*******.*999988..99..99.9..9..*.**.****.****.*...***.*97......6
+SRR5882757_7345513/647-807                                                  ------NQLSDSLSTLAQAFANTPPELQAAVQGVARFSETLDRRDQELRAFLSDARGVT----QVLAD---RSD----QIVGLIGNTNA-LLVSL----QSQSSALDQIFYSVSAL-SQQLSGFVA--DNR-Q-QL-KPALDKL-NGVLAII--DN--RK-D--N--V-KK-SLKL-LTTY-L---LSL-GES---V---
+#=GR SRR5882757_7345513/647-807                                          PP ......5666777777777666654431116678999999999****************....**999...9**....***********.*****....****9999999999999.99*******..***.*.**.*******.******9..9*..**.*..*..*.**.**99.9999.9...999.987...5...
+ERR1700677_2599725/342-532                                                  LDPDQVNALSGQLLQIFQGQGAPLASV---LAQTSVLTSTLAGRSELIGELITNLNTVL----HTFAA---RDH----EFSDGLDKLSQ-FVDGL----AQRKTDISTGLAYINAA-AGSVTDLLV--QSR-Q-PI-KDVVRET-DRMSGQV--LS--DR-E--Y--F-DK-LLKD-LPDV-Y---QVL-ARQ------G
+#=GR ERR1700677_2599725/342-532                                          PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.9..9..9.99.****.****.*...***.*97......6
+SRR5918999_76774/180-359                                                    LDPEQVNQLSFEIIQVLQGQGGTIQSL---LASTASLTHTLADRDELIGQVIDNLNAVL----ETINS---HDQ----ELSELISSLRA-LVSGL----AEDREPIGEAIVSIGEL-TNVTAGFVD--DAR-P-AL-RDDIGLL-GDLSENL--NA--QD-E--K--L-EQ-TIQN-LPVK-L---ESV-ARA---A---
+#=GR SRR5918999_76774/180-359                                            PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...7...
+SRR5882757_5380715/371-557                                                  LSPDDVNRLSYEIIQVFQGEGGTVDDL---LAHTASLTTTLANKDQLIGQVITNLNTVL----TTINQ---RDQ----KLSNLIVQLQR-LVTGL----AQDRGAIGGSLSGINKL-ATTTADLLA--EGR-P-AL-KSDIGQL-RKVATTL--NG--SS-D--T--L-NG-VLQR-LPNK-L---GTL-TRT---A---
+#=GR SRR5882757_5380715/371-557                                          PP 679************************...*****************************....99888...888....9999*******.*****....**99*************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.*98...6...
+A0A1M6X7V9_PSETH/157-337                                                    LDPEQVNTLADEVIQVLQGQGGTIESL---LASTASLTKTLADKDAVIGELIDNLSGVL----ESVTE---RND----QLNDLIVGLRE-LVAGL----AEDREPIGEAISSIGDL-AVTTAGLLE--EGR-P-AL-QADIAAL-GALAGEL--HE--GE-P--V--I-EH-YLQF-APYK-L---NKI-ARA---G---
+#=GR A0A1M6X7V9_PSETH/157-337                                            PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..*9.9..9..9.99.9999.9***.*...***.**9...7...
+SRR5882757_74815/569-757                                                    LNPEDVNALSASLIQVLQGEGGTLESL---LSKTSSFSNSIADNNGVVGQLIENLKNTL----DTLSK---NGD----QFSGAIDRLEQ-LITGL----SKDRDPIGNAIVSLSSG-TAALSDLLT--EAR-P-PL-AGTVDQL-NRLAPLL--AD--DK-D--R--L-SA-ALER-APNN-Y---RKL-ARL---G---
+#=GR SRR5882757_74815/569-757                                            PP 68*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*998888..99..**.*..*..*.**.****.****.*...***.**9...6...
+ERR1700677_5051635/182-370                                                  LNPQDVNALSASLIEGFQGEGGTLESL---LSKTSSFSNALADNNQTVQELIDNLNTVV----GTVDK---EGT----KFSGAIDRLER-LISGL----SQDRDTIGTAITALDNG-TASIADLLS--RAR-P-PL-AGTIDQL-NRL-APL--LD--KD-K--N--L-ID-VSLQKLPNN-Y---RKL-RRL---G---
+#=GR ERR1700677_5051635/182-370                                          PP 679************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.987.899..99..99.9..9..9.99.866538*99.9...999.887...5...
+SRR5882757_129670/243-431                                                   LDPEQVNKLSVNLLATLQGEGDSVNTL---LASVSSLTGTLAERDQVIGEVITNLNTVM----GTLDA---HDS----ELSDLISQLQQ-LVTGL----SSDRDPIADAIVHVNEL-ADGASDLLE--QLR-P-DL-RTTLERV-NTVSTTL--NQ--NS-Q--I--V-ND-SLRD-LGPV-Y---DRV-SDI------G
+#=GR SRR5882757_129670/243-431                                           PP 79*************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.9998.8...888.765......7
+SRR6185312_7040739/228-403                                                  --GDKVNEISNAIIELLQGQGGPLSDL---LSSTGSFSQNLADRYQVISDVIHNLNTVL----TTVDQ---KSA----QFDTSIDQLQK-LVTGL----AQGRDPIAGALSPLASA-ASDLTDVLQ--NSR-R-PI-QGVIENI-RPLATEM--DN--RK-D--E--I-NR-VIEP-LAEN-Y---LRL--NA---L--G
+#=GR SRR6185312_7040739/228-403                                          PP ..68***********************...*****************************....*9999...9**....***********.*****....*****************.*********..*99.9.99.*******.*******..**..**.*..*..*.**.9988.8776.5...444..57...7..8
+SRR6478736_6090433/44-217                                                   -DGAKVNEVSSAVIELLQGQGGAVSDL---LSTTSAFTQNLPARDQLIGDVINNLNTVL----GTVDE---KGA----QFDASVDQLQK-LLTGL----AQGRDPIAGAIQPLATA-ENDLTDMLQ--KSR-R-PV-QGVIENV-RPLAQRM--DE--RK-G--D--I-NK-VIEP-LAEN-Y---LRL--NA---L--G
+#=GR SRR6478736_6090433/44-217                                           PP .5679**********************...*****************************....*****...***....***********.*****....*****************.*********..999.9.99.9999999.9999999..9*..**.*..*..*.*9.9988.8776.5...444..57...7..8
+SRR4051794_692484/236-413                                                   LSPSDINQLSFEIVQVLQGEGSTVNSL---LARTASLTSTLADRDAVIGSLINNLNTVL----DTVNA---RAD----RLSGLIVSLQQ-LVSGL----AADRVAIGSTLQPIADL-TTTTAGLLT--EAR-P-PL-RDDIIQL-GQLSANL--NA--NR-D--D--V-ER-FLRL-TPQK-A---NNF-GRA---G---
+#=GR SRR4051794_692484/236-413                                           PP 67999**********************...*****************************....**999...999....***********.*****....9888899999*******.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...7...
+SRR3569833_649156/565-730                                                   LRPKDVNQLSAELISVFQGEGGTITSL---LQHTASLTTAIASKDQVIGQVIANLNTVL----GTVNS---RGP----QLGDLIEQTQK-LVSGL----AEQRKPIGDAVSALGDL-AVSTTGLLA--DAR-P-AL-KDDVDRL-GVLSQHL--GD--SG-V--L--L-NH-LLEV-LPGN-L---QKF-TRT---L---
+#=GR SRR3569833_649156/565-730                                           PP 6799***********************...*****************************....***99...9**....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...*99.998...6...
+SRR6478609_3795971/331-499                                                  LNPQQINDLSLNLVQVLQGEGGTVQGL---LEKTASLTNTLADRDDLIGEVVDNLSTTL----ATVDS---RHQ----ELNDLVVGLKD-WMTDL----ARDRSTIGASLEHISDL-TVVVADLVS--EGR-P-LL-KSDVAKL-RKLAALLNKKE--SK-A--Q--I-TE-MLDR-LPES-M---TDQ-TRT------G
+#=GR SRR6478609_3795971/331-499                                          PP 689************************...*****************************....99876...566....78999******.*****....99999************.*********..***.*.**.*******.*9999873347..78.9..9..*.**.****.****.*...998.887......6
+SRR5882762_8690974/378-545                                                  LDPKQVNQLSYEVIQVFQGEGATIDNL---LSQTAQLTSTLADKDQVIGEVIDNLNEVL----QTVND---RGD----ELADMITTLQQ-LVSGL----AQDRGAIGSAITGISGL-TTSVSSLLD--QGR-A-PL-KASIESL-GALSTNF--AN--EA-P--L--V-NQ-FLHN-LPTK-L---NSI-GKL---A---
+#=GR SRR5882762_8690974/378-545                                          PP 78*************************...*****************************....**999...999....9999*******.*****....**99*************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...6...
+SRR3954469_23033829/226-394                                                 LDPKQVNELSLNLVQVLQGEGGTVQEL---LAHTASLTNTLADRDQLIGQVVNNLTQTL----DTVDQ---RHQ----EVNTLVTQLQR-WMGGL----ARDRNTIGDSLGNISDL-TVVVADLLR--QGR-P-LV-KSDVVKL-KKLAKLL--NEPQNQ-Q--Q--I-TE-LLDR-LPES-M---TDQ-TRT------G
+#=GR SRR3954469_23033829/226-394                                         PP 78*************************...*****************************....*9877...666....778777899**.*****....*****************.*********..***.*.**.*999999.9887777..653246.8..9..*.**.****.****.*...998.887......6
+SRR5580658_3394076/242-411                                                  LSPNQVNQLAGSIIDVFQGESGTVSDV---VQQTAVLTDNLADRQQVIDTLLNSLSSLL----DTVGV---HDT----QLGQLIGNFDT-LVTGL----ANSRGQLGSAITNLATA-ESTTSNLIN--EAQ-P-TL-NEDIQTL-SQAVQSL--SA--NQ-Q--G--L-SG-VLQG-FPGL-V---TAL-TKI---Q--S
+#=GR SRR5580658_3394076/242-411                                          PP 6799***********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*****99.9887889..99..99.*..*..*.**.****.***9.9...999.998...7..6
+SRR6478672_4101785/506-684                                                  LSPADVNKLSYEVIQVFQGEGGTLEGL---LSHTASVTSTLADRDKVIGSLIDNLNQVL----DHIGD---RDD----QLSSLIKTFRT-FVGGL----KNDRQAILGSLDQISQL-SVQTAGLVS--GIR-T-PF-VDDIKQL-RSVAGTL--DR--NK-S--E--L-DR-ALQV-LPIK-L---NKV-GRT------A
+#=GR SRR6478672_4101785/506-684                                          PP 57999**********************...*****************************....*****...***....***********.*****....*****************.*********..***.9.99.9******.*******..**..**.*..*..*.**.****.****.*...***.**8......6
+SRR5882757_1018426/292-457                                                  LSPDQVNRVSGELVTVLQGEGGTIADL---LAALASVTSTLADRDRVIGDLVTNLDAVL----GKV-----NTG----ELGQLITQLQQ-LVSGL----DADRDQIGDAVTHIDAL-TGKTAALLN--LVR-P-PL-HDDIGHL-GQLANTL--NA--NK-D--S--I-TA-ALAE-LPDA-Y---QRL-TR----G--A
+#=GR SRR5882757_1018426/292-457                                          PP 689************************...*****************************....875.....456....8999*******.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...*99.88....7..8
+SRR5664280_1023584/786-951                                                  LAPQDVNQLSGEIISVLQGEGGNINAL---LSHTASLTSTLADRDQVIGATIGNLNAVL----GTVDA---HDK----ALGDLLDQLQR-FVTGL----AGDRAAIGSSLTNINNV-AGQTAGLLS--KGR-P-AI-QQDVANL-GSLVTML--NK--PS-STAA--F-EK-FLAT-SPGK-I---TSL-TRT------A
+#=GR SRR5664280_1023584/786-951                                          PP 5799***********************...*****************************....*****...***....***********.*****....*99999***********.*********..***.*.**.*999999.9888777..66..55.4114..5.67.8999.9999.9...999.997......5
+SRR5882757_3794086/321-488                                                  LQPADVNKLSENIVAVLQGADPEIDPL---LDQTTQLTNSIADRDQVIGSVITNLNTVL----DQLAG---KGP----ELDSLIDQSRR-LVNGL----NSNTDTIFGSVQRVREF-TGNAEDLIS--DIR-P-DI-RRDIRSA-SRAAEVY--AD--AK-S--D--L-SD-TLRA-FPPF-L---AGV-ARV---T---
+#=GR SRR5882757_3794086/321-488                                          PP 6899***********************...*****************************....*****...***....****9999***.*****....*****************.*********..***.*.**.9999999.9988899..9*..**.*..*..*.**.****.****.*...***.998...6...
+SRR6478609_3301712/601-775                                                  LSPSDVNELSGLLIQTLQGEGGDVNTL---LAKTASLTSAIADRDAVIGRTIDNLNTVL----GTVDA---HDQ----QLLSLIDQLQR-FTSGL----AADRETIGRSLSGINTL-SAETADLLV--STR-P-LI-KDDVSQL-RTLATTL--NKPANV-K--E--F-ED-FITG-APGR-I---TTL-TRT------A
+#=GR SRR6478609_3301712/601-775                                          PP 67999**********************...*****************************....*****...***....***99999***.*****....*****************.*********..***.*.**.*******.**99998..762246.8..9..9.**.****.****.*...***.998......5
+SRR3954453_6595310/422-588                                                  LSPSDVNELSYEIIQVFQGQGGTLDGL---LAHTATVTQTLARRDQVIGSLITNLNPVL----DHVGE---RNQ----QLNQLITTFQH-FVGGL----RHDRGAILGSLDQISQL-SPQTPALVS--GIR-A-PF-VSDIHHL-LGFAANL--DR--GK-A--E--I-DL-ALQV-MPIK-L---AKV-GRT---A---
+#=GR SRR3954453_6595310/422-588                                          PP 67999**********************...*****************************....****9...9**....***********.*****....*****************.*********..988.6.66.6668899.9999***..**..**.*..*..*.99.9999.****.*...***.**8...5...
+SRR6266498_1229344/224-399                                                  LRPAQVNELSYSIIRVFQGEGGTIDSL---LGQIASLTGTLADHDMLITRLIVNFNRVL----GTLDA---HSG----QFSDLARNLQS-VVHGL----ATDRIGIGNSLAGISNL-EAATAGLLS--QAR-P-PL-ASDIASL-GRVVGTL--DT--HR-A--R--L-DG-LLHR-LPGR-V---AAI-TSI------G
+#=GR SRR6266498_1229344/224-399                                          PP 6799***********************...*****************************....*****...***....***********.*****....*9999************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.9...999.766......5
+SRR3954447_25091019/613-775                                                 -TPTDVNRLSYEIIQVFQGEGGTVEDL---LSHVASLSSSLADKDAVIGSVIDNLTKVL----GNVAQ---RDQ----QLSNLIVSLQK-FVTGL----AVDRDAIFNSLQTINGL-ADTTSNLLS--QAR-P-PL-AADIRSL-GDLSTNL--AD--SK-D--V--L-QK-FLQL-APTK-I---DLI-TRT------A
+#=GR SRR3954447_25091019/613-775                                         PP .6899**********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.999****.*******..**..**.*..*..*.*9.9999.9***.*...***.997......6
+SRR4029078_6866993/17-180                                                   ----DINQLSYEIVQVFQGEGGTLEGL---LSHTASVTSTLADRDEIISARIDSLNEVL----DHLGS---RDD----QLNRLITTFRT-FVGGL----KDDRQAILGSLDQISTL-SVETADLVD--GIR-E-PF-VEDVKQL-RAVAENL--DR--NK-S--E--L-DR-ALQV-LPIK-L---EKV-GRT------A
+#=GR SRR4029078_6866993/17-180                                           PP ....6899999****************...*****************************....*****...***....***********.*****....*****************.********9..988.6.66.6678999.99999**..**..**.*..*..*.**.****.****.*...***.**8......6
+SRR3954452_2044039/529-692                                                  LSPDDVNRLSFELIQVFQGEGGTVESL---LGHVASLTSSLADKDAVIGSVIDNLNTVV----GTVAA---RDQ----QLSDLVVSLQE-FVSGL----SADRDAIFDSLQTIDGL-AVATTDLLE--QAR-A-PL-AADIQSL-GDLSTNL--AD--TG-D--V--V-EG-FLQL-APTK-I---DLI-TRT------A
+#=GR SRR3954452_2044039/529-692                                          PP 679************************...*****************************....*****...***....***********.*****....*****************.*********..999.7.77.7778889.9999***..**..**.9..9..9.99.9999.9***.*...***.997......6
+SRR6478735_4409619/524-695                                                  LNPDDVNALTSSLLQVLQGQGDTLESL---FTRTSSFTNALADHSAVIQQSIDNLRTVL----RTLSD---EDG----NLNAAIDKLDD-LVTGL----AQDREPIGEAIDALSAG-TASLADLLT--AAR-P-PL-AGSVGEL-NRL-APL--LD-KDK-E--K--V-ET-AIQK-SPAN-Y---RKL-VRL---G---
+#=GR SRR6478735_4409619/524-695                                          PP 679************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*98.676..66.156.6..7..7.77.7777.8988.8...888.898...6...
+SRR4051812_2581185/746-915                                                  LNPDDVNRLSYELVQVLQGEGGTIDTL---FRQVGSLTNTLADRDKLIGEVIDNLEATL----GPVAD---RDQ----QLSSLISNLQQ-FLTGL----SQDRQAIGSSLVSIDRL-TGTTASLLH--DVR-P-SL-AADIKHL-GVLAEKL--DTRASR-R--T--L-EH-FLTY-TPYK-L---KVS--TP---E--A
+#=GR SRR4051812_2581185/746-915                                          PP 679************************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.***9888..651156.7..8..9.99.****.****.*...*86..56...6..7
+SRR5215475_3619145/370-557                                                  LTPQDVNSLAYEIIQVLQGEGGTVTDL---LQHTASLATTLADRDAVIGQVITNLNSVL----STLDQ---HRD----DLSTTLAQLQQ-FISGL----AADRVAIGSAVQNIGGL-TSATASLLG--QVR-P-DL-AADLTGL-TSLSGIL--SA--NG-A--V--I-DQ-TLSK-LPEQ-Y---QALTGTA---S---
+#=GR SRR5215475_3619145/370-557                                          PP 5799***********************...*****************************....*****...***....***********.*****....988889999********.*********..***.*.88.8777778.8889999..99..99.9..9..9.99.9***.**98.8...7651555...4...
+SRR5437764_3795250/236-340                                                  LSPNDVNQLSAEIIQVFQGEGGTINSL---LAHTASITASIAGKDKVIGDVIANLNQVL----GTVNA---HGP----QLGDLIEQTQR-LVSGL----SEQRKPIGDAVSALGDL-AVALARLV---------------------------------------------------------------------------
+#=GR SRR5437764_3795250/236-340                                          PP 67999**********************...*****************************....*****...***....***********.*****....*****************.*9999875...........................................................................
+SRR5437764_3795250/491-588                                                  -----------------------LKDT---LNGLSSLAKTVSSRDSDLHTLLANTSQVS----KTLSD---RNS----QLQRVISDGNL-LLTEL----QNRKAAINALLTGTQKL-SEQLSGLVA--DNR-T-QL-KPTMDKL-GK-----------------------------------------------------
+#=GR SRR5437764_3795250/491-588                                          PP .......................6788...999999999********************....**999...99*....***********.*****....*******9999999999.99*******..***.*.**.*998877.54.....................................................
+ERR1700712_160575/284-453                                                   LTPTEVNQLSLNLVKVLQGEGGTIGSL---MTHTASLTNALADRDQLIGRVIDNLSGML----KVVDD---RHN----QLTTLVVQLKD-WMTNL----SHDRKAIGASATNLSGL-TAQVASLLT--QGR-P-YI-KSDVAQL-RRVMKQL--NK--PN-N--QAAL-DE-VLNR-LPVM-L---QRQ-TRT------G
+#=GR ERR1700712_160575/284-453                                           PP 57999**********************...*****************************....99988...888....99999******.*****....*****************.*********..***.*.**.*******.9998888..76..54.4..3116.78.999*.****.*...999.887......6
+SRR3954464_15851031/1030-1201                                               LSPADMNRLSFEIIQVFQGEGGTVQSL---LSHVASLTDSLADKDAVIGSVIENLTTVL----GSVAA---RDQ----QLSDLIVSLQQ-FVTGL----AGDRDAIFDSLQTIDGL-AQTASGFVA--DAR-P-PL-AADIQGL-GDLSSNL--AD--TG-D--V--L-EH-FLQL-APTK-I---DLI-TRT------A
+#=GR SRR3954464_15851031/1030-1201                                       PP 578899*********************...*****************************....*****...***....***********.*****....*****************.*********..***.9.88.8888888.889999*..*9..99.9..8..8.88.8888.9***.*...***.997......6
+SRR2546421_2373908/573-760                                                  LTPNDVNALAYDVIQVLQGESGTVTGL---LQHTASLATALANRDTVIGQVISNLNAVL----TTLDS---NRN----TLSDTIFQLQQ-FVSGL----SADREAIGAAVQNISGL-TAATASLLG--DAR-P-DL-SHDITEL-GALSGIL--DA--NE-S--V--I-DK-TLAT-LPGE-Y---QAL-TRT---A--S
+#=GR SRR2546421_2373908/573-760                                          PP 57999**********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.***9988..88..88.8..8..8.88.9***.****.*...***.998...7..5
+SRR2546423_552312/462-644                                                   LTPQDVNSLAYEIIQVLQGEAGTVTGL---LRHTASLATTLAPRDHGIGQVITNLNSVL----STLDT---NRC----ALDQTMAQLQQ-FVSGL----AADRTAIAAAVSNISQL-TVATEGLLA--QAR-P-DL-AHDISGI-GSLATLL--NA--NT-D--V--I-DS-TLAK-LPGQ-Y---RAM-TRT---A---
+#=GR SRR2546423_552312/462-644                                           PP 5799***********************...*****************************....*****...***....***********.*****....*9999************.*********..***.*.99.9999999.8886655..55..56.6..6..6.67.899*.****.*...***.998...6...
+SRR5579863_288961/434-609                                                   LSPSTVNQLSTELVQLFQGEGGTVQSL---VANIGSLTSTLAAKSKVIDELIGNLNAVL----ATVNS---RGS----ELSDLITTLQQ-LVSGL----AADRQPIGNAISAIGSL-TNSVAGLLQ--VAN-P-PL-QQDITQL-GRLSGNL--AA--AT-P--T--V-NL-FLQR-LPVK-M---TDI-ARL---A---
+#=GR SRR5579863_288961/434-609                                           PP 67999**********************...*****************************....*9999...999....***********.*****....*****************.*********..999.9.99.999****.*******..**..**.*..*..*.**.****.****.*...***.**9...6...
+SRR3546814_577506/237-366                                                   LDPEDVNDLSAQIIAVFQGEGATVDGL---LSNTASLTSAIAEKDQVIGELITNLNTVL----TTISN---PSD----QLDTTITTLQQ-LVSGL----AEDRKVIGGTLEGLGDL-TVSVADLLE--EGR-A-PL-KGSLAAL-GDLSETL--AD--TE----------------------------------------
+#=GR SRR3546814_577506/237-366                                           PP 79*************************...*****************************....99999...9**....***********.*****....**99*************.*********..***.*.**.**99999.8777777..66..55........................................
+SRR6478735_990830/212-379                                                   LRPADVNKLATEITAVLQGQGPTINDL---TAQTAKLTSHLAQRDEVIGRVITNMSVVM----QTTAA---HRE----DLGVMIGELSK-LTHGL----AGDRQQIGTALDSMSHL-SIAMDDLAR--RTR-R-PL-TTDIGDI-NTLSGQV--NK--QT-D--L--L-TR-GLRG-APRL-L---DAY-ARS---M---
+#=GR SRR6478735_990830/212-379                                           PP 57999**********************...*****************************....*****...***....***********.*****....*****************.*******98..776.5.56.6669***.******9..99..99.9..9..9.99.9999.****.*...*99.998...6...
+SRR3954453_6570229/266-452                                                  --ADQINKLSYEVIQTLQGESGSFESL---LSTIADLTNALADKDKVIGQVIDNLSSVL----SAVAS---HDD----QLSDLIIQLRS-FVSGL----ASDRSTIGGAIDGINNL-AMSTAGLLT--QVRAP-LA-RD-VKSV-SRLAATL--DA--NK-S--T--I-KY-VINE-LPPT-V---AGL-IRT---A---
+#=GR SRR3954453_6570229/266-452                                          PP ..67899********************...*****************************....*****...***....***********.*****....*****************.********9..98835.55.55.6778.9999***..**..**.*..*..*.**.****.**99.9...888.777...5...
+SRR5882757_965163/195-374                                                   LQPAQVNQLSGELVSVLQGQGGTINSV---LAHAASFSGSLADQDKVIGSVITNLNIVL----DGLDS---HST----QLSDTVMQAQK-LVSQL----SADRKDITGGLHDTAKL-AHHIGDLAS--ALR-T--A-HGALHQL-GAAATRF--TD--DG-D--E--F-DR-ILGL-LPGA-Y---LRL-GRV---S---
+#=GR SRR5882757_965163/195-374                                           PP 689************************...*****************************....*****...***....***********.*****....9888889999******9.999999999..888.6..4.6788889.9999999..9*..**.*..*..*.**.****.****.*...***.**9...6...
+ERR1700722_15031479/235-419                                                 LSPTEVNQLAGSIIDIFQGEAGATSNI---ISEVATITDNLADRQNVINELLTNSASLL----RTVGS---HDA----DLGSLIGNFDT-LVKSL----AASKSQIGGAVSDVNTL-TNLAAHYFG--ESQ-P-QL-DQDIQRL-ATATNSL--VA--NQ-S--H--I-NS-FFQG-LPSL-L---NTA-AKI---Q---
+#=GR ERR1700722_15031479/235-419                                         PP 6799***********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.***9.9...998.887...5...
+SRR5699024_7763442/2-159                                                    ------------------------------------LTGAIADRDAAVGRVIDNLRTVL----AGFSE---RHD----ELDDAVDRAQQ-VAEQL----AEDHDDWGRAVAHIDAA-AGDVTRMLS--EAR-E-PL-SGTIGQL-RRAAAQL--DD--GS-D--T--L-VS-VLQR-LPAA-Y---DHL-SRL---G---
+#=GR SRR5699024_7763442/2-159                                            PP ....................................899********************....88776...667....89*********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...6...
+SRR4051794_2977141/350-469                                                  LSPNDVNAFALEIVKTLQGEGGTVADL---AAKSATLTNTIADRDAAIGGVVNNLLKVL----DTVAK---RDA----GLNQTVQQLQL-LVSGL----ASDRNTIAGSLQNIDNL-ANNSALLLE--QIR-P-YL-PSDITNL-G------------------------------------------------------
+#=GR SRR4051794_2977141/350-469                                          PP 67999**********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.*9.9887766.5......................................................
+SRR5437764_649587/432-536                                                   LSPNDVNQLSAEIIQVFQGEGGTINSL---LAHTASITASIAGKDKVIGDVIANLNQVL----GTVNA---HGP----QLGDLIEQTQR-LVSGL----SEQRKPIGDAVSALGDL-AVALARLV---------------------------------------------------------------------------
+#=GR SRR5437764_649587/432-536                                           PP 67999**********************...*****************************....*****...***....***********.*****....*****************.*9999875...........................................................................
+R4LVY7_MYCTX/169-280                                                        LNPEQVNALSEQLLHAFAGQGPTIGSL---LAQSAAVTNTLADRDRLIGQXITNLNVVL----GSLGA---HTD----RLDQAVTSLSA-LIHRL----XQRKTDISNAVAYTNAA-AGSVADLLS--QAR-A-PL----------------------------------------------------------------
+#=GR R4LVY7_MYCTX/169-280                                                PP 68*************************...*****************************....*****...***....***********.*****....*****************.*********..988.5.44................................................................
+SRR3546814_18026671/25-159                                                  ------------------------------------STGTLADRDELSGSVIDNLSTVL----TTIDD---HKG----DFDKIIVGLSG-LLDGL----AKDRHKIGSSLSPINTM-TVKAQELLE--VLR-P-EL-KATLKQV-DRVAIVV--NG--NS-D--Y--V-NE-MLGK-YPDV-I---AKL-GR----G--G
+#=GR SRR3546814_18026671/25-159                                          PP ....................................6899*******************....*****...***....***********.*****....99999************.*********..***.*.**.*******.**99888..88..99.9..9..*.**.****.****.*...***.*9....7..8
+SRR5690349_22648666/1-118                                                   -----------------------------------------AGRDELIGQVITNLDTVL----GTFAA---RDD----QFSEGLDNLSQ-LVQGL----ADRKNDIVTGTAYINAA-AGSVADLLT--DAR-Q-PI-KDFVQQS-DRVAGQI--EA--DH-D--Y--V-DD-LVKT-LPDA-Y---QVL-AR----N--G
+#=GR SRR5690349_22648666/1-118                                           PP .........................................579***************....*****...***....***********.*****....*****************.*********..***.*.**.*******.***9999..88..89.9..9..9.99.999*.****.*...***.99....5..7
+SRR5689334_2381760/1-158                                                    ------------------GQGSALEEL---LRHIASLTSTLGDRSALITQVINNLTAVL----DVVDG---HRS----DVTHLVDGLAD-LLDRV----ADDRKRIGASLASLSRT-TVTGTDFLR--TIR-P-PL-KATIAET-RRTAIVF--ND--ND-E--A--A-NR-YLPQ-LPTG-V---KAL-GR----G--G
+#=GR SRR5689334_2381760/1-158                                            PP ..................89*******...*****************************....*****...***....*99999999**.*****....99999************.*********..***.*.**.****988.7766666..67..77.7..7..7.88.9***.****.*...***.*9....7..8
+Q0S3I6_RHOJR/154-328                                                        IDPKQVNALATEVVAVFDGRKTSMETL---LRRVADVTGNLANHDQLIGDLIRNLEVVV----GTAAA---RGP----ELSH-LVDSLT-QFTGM----LAENNEVLMDTLDQSAA-VSRSALQIV--DGRVP-EL-SRTVEQL-HSLTGAM--LG--AN-P--E--F-DH-LMVA-MPEF-F---SSV-DRS---G---
+#=GR Q0S3I6_RHOJR/154-328                                                PP 589************************...*****************************....**999...999....9875.89999*.*****....99999999999999998.876665556..65549.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**8...6...
+SRR3546814_595772/340-457                                                   LSPDDLNTLAHNIVSVLQGESGSIESL---PGETADITSFLADRDEVFGDVVDNLTPVI----ENLSS---KSD----EFDTALVELKT-LVTEL----NKSSDEFFTPLATISKN-LASTTRLIN--DIR-P-SL-ERDIEA---------------------------------------------------------
+#=GR SRR3546814_595772/340-457                                           PP 6799***********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.99.876655.........................................................
+SRR5579875_3069522/432-601                                                  LAPAQVNELTGSIIAVLQGESGAVANL---VDQTATLTSNLAQRQTVIDELLDNLTPLL----THVNT---DDT----QLQTLIVGLDS-LVKGA----ATERDQVGGAVSGLSQL-TTSASNLLD--NVQ-P-TL-DQDIAGL-RSATGVL--LQ--NQ-G--G--L-NT-VLTG-LPGL-L---NAL-DKA---A--S
+#=GR SRR5579875_3069522/432-601                                          PP 57999**********************...*************************9999....88888...999....9*9999*****.*****....*****************.*********..***.*.**.9999999.999999*..**..99.*..*..*.**.****.****.*...***.**9...7..6
+SRR5690348_15326377/2-159                                                   --------------QVLQGEGGSIQNL---LQQTTQVTNFLADRDQIVGQVLTNLTPVL----TDFAG---QGT----QLASTVTSLRQ-LMDGL----AADRTSIGSSITHLSTL-ITSTSDLIQ--QARAP-IT-VNTHLFR-QVVETTN--AE---K-T--L--L-SK-ALVG-FAST-F---SAL-GRI---T--S
+#=GR SRR5690348_15326377/2-159                                           PP ..............689**********...*****************************....99999...99*....***********.*****....*9999************.********9..87659.99.99*99**.***9987..76...7.8..8..9.**.****.****.*...***.**9...7..5
+SRR5262249_11606903/227-418                                                 LSPGDVNQLSSEIIQVFQGESPNVTTL---VASVGSLTTTLSARDQVIGRVIENLNSVL----HTIGS---RSG----ELANFVSTLQE-LVSGL----AADRQSIGSAVSAIAGL-TSATAGLLR--VAR-P-PL-GGDITQL-GRLATNL--AN--NT-P--A--V-NS-FLQN-LPVK-M---SRI-ARL---A---
+#=GR SRR5262249_11606903/227-418                                         PP 57899**********************...*****************************....**999...999....99999999***.*****....*999*************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...6...
+SRR3954468_639521/37-151                                                    LSPADINQLSYEIVQVFQGEGGTLEGL---LAHTASVTSTLASRDQLIGDLIDNLNAVL----DHLGD---RDD----QLSQLIKTFRT-FVSGL----KDDRQAILGSLDQISEL-SVQTAGLVS--GIREP-FV-ED-------------------------------------------------------------
+#=GR SRR3954468_639521/37-151                                            PP 57999**********************...*****************************....*****...***....***********.*****....*****************.*******99..87625.55.55.............................................................
+SRR5689334_17045666/10-137                                                  --GDKVNQLAGAIVATLQGEGGNIGAL---LAQTADLTGTLAARDAALGRIIDNLSTVA----GTVAT---RDR----GLHELVVQLQA-LLPPL----AADRTSIGDSLQSADDL-PSTLAALLA--DAR-P-PL-AKALPQP-QVTVGLL--AS--RQ----------------------------------------
+#=GR SRR5689334_17045666/10-137                                          PP ..589**********************...*****************************....*****...***....***********.*****....999999***********.*********..***.*.99.9888777.7766655..54..44........................................
+SRR3954469_1026311/2-170                                                    --PQQVNDLSNDIIAILQGQTDRLSDL---VSKTAELTANLSSRDQTFSEILDSLTTLL----TTVAK---HDN----ELASAVTSLHT-LTAEL----QADGPALFNSLGSVDEL-TGSISGLLGALENH-N-LP--GDITDL-AAITDPL--AR--NS-A--T--L-NK-LVAG-FVKA-F---GDF-SRV---S---
+#=GR SRR3954469_1026311/2-170                                            PP ..99***********************...*****************************....*****...***....***********.*****....9999999**********.*******9743566.6.65..557789.999****..**..**.*..*..*.**.****.*999.9...999.998...6...
+SRR6478736_5988504/9-118                                                    -----------------------------------------------------------------------QSD----QFSKAIDSLDD-LVKGL----EVRKEDISNSVAYVNAA-AGSIADLLA--QAR-P-PF-AKTITET-DRAAGIV--VA--DH-D--Y--F-DN-LLNT-LPDA-Y---QAL-VRQ------G
+#=GR SRR6478736_5988504/9-118                                            PP .......................................................................567....9**********.*****....*****************.*********..***.*.**.*******.*999989..99..98.8..8..9.99.9999.****.*...***.997......6
+SRR5581483_6025193/177-321                                                  LQPADVNRLSDTIVAVLQSSGPEIVPL---LEQTATLTDTVADRDRIIGSVIDNLNTVL----DQLAS---KGP----QTDALIAQTRR-LVDGL----NADTDRIFGSLDQIREF-TGNARDLLG--DVR-SDLH-RDVRRAV-DATD-TY--AD--RK-G--A--L-GD-TLKG-FPGF-L---S-------------
+#=GR SRR5581483_6025193/177-321                                          PP 6899***********************...*****************************....*****...***....***********.*****....*****************.*********..*99.6255.6766677.7655.45..67..77.7..7..7.77.7777.7766.6...5.............
+SRR5689334_4664240/239-365                                                  LNPRDVNALAGDIIRTFQGEGMTVREL---ISRTGSLTSGLADRDRLIGSLIDSLGTTV----STVAR---RHD----QLEQLIDDVAS-FSVGL----ASDRKSIGAALQHLEVM-TALSADLLH--EAR-P-SL-REDIAQL-RLVARLL--G---------------------------------------------
+#=GR SRR5689334_4664240/239-365                                          PP 67999**********************...*****************************....*****...***....***********.*****....**99**********999.9999*****..***.*.**.*****99.9887655..4.............................................
+SRR5689334_20447199/2-139                                                   --------------AVLNGQQQSIADF---IRQVGELGNTLADRDQVIGETIQNLNVAL----GAIHD---TGD----KFDQLVVDLQS-LVTGL----DNDRTTITTGLDGIDAG-TAEITKLLV--DNR-P-AV-AGDIDGL-KQLAGNL--NA--DS-G--T--L-SL-VLGK-LPTI-Y---PLI-TRV---G--S
+#=GR SRR5689334_20447199/2-139                                           PP ..............6889*********...*****************************....*9999...999....***********.*****....***********999999.99*******..***.*.**.****99*.*******..**..**.*..*..*.**.****.****.*...**9.999...7..5
+SRR5689334_18246123/2-158                                                   -----VNQLAESIAAVLQGQGGTIESL---LGNTASLTNRLADDGKLVDTILASLTPVL----EDVAG---RGE----RVDRTIADLRS-LLTEL----DKEHKRIGRSIDGVSEL-SNAASDLVR--EVR-Q-PL-RHDVRTL-REFSRIS--VE--QR-A--A--I-NS-LLKY-LPVG-T---YAF-ARP---F--A
+#=GR SRR5689334_18246123/2-158                                           PP .....899*******************...*****************************....***99...99*....***********.*****....*****************.*********..*99.9.99.9999999.999999*..**..**.*..*..*.**.****.**99.8...888.875...3..2
+SRR5690606_7960004/5-138                                                    --------------------------------------QTLAERDELIGDVIDNLTEVL----TSFND---RDE----QLSSAISTLQR-LISGL----KDDREVLTGSLDDIAEL-SGATAGLLD--DIR-E-PL-TTDIQKL-RKLTAQI--GT--KK-A--R--K-QW-TTTR-GTRP-I---KI--DRL---G--G
+#=GR SRR5690606_7960004/5-138                                            PP ......................................579******************....99999...99*....***********.*****....*****************.*********..*99.8.88.88899**.*******..99..99.9..9..9.99.9999.9999.9...97..577...7..6
+SRR6059036_1446498/2-103                                                    LDPKEINSFAGTIIAVFQGEGPTVLNL---LQRTVSVTQNIAARNGTIGAVLTNLNSVV----DFALK---HRT----DFEQLLAGLAT-LTKGL----AEDRNQILSALDATAGL-ARSVS------------------------------------------------------------------------------
+#=GR SRR6059036_1446498/2-103                                            PP 79*************************...*****************************....*****...***....***********.*****....98888887665444444.44444..............................................................................
+A0A1A3JNT2_9MYCO/152-327                                                    -DPANRGNLSNALIKALQGDESSITVL---ISETSRLAQSIAGPDQLLGSVIESLTKVT----ENLAA---QGG----NLQTTLRQMRA-VVSGL----NDRRDELVASMGSISTV-VAQLSGILN--RVQ-P-DL-NDLLDRE-PGLLATL--VN--DR-E--Q--V-AR-LGAN-LPAV-L---KGL-ARI---T--G
+#=GR A0A1A3JNT2_9MYCO/152-327                                            PP .6777788999****************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.998...8..8
+SRR6266545_895399/290-455                                                   LSPTEINELSGQLVQVLQGQQSAVATL---VNHVASFTTTIGSREQLIGQVIRNLNSVL----GAVDE---HAG----SVGDLIDGLDA-LLVGL----DKQDTQMLDAAVRIDRF-ARATTTLLA--GAR-G-DV-RDDLAAL-LVVARGI--NA--KS-A--T--L-RQ-VLAA-LPVH-Y---RTL-QNA---A---
+#=GR SRR6266545_895399/290-455                                           PP 67999**********************...*****************************....*****...***....***********.*****....99999999999999999.*********..***.*.**.*******.**99999..99..99.9..9..*.**.****.****.*...***.988...6...
+SRR5215469_6411099/456-535                                                  LSPGDVNKLASEIIQVFQGESPDITAL---VASVGSLTTTLSTRDQVIGQLIDNLNSVL----QTIGS---RSG----KLANFVSTLQE-LVSGL---------------------------------------------------------------------------------------------------------
+#=GR SRR5215469_6411099/456-535                                          PP 57899**********************...*****************************....*9988...877....77777777888.88887.........................................................................................................
+SRR5215469_6411099/800-961                                                  -----------TLAAAFAGTPPYVRSA---LRGLASLSQTVASRDAQLAGLLRGAKSVT----GALSD---QNA----NFARLLGDGNL-LLGEL----RQRQAAIHALLTGTQAL-AVQLSGLVG--DNQ-A-TL-GPALGEL-DQVTTVL--EH--NQ-A--N--L-KK-ALAL-AGPY-Y---RLL-GNA---L--G
+#=GR SRR5215469_6411099/800-961                                          PP ...........4555677888889999...999**************************....99999...999....9**99999999.9999*....********999999999.*********..***.*.**.*******.****999..99..99.9..9..9.99.9999.9999.9...***.***...9..9
+SRR5437763_3668782/3-141                                                    --------------------------L---LTHTASLTDTAATRDAEIAAVINTLNTVV----GTIAG---RAP----ALGDLIGNLQR-FATNL----AADRQTLSNSIGAIDAL-SASSAKLLH--DIR-P-GL-DPDLYYL-NTVLGTL--VD--NK-A--N--L-DK-SLKM-LPGL-L---NHW-GRA---M---
+#=GR SRR5437763_3668782/3-141                                            PP ..........................7...899**************************....*****...***....***********.*****....*999**********999.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...7...
+ERR671922_480461/173-347                                                    --ADDVNSVSRAILKIFGGREARVQQL---VSDLADVAESLGARGPIVTELVTNLSRVA----STIAE---RDL----ELRSILDSLET-VVATL----GDRPGDFARAVDTLGVA-PGGRAKTLA--DNR-P-GL-DEAIGQL-QQILERL--AS--HQ-T--D--L-DQ-ALRT-LPET-T---YAL-NRA---T---
+#=GR ERR671922_480461/173-347                                            PP ..5789*********************...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...5...
+SRR6516162_9774910/204-285                                                  LSPGDVNKLASEIIQVFQGESPNITAL---VASVGSLTTTLSTRDQVIGQLIGNLHSVL----RTIGS---RSG----KLANFVSTLQD-LVSGL----AA---------------------------------------------------------------------------------------------------
+#=GR SRR6516162_9774910/204-285                                          PP 57899**********************...*****************************....*9988...888....88888888888.99988....64...................................................................................................
+SRR6516162_9774910/534-695                                                  -----------TLAAAFAGTPPYVRSA---LRGLASLSQTVASRDAQVAGLLRGAKNVT----GALAD---QNA----NFARLLGDGNL-LLAEL----RQRQAAIHALLTGTQAL-AVQLSGLVN--DNQ-A-KL-GPALQAL-DQVTTVL--EH--NQ-A--N--L-KK-ALAL-AGPY-Y---RLL-GNA---V--G
+#=GR SRR6516162_9774910/534-695                                          PP ...........4555677888889999...999**************************....***99...99*....***********.*****....*********9**99999.*********..***.*.**.*******.****999..99..99.9..9..9.99.9999.9999.9...***.***...9..9
+SRR3954452_1760472/219-376                                                  IDPAKVNTFLDSITAALDGNEDKVRQS---LDDLATLTASLAQRDDAIGKLIENLDTVS----GTITS---RDA----EIRTVLDNLVT-LAGTF----SQNTDVLNAAVTDLGDF-TNNLDVLLR--NNR-G-QI-DQILANL-VTLL-HV--VE--SKLP--A--V-NS-ILPA-LPAAAL---RLF-N-A---S---
+#=GR SRR3954452_1760472/219-376                                          PP 589************************...*****************************....***99...9**....***********.*9999....99***************.*********..***.*.99.9999888.6665.56..66..6626..7..9.99.9999.998614...444.3.3...2...
+X8AC78_MYCAV/151-333                                                        -NPKDADDLTKGVLQSLQGDQASIPLL---VQQTSTITRTLSARDQSLGDLISNLTKVT----DTVAR---QND----DLDHALDQTRS-AVANF----DARRPALQDSVGSIARV-TRRLAAIAD--DVD-P-SL-NQLITRE-PGFSKHL--AG--IE-P--Q--L-AF-TGDN-LPLL-L---KGF-ARA---L--S
+#=GR X8AC78_MYCAV/151-333                                                PP .6777788888999999**********...*****************************....*****...***....***********.*****....*****************.*********..***.*.**.****999.9999999..99..99.9..9..9.99.9999.****.*...*99.999...6..5
+SRR5581483_638727/277-434                                                   IEPAKVNTFLDAVVGALDGNEAKLRGA---IDDLATLTQGLAQRDDAIQRMIGNLNTVA----DTVNS---RDQ----QIKTVLDNLVL-IAQTF----SQNTAVLERAVANVGDV-SDNITFLLS--RNR-E-QV-DSLIANL-VT-LTNL--VH--SK-L--P--V-ADDLLSK-LTEG-A---KRL-FTA---S---
+#=GR SRR5581483_638727/277-434                                           PP 69*************************...*****************************....**999...999....99999999988.87777....77788899*********.*********..***.*.**.9999999.55.5689..99..99.9..8..8.7527778.9999.9...999.877...5...
+SRR6202047_270365/108-162                                                   -------------------------EL---VQQLEEVRGTRAERDRQLGELVQQLEEVR----GTRAE---RDR----QLGELVQQLEE-V-RGT----R----------------------------------------------------------------------------------------------------
+#=GR SRR6202047_270365/108-162                                           PP .........................56...66666677777777777777777777777....77777...777....77776666654.3.333....2....................................................................................................
+SRR6202047_270365/233-295                                                   ------------------------GEL---VQQLEEVRSTRAERDRQLGELVQQLEEVR----STRAE---RDR----QLGELVQQFEE-VRSTL----AERDRQI----------------------------------------------------------------------------------------------
+#=GR SRR6202047_270365/233-295                                           PP ........................678...89999999*********************....*****...***....**********9.99999....8875554..............................................................................................
+X8CVC8_MYCIT/677-841                                                        -NPHDADNLTKGIIQSLQGDTSSLATL---VGQTSTLTETFAGRDQALGSVITNLNKVV----GNLAA---QND----DLDGVITETRS-VVGEL----DRRRPDLVASVGSLARV-TGRLSTSAS--DVY-P-AL-REFIDRK-PGVARHI--MD--VE-P--Q--V-AF-FGDN-IPLL-L---KGL-VRV---G--N
+#=GR X8CVC8_MYCIT/677-841                                                PP .677888899999**************...*****************************....*****...***....***********.**99*....999999999********.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...8..6
+SRR6266540_3359644/2-120                                                    ----------------------------------------------------TNLDVVL----SSLDA---HDT----QLRDSITQLRR-LVGGL----AADRDPIGSALGDISRL-AGVLGPLFG--EVS-S-PL-AQTLSGL-DRVSATL--NR--NS-A--R--V-NK-TLDA-LPNA-Y---DRL-DRV---A---
+#=GR SRR6266540_3359644/2-120                                            PP ....................................................699****....*****...***....***********.*****....*****************.*********..998.8.88.99*****.*******..**..**.*..*..*.**.****.****.*...***.**9...7...
+SRR4051812_10052005/408-582                                                 LQPADVNQLSESVIKVLQGEGGSVDQL---LRQTADLTGFLADRDKLFQQVAANLTPVL----VDLAG---QGT----ELRTAVSELGK-LMSGL----ARNRHRFGTALDGVIRL-VTTTSSLVH--QARTP-TV-RDIKAFR-EV-AAMY--AD--HS-Q--L--Y-GK-ALPS-LGQL-L---GTL-ART---F--S
+#=GR SRR4051812_10052005/408-582                                         PP 6899***********************...*****************************....99888...889....998888899**.*****....999999*****999999.999999998..76549.99.9999988.86.6889..99..**.*..*..*.**.****.****.*...***.**9...8..7
+ERR1700712_1453707/2-153                                                    ----------------------------------------LADRQQVIDSLLENVASVL----DQVGG---HDQ----QIGQLIDGFDS-LVANL----ADDKQQLGDTVTGLGAL-TTNLGSLLG--QAQ-P-AL-DGDISRL-GTVTGTL--AQ--DQ-T--A--L-DG-VVKG-LPDI-L---ATF-TKP---I--S
+#=GR ERR1700712_1453707/2-153                                            PP ........................................8******************....*****...***....***********.*****....*****************.*********..***.*.**.*******.*******..99..99.9..9..9.99.9999.****.*...999.887...5..4
+TergutCu122P5_1016488.scaffolds.fasta_scaffold666336_5/8-177                LDPKQVDNLTTGIIEALQGDSSSVLQL---LTQTSALAESLAGPDQTLGAVVTNLTIVT----SNLAA---QNA----NLQAVIGQTRD-AMVAL----ANRREQLVASARSITTV-VARLATITT--NIS-P-DI-QQLIGRE-PGLLAHL--AD--GD-G--QARF-AY-LGAN-LPYL-L---KGL-ARV---T---
+#=GR TergutCu122P5_1016488.scaffolds.fasta_scaffold666336_5/8-177        PP 78*************************...*************************9999....88888...888....89988989999.99***....*****************.*********..***.*.**.*******.*******..98..76.5..4115.66.7789.****.*...***.*98...6...
+SRR5580765_7047788/4-167                                                    LTPDQVNELAGDIIDILQGQSGRISDL---VAHTASFTTNIAQRSGTVSEVLDGLTQLL----TTVSA---HDA----QLAGMITSLRS-LSTVL----AEEGPAILDSLQSVDGL-TGSVSSLLQ--RLR-DNGL-SENLAAL-DHVTGVL--AH--NT-P--T--V-QR-LIDG-FVVA-F---TDF-SRV---T--Q
+#=GR SRR5580765_7047788/4-167                                            PP 579************************...*****************************....*****...***....***********.*****....*****************.****99998..777.5258.9999999.9999999..88..88.8..8..8.77.7777.7777.6...666.666...4..3
+SRR3954447_9634908/259-426                                                  LTPQQVNELSQDIIDVLQGQSDRIADL---ISRTADLTGNLADRHQTFTKIVDTLDTLL----TAVAK---HDG----QLADVVTTMHA-LTAEL----HTEGPAIVGSLNAVDDL-IGSVGGLFDKLENH-S-LP-ADLADAA-SL-TKVL--AG--HT-D--T--F-AA-LIGG-FASA-F---DTF-ARV---S---
+#=GR SRR3954447_9634908/259-426                                          PP 579************************...*****************************....*****...***....***********.*****....****99*9999999998.88888776433677.7.87.7766655.54.4456..77..77.7..7..7.88.8888.8899.9...998.888...6...
+SRR6516164_7231934/157-225                                                  LDADKVNTISSAVIQLLQGQGGALSNV---LADTSAFSSALGQRDQLIGDVITNLNAVL----GTIDQ---KSA----QFSAS---------------------------------------------------------------------------------------------------------------------
+#=GR SRR6516164_7231934/157-225                                          PP 5789***********************...*****************************....**999...999....99765.....................................................................................................................
+A0A0U1DIE3_9MYCO/681-850                                                    -NPHDADNLTKGIIASLQGDTSSLATL---VGQTSTLTETFAGRDEALGSVITNLDKVM----GNLAR---QND----DLDGVITQTRS-VVGEL----DARRPDLVASVGSLARV-TGRLSASAA--DVY-P-AL-REFVDRQ-PGVTKHI--MD--VE-P--Q--V-AF-FGDN-IPLL-L---KGL-TRV---G--N
+#=GR A0A0U1DIE3_9MYCO/681-850                                            PP .677888899999**************...*****************************....*****...***....***********.*****....*9999999*********.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.**9...8..6
+A0A0H5RVI8_9MYCO/631-800                                                    LAPEQVNTLTRGFVETFSGQAQTLTTL---LTQIAAMTSSLSNNAGIFTQLIDNMSALM----QTMNT---RRP----QLEQMLQGLNR-LSAAV----TS-GDRQFEMLIDQGNAVLATLAHTVN--NSS-A-AY-GDTITNL-NSMLQTW--QP--NT-E--E--F-TT-LLAR-LPEF-G---DAI-NRT---S---
+#=GR A0A0H5RVI8_9MYCO/631-800                                            PP 67*************************...*****************************....**999...9**....******99999.88877....65.566566666666652689******..***.*.**.*******.9998899..99..99.*..*..*.**.****.****.*...***.**8...6...
+SRR2546429_338525/354-411                                                   LTPQDVNSLAYEIIQVLQGEAGTVTGL---LQHTASLTTALADRDAVIGQVITNLNDVL----ST---------------------------------------------------------------------------------------------------------------------------------------
+#=GR SRR2546429_338525/354-411                                           PP 5799***********************...****************************9....88.......................................................................................................................................
+SRR3546814_7153313/124-204                                                  LDPDQVNELSMNLVQVLQGEGGTVASL---LENTASLTGTLAGRDDLIGEVITNLSKTR------SEE---HTS----EL-QSLMRISY-AVFCL----KNNK-------------------------------------------------------------------------------------------------
+#=GR SRR3546814_7153313/124-204                                          PP 79*************************...*************************8754......345...665....55.45666666.66666....6655.................................................................................................
+ERR1700739_3606884/227-394                                                  LDPKQVDGLTNATIQSFQGDSNSVLAL---TTQVSVLAETLAVPDQVLGDLIGNLNKLM----SSLAA---QNT----NLQDLIRESRG-VMAQL----AGRREELVASVGSINAT-VGRLATIVN--NIT-P-DM-REFIGREPGFLNYSL--HD--GR-P--R--L-AY-MAAN-MPFL-L---KGL-ARM---TQTG
+#=GR ERR1700739_3606884/227-394                                          PP 689************************...*****************************....*9999...999....99999999999.*****....*****************.*********..***.*.**.*****862578999*..**..**.*..*..*.**.****.****.*...***.997...4226
+SRR3546814_10941801/62-124                                                  LRPADVNELAENIVADLQGQGGTLQSL---TRQTAELTTTIAERDETIGRVLDNLTMVS----ETANS---HR-------------------------------------------------------------------------------------------------------------------------------
+#=GR SRR3546814_10941801/62-124                                          PP 57999**********************...****************************9....99988...86...............................................................................................................................
+SRR5438309_2368827/148-269                                                  LDPKAVNTFLDAIVQALDGNTDKIRQS---IDSLAVVAQSLGSRDQAIGRLIDNVNTVA----GAIND---RDA----QIRTVLDNLVL-ISQTF----SQNTDVLNTAVTELGDF-SDNFGSLLA--NNR-D-QL-DRIIANL-TTI----------------------------------------------------
+#=GR SRR5438309_2368827/148-269                                          PP 789************************...*****************************....*9999...999....99999999988.88889....999**************.*********..***.9.99.8888777.655....................................................
+SRR3954454_12910414/66-212                                                  LSPAQINALSAQLIQVLQGQQGAVSRL---VATLSSFTGTIATREQVIGRVVHNLNAVL----GALDA----QG----GSVGTIVDQLTLLVSKL----SAKAPGVLDAVEQIDRM-ASDTAEMVR--QPR-T-SL-RPDVQDL-GAVASSL--SA--NS-G--T--L-QH-ELTM-WPQH-Y---KAL-----------
+#=GR SRR3954454_12910414/66-212                                          PP 6799***********************...*****************************....97655....55....55667777666157789....999999***********.*********..***.*.**.**9*999.9999999..99..98.8..8..8.88.8888.8888.7...765...........
+SRR3954469_1975435/221-378                                                  -DPAKANAFVRALNEALDGNEDKVRGL---LSDTATISHDLGGSDQQIGSLIDNLDTVV----GGLAN---RDG----DLNTAVTRFKT-LASSL----AHNNDDLQLLVERFAAV-QTRLNTLVK--TNR-G-NI-DQTVDDL-ATIAKVL--HG--HR-S--D--L-DQ-ALAT-LPQG-L---RIY-DSI------S
+#=GR SRR3954469_1975435/221-378                                          PP .899***********************...*****************************....*****...***....***********.*****....***************99.9********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...*99.876......5
+ERR1700722_11665215/422-554                                                 LSPQQVDNLTNGIIQALQGDSGSVLTL---VTQTSALAQTLAGPDAVLGDVINNLNEVT----AVLAK---QNT----NLQTLISQSRD-IMVTL----AGRRDELVASVGSVNSA-VGRLAQIVT--AIS-P-DL-QQLIARD-PGFLAHL--TG--EG-Q--D--R--------------------------------
+#=GR ERR1700722_11665215/422-554                                         PP 679************************...***************************99....88777...766....66555555677.8899*....*****************.********9..999.9.99.9888776.6666666..66..55.5..5..4................................
+ERR1700730_13954005/222-287                                                 LNPRDVNALTASLLHVFQGQGGTLDSL---LSSSASFSNDLADNAQVIQQLIDNLNTVV----ATLAK---DGD----KF------------------------------------------------------------------------------------------------------------------------
+#=GR ERR1700730_13954005/222-287                                         PP 67999**********************...*****************************....99988...777....66........................................................................................................................
+SRR5579863_8919283/29-153                                                   -----FNRMLTSLRAITQGKQAQVAEI---VDGLGRFTAAIDARRAQVGNLIDSANALA----GTVSQ---HDQ----QLGALVDDLTS-VVQGL----AQHSTQLATLIANTEAV-AAQTASLVG--QNQ-P-AL-QGLLSHL-TSVLAVV--QQ--HQ----------------------------------------
+#=GR SRR5579863_8919283/29-153                                           PP .....68899*****************...************9****************....*****...***....***999999**.*****....*****************.*********..***.*.**.******9.9887754..44..33........................................
+SRR3954466_15072214/2-126                                                   ---------------------------------------------------IDNLNVVL----RTLAG---RDK----QLNSLITEFKR-FMSGL----VQDKDAILNSLDSVSNL-ADETSHLAV--RIP-PSLV-RDAKGLR-Q-VAGNL--NA--GR-S--E--I-DR-ALQI-LPIK-L---TKI-GRT------A
+#=GR SRR3954466_15072214/2-126                                           PP ...................................................78******....*****...***....***********.*****....**********9999999.999999887..776.6367.8888865.5.67899..99..9*.*..*..*.**.**99.****.*...***.**8......6
+SRR4051794_18886535/42-130                                                  LKPTEVNKLSESVIKVLQGEGGSVDQL---LRQTADLTGFLADRDKLFQQVATNLTPVL----VDLAG---QGT----ELRTAVTELGK-LMSGL----ARNRHRFGQ--------------------------------------------------------------------------------------------
+#=GR SRR4051794_18886535/42-130                                          PP 6899***********************...****************************9....88888...888....88888888889.99998....665555555............................................................................................
+SRR5947209_1613693/363-536                                                  -NPQDVNTFLDTIVQALDGNTDKIRQS---IDNLAVVAQSLGSRDQQIGRLIDNVNTVA----GAIND---RDA----QIRTVLDNLVL-ISQTF----SQNTDVLNTAVTELGDF-SDNFGSLLA--NNK-T-QI-DRIIGNL-NAVLDE---VK--LK-L--P--V-LDSTLGG-LDTA-A---KTL-FNA---S---
+#=GR SRR5947209_1613693/363-536                                          PP .6999**********************...*****************************....*9999...999....99999999988.88889....999**************.*********..***.*.**.*******.998765...55..56.5..5..5.5516778.9999.9...999.988...5...
+SRR5919106_2448304/313-476                                                  -NPEDINTVAHAILDVFKGREGDLAKI---LGNVGDLTSTLAARDQRLARLVEDLDKVS----GVLND---ESA----SIRTSFDEFSS-FMGKL----ADLTPELETAVDKLTTA-SEKFGGVVS--RNR-A-NL-DQELDDL-ATLLNIV--NE--NL-G--P--L-DR-VARN-LKEV-L---LAT-ARA---H---
+#=GR SRR5919106_2448304/313-476                                          PP .69************************...**************************998....77777...777....77777788999.99999....999999***********.*********..***.*.**.9999999.9887777..77..77.7..7..7.77.8888.9999.9...888.888...6...
+SRR4051812_47053329/2-177                                                   IDPAKVNTFLDNIVAALDGNQDKLRQS---ITDLATLTKGLADRDDAIGRLIDNANEVA----GAVDS---RDA----QIRTVLDNLLA-VASTF----NENTDVLDNAVTQLGTF-TNELGPLLA--NNR-G-HI-DSSLASL-QTLT-DL--VR--TK-L--P--TLDS-ALAN-LDDS-A---KRL-FTS------S
+#=GR SRR4051812_47053329/2-177                                           PP 589***********************9...999**************************....***99...***....***********.99999....99***************.*********..***.*.**.*******.9985.67..77..77.6..5..5055.6888.8888.8...877.654......5
+SRR5712692_433972/243-385                                                   IQPDKVNQFLQAFTDALSGNEESLRSS---LDNLAQITASLAAHDDAIGRLVGNVNTVA----ATL-N---IRD----QEIRTVIDNLV-AISGT---FSQNTQVVDDAITNLSQV-SSNLNRLLS--ANR-G-QI-DRILTNV-NTLLQVV--VT--KL-P--E--A-GS-LLSS-LPLV-------------------
+#=GR SRR5712692_433972/243-385                                           PP 58*************************...****************************8....765.4...444....55567776667.77776...145566778899******.*********..***.*.99.9999999.9888888..88..88.9..9..9.99.9988.8854...................
+OpeIllAssembly_1097287.scaffolds.fasta_scaffold581035_1/51-171              -NPSDINALSEALVTALGPHKADIDAI---MADSSKLLGTLSTKDQQIGSLVDNLSTVT----SAVAD---QRV----QLQDLLANFAT-LADTL----AGDSGQLDRVLVNLNAA-TGRLAQLVK--TNR-T-SLARDLDSLV-TV-----------------------------------------------------
+#=GR OpeIllAssembly_1097287.scaffolds.fasta_scaffold581035_1/51-171      PP .6999**********************...*****************************....99999...999....***********.*****....*****************.*********..**9.8.6614544444.44.....................................................
+SRR5713101_765220/320-492                                                   LDPHATGRLITNLNQDLQGNGQTLNDV---FKGLASVTTTLADKDQQLANLIDNFDKFT----TTIDT---REA----ALGRVMDLFAQ-TTTLL----RNERGDIGNLVQHLADT-SSNALDLVN--KHA-P-RL-ETDLSEA-TALLQSL--DA--NL-N--S--V-SQ-LLSA-GPTL-VAGADLT-GKT---S--G
+#=GR SRR5713101_765220/320-492                                           PP 57888899999****************...*************************9988....77777...888....99999999999.99***....*****************.*********..***.*.**.*999999.9998899..99..99.9..9..9.99.9998.8865.4222688.999...9..9
+A0A200GNP9_MYCPC/171-310                                                    ----------------------HLKAA---LDGVARFSGTIGNRDEQIKQLLTNADKIT----RVLGD---RSG----QVDALLVNANT-LLAAF----RQRSQALSALLSNVSAV-STQVSGFIK--EN--P-DA-HQVLRQL-GTVSDEL--VK--RK-K--E--L-SD-VLVL-VSRY-T---ASL-TEA---V---
+#=GR A0A200GNP9_MYCPC/171-310                                            PP ......................56678...99**************************9....99999...99*....***********.*****....*****************.*******99..98..7.78.899****.*******..**..**.*..*..*.**.***9.9887.7...766.665...4...
+SRR5437763_1118084/7-127                                                    --------------------------------------------------------------------------------------TQK-LVSGL----AEQRKPIGDAVSALGDL-AVSTTGLLA--DAR-P-AL-KDDVAKL-GTLSQNL--GD--SG-V--L--L-NH-LLEV-LPGN-L---QKF-TRT---L---
+#=GR SRR5437763_1118084/7-127                                            PP ......................................................................................578.9****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...*99.998...6...
+SRR5581483_3462113/261-387                                                  -------------------------PA---FDGISRLSRSLNERNDSLRDLLKSATDVT----GILSE---RSQ----QINTLILDAND-LVGVL----ANRRNAIVSLLANTSTV-SKQLSGLVH--DNE-A-KL-APALERL-NRVNAML--EK--NK-D--N--I-GK-ILPG-LKKF-Q---VTQ-GEA---V--G
+#=GR SRR5581483_3462113/261-387                                          PP .........................56...788899**********************9....99999...999....9999999****.*****....*****************.*********..***.*.**.*******.*******..**..**.*..*..*.**.*988.8776.6...666.666...4..3
+SRR5581483_3462113/618-748                                                  -----------SAANALQGNGDKLRQT---LAELSGVGRILANGSGNIADIIKNLQIF-----VTALR---DSDQQIVQFNNRLA---T-LTSVV---DDNRSD-LDAALSDLSVA-VGDIKRFIA--GSR-D-QT-SEQIRSL-ASVTQVL--VD--HQ-M--D--L-KN-ILHL-APT--------------------
+#=GR SRR5581483_3462113/618-748                                          PP ...........566778**********...*************************854.....45555...43300113444444...4.43334...136666.66789******.*********..***.*.**.*******.999999*..**..**.*..*..*.99.9987.775....................
+X8B5I0_MYCAV/162-298                                                        --------LAATLDQIAPQM----GPA---FDALTRLSRTLNSRNKNLGELFKSAGDVT----GVLSE---RSQ----QVNKLILNSDV-LLQVL----VARRQEIVDLLANTSAV-AKQLTALVH--DNE-S-KL-APTLERL-NSVTAML--EK--NR-D--N--I-SK-ALPG-LKKF-E---ITV-GE--------
+#=GR X8B5I0_MYCAV/162-298                                                PP ........555544444332....334...566788999********************....**999...9**....***********.*****....*****************.*********..***.*.**.*******.*******..99..99.9..9..9.99.8877.6655.5...555.55........
+X8B5I0_MYCAV/539-671                                                        -----------SAANALDGNGDKLRQT---LAQLSGVGRILANGSGNIVDIIKNLQTFVGALRDSNVQ----IV----QFNDRLATLTS-VVNDS----KSDLD---AALTDLSTA-VGEVQRFIA--GTR-N-QT-SEQIARL-ADVTQIL--VD--HH-M--D--L-EN-ILHV-APNA-L-----------------
+#=GR X8B5I0_MYCAV/539-671                                                PP ...........556678899999999*...**************************987111133443....35....78888887777.77766....65555...6788*****.*********..***.*.**.****999.777778*..**..**.*..*..*.**.*999.9998.7.................
+SRR5919198_1499114/2-101                                                    ----------------------------------------------------------------------------------------A-LVSGL----AKDREPIRDAIESIGEL-TDVTAGLVG--DAR-P-SL-KDDIEQL-GKLSGNL--ND--TA-P--K--L-EQ-TIRF-MPYK-L---NVL-NRS---A---
+#=GR SRR5919198_1499114/2-101                                            PP ........................................................................................6.99***....9999*************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.****.*...***.*98...6...
+GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold970268_2/26-156         -----------------TGNGDRLNQT---LTQTSAAVGTLADNKDDLFATIRNLQAFV----STLAT---SDK----QVRQFNAQMAQ-VTGEL----AGERDDLASALHDLQIA-LGQVQTFVK--DNR-D-AL-ADNVTEL-KTLTDTL--VK--QR-N--A--L-AE-FLDD-APLA-L---SNL-N---------
+#=GR GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold970268_2/26-156 PP .................699*******...**************9999***********....*9999...999....99998888877.76679....999**************.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.**99.9...876.5.........
+SRR5437764_2900920/352-478                                                  -NPNDANTFIQGILGALQGNQAQVTGL---LGNSAQLSSALGSSDQQVGSIIDNMSQVL----SALAS---RNG----DINTLIDNLNQ-AGQVL----AAHNDNLDTAIADFGQL-ASQLGNLFS--TNR-G-DL-DATINSL-QSVTDVL--SQ--------------------------------------------
+#=GR SRR5437764_2900920/352-478                                          PP .68899*********************...*****************************....**999...999....99988889999.99999....999**************.*********..***.*.**.****999.8776655..44............................................
+SRR5437660_1713481/6-131                                                    ------------LADITEGKHDQVAQL---LDGVNKVSTALNDREAQLRQLLDRFDQLS----G-LLS---S-------KDQTLVSLID-QSQGILNLVEARRSDIANGLNATDKL-TGSLATLLS--ANK-G-LL-NSILQTL-HPTLDVI--TK--QQ-Q--H--V-DA-ALS-------------------------
+#=GR SRR5437660_1713481/6-131                                            PP ............6678899999999**...****************9999999887654....4.343...3.......3555555544.44444000155667788877777788.9********..***.*.**.*999999.8888888..88..88.8..8..8.76.654.........................
+SRR5437660_1713481/203-310                                                  --------LVQNAANDVQGNGQNINDA---VANLSTLVGTLADKDQQLGDIIDNFDKFT----GVLST---REV----QLGNVMDSFAN-LTSLL----SDERKAIESTVHNLGSV-STDAFDTLT--LKR-A-GLDKDL------------------------------------------------------------
+#=GR SRR5437660_1713481/203-310                                          PP ........555666778**********...**************************999....99999...999....***********.*9999....999999**999999999.988888888..776.5.441454............................................................
+M3TSE7_9ACTN/182-317                                                        ---------ATGA-ANLQGNGEKLGAA---IENLSKASTTLSDSRGNLFDTVKNLNTFV----GALRENDAQVR----QFNSQMASFNQ-FLAGE----RQ---QLASSLNKLSIA-LGDVAEFLE--DNR-E-QI-GETVRDL-KPTTQAL--LD--EK-T--H--L-KE-VLTV-LPLA-M---NN------------
+#=GR M3TSE7_9ACTN/182-317                                                PP .........4443.3469*********...***************************98....76544111458....9*********9.99996....64...69**********.*********..***.*.**.*******.999999*..**..**.*..*..*.**.****.**99.8...65............
+SRR5438094_9224422/3-137                                                    --------------------------I---LSDTSKLLGTLSTKDAQIGSLVDGLSTVS----TAVAD---QRV----QLEQLLSNLAT-IANTL----ASDSGQLDRVLVNLNTA-TGELAKLVK--TNR-T-SL-ERDIGNV-ATLL-EL--VR--KH-Q--------A-DLVQ-ILQH-L---DDV-ERATLKA--M
+#=GR SRR5438094_9224422/3-137                                            PP ..........................8...999************************98....77777...788....***********.*****....*****************.*********..***.*.**.*****98.6654.34..44..33.3........3.3667.7777.7...777.7662224..5
+ERR1700733_14022830/396-523                                                 -------------------------------------SDTIGQRGEQIKQLLANANKVA----RVLGD---RSE----QINGLLVNANT-LLAAF----KQRSQALSILLSNVSDV-SAQVSALLK--EN--P-NL-NHVLQQL-SSVSDEL--VK--RK-K--D--L-SD-VLVL-LSRY-T---ASL-TEA---V--G
+#=GR ERR1700733_14022830/396-523                                         PP .....................................5567889999************....*9999...9**....***********.*****....*****************.********9..98..8.89.9******.*******..**..**.*..*..*.**.****.9999.8...888.888...8..7
+SRR6202000_3428539/250-405                                                  --TTKLSSALTTLATTFKDTPPDLKAA---LEGVAQLSSTLDNRDAKLRSLLGNANKVT----SVLAK---RSD----QIANLVINANA-LLAEL----LTQRNSVDALMTNIGAA-TRQISAVIG--DNR-T-QL-KPALDKL-NGVLSIL--DD--RK-K--E--L-QR-TLYL-IPKY-A---VTF-GEV---L--G
+#=GR SRR6202000_3428539/250-405                                          PP ..67889999*****************...*****************************....*****...***....***********.*****....999999999999*****.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.**99.9...888.888...7..7
+SRR5579875_71823/354-504                                                    ----SVDAVVTNLAQDLQGQGQALNQL---IGQAAGTLQLLADKGTDLGRLNGSLAAIT----STLQT---RTA----DIAQLLQSYDA-VATTL----ASDSGPLGDAITQLADA-SQQLAQLLA--PNL-Q-PL-QQDVGTI-TQVGCTL--DR--NL-G--P--I-DQ----G-LASA-A---SLF-SAA---G--R
+#=GR SRR5579875_71823/354-504                                            PP ....688999*****************...***************************99....99999...999....9**********.*****....*****************.*********..**8.8.88.8889998.8887777..55..44.4..4..4.44....3.4445.5...555.555...5..5
+SRR5581483_880941/393-529                                                   -DPKQVNDFLDTVSQALDGNQDKVGKA---IDDLGTLAKGLATRDQAIGRLVDNLNTVA----GAITN---RDQ----QIRVMLDNLVL-ISSTF----SNNTQTLDTALQEFGTF-SKNLDFVLA--SNS-G-EL-DRIIDNL-DLISTDV--ID--PK-L--Q--V-ID-SAL-------------------------
+#=GR SRR5581483_880941/393-529                                           PP .79999999999999999*99******...*****************************....**999...999....**999999999.9999*....*****************.*********..***.*.**.*******.*******..**..**.9..9..9.88.654.........................
+SRR5579875_653727/608-750                                                   -NPREANAFVVNVSGAMNGDTAEIDQL---LANGAKISTTVGALDVEVGRVIDSLDQVL----TAIAQ---RSG----DVGTLVANLDT-VARSL----ASRNDLLDTLVGNLSTV-AGDMATLIG--QNR-S-TL-SATIADL-NAAVSTI--DA--HQ-A--E--L-AR-TLTT-LGSG-L-----------------
+#=GR SRR5579875_653727/608-750                                           PP .58888999999999999*********...*****************************....99888...888....8888889****.*****....*****************.*********..***.*.**.*****99.9988888..77..77.7..7..7.77.7776.6665.5.................
+SRR5919106_2705091/165-319                                                  -DPDDINTVTRALTTALRGRADEVEGT---LANLSAVARVVADRDQELSQLLDNLNVLT----GDLAG---RDA----QLRRTLANLDS-FLTDV----AASRNDLDQALITLDEA-ARRFGRIVD--RND-S-NI-RAEADDL-AVLLDAI--ED--RR-G--A--L-RR-VVRN-LPEM-L---VSV-ERV---T---
+#=GR SRR5919106_2705091/165-319                                          PP .799***********************...****************************9....99999...9**....***********.***99....98888899999999999.999999888..888.8.88.8888888.8888888..88..88.8..8..8.88.8889.9999.8...888.886...5...
+SRR5580704_5963657/420-562                                                  -NPTEANAFVVNVSGALEGDTAQINQL---INSGAAVSTTVQALDNQVGSIIGNLDQVL----TALAS---RSG----DIDSLVTNLQT-VSSAL----ASKNTLLDGVVGNLSQV-ATDLANLIG--NNH-T-TI-TGTINNL-QAVAADI--QH--NQ-T--N--L-SN-SLST-LGQG-L-----------------
+#=GR SRR5580704_5963657/420-562                                          PP .5788899999999999**********...*****************************....*****...***....***********.*****....***9999999*******.*********..***.*.**.*******.******9..99..99.9..9..9.99.9988.8887.6.................
+SRR3984957_8864128/392-555                                                  --TAKLSSALTTLANTFKDTPPDLKAA---LEGVAQFSSTLDNRDAKLRSLLTNANKVV----GVLGK---RSD----QIANLVINANA-LLAEL----LTQRNAIDALMTNVGAA-TREISAVIG--DNR-T-QL-KPALDKL-NGVLSVL--DD--RK-K--E--L-QR-TLYL-IPKY-A---MSF-GEV---L--G
+#=GR SRR3984957_8864128/392-555                                          PP ..56888899999999***********...*****************************....*****...***....***********.*****....**99***999*******.*********..***.*.**.*******.*******..**..**.*..*..*.**.****.***9.9...999.999...8..8
+SRR5690625_728848/246-414                                                   LEPERADALARGFVEVFNGRGEALARM---QELTADLTGDLVARGPVVEAMIADLAVLA----ETVDG---RED----ALAELTADLSE-LGGVV----VGDGDRLTAMLDDGAQT-VSRLAAALE--ADP-G-AV-DRAITDA-HRMTAAW--LA--QT-G--P--F-VD-FLSG-MPAM-A---EAL-GRA---T---
+#=GR SRR5690625_728848/246-414                                           PP 79*************************...*************************9999....99989...999....99999999999.98888....89999999999999999.999*99999..888.8.88.8889999.9999999..99..**.*..*..*.**.****.****.*...***.**9...7...
+SRR5947209_5693835/3-103                                                    ---------------------------------------------------------------------------------------QQ-LLTGL----SQDRQAIGSSLDSIDQL-TGATASLLH--DVR-P-SL-AADIKHL-GVLAEKLDTTA--SR-R--E--L-EH-FLTY-TPYK-L---QVA-T-P---E--A
+#=GR SRR5947209_5693835/3-103                                            PP .......................................................................................67.9****....*****************.*********..***.*.**.*******.**987763367..89.9..*..*.**.****.****.*...986.5.5...6..7
+SRR4029078_6225441/1-113                                                    ---------------------------------------------------------------------------------------------GL----AEGRDPIAGAIPPLASA-ENDLTGMLA--NSR-R-PL-QGVLENL-RPMATEF--DN--RK-A--E--V-NQ-AIEP-LAEN-Y---LRL-N-S---L--G
+#=GR SRR4029078_6225441/1-113                                            PP .............................................................................................67....7778*************.*********..*99.9.99.9******.***99**..**..**.*..*..*.**.9998.8876.6...555.5.5...5..7
+SRR4051812_15259833/226-340                                                 LDPEGLGSLINNLSDDLQGQGPTLNHA---LDQVSQVVSTFADKDQQLAEIVDHFDQFT----ATLET---RES----QLGDILSTFAQ-ATQVL----ADERQSLENLLAGLADL-SRNGLTLVA--KHS-Q-QL-KTD------------------------------------------------------------
+#=GR SRR4051812_15259833/226-340                                         PP 6899***********************...***************************99....99999...9**....*********99.98889....88888888888888888.777666776..666.6.66.654............................................................
+SRR3954452_17549584/287-417                                                 ----QINDFLDTVNQALDGNQDKIGKA---IDDLAALTKGLASRDQTLSRLVDNLNTVA----GTIAN---RDQ----QISVMLDNLVL-ISSAF----SANTQTLDTALQEFGTF-STNLHTILS--NNG-T-EI-DRLIDNL-DVVASEV--VA--PK-L-GE--V-D------------------------------
+#=GR SRR3954452_17549584/287-417                                         PP ....56666666666778888899999...*****************************....*****...***....********999.99999....999**************.*********..***.*.**.*******.***9999..98..77.4.25..5.4..............................
+#=GC PP_cons                                                                67999**********************...*****************************....99999...999....9999999***9.***9*....9999*************.*********..*99.9.99.9999999.9999999..99..99.9..9..9.99.9999.9999.9...999.998...6..7
+#=GC RF                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxx...xxx....xxxxxxxxxxx.xxxxx....xxxxxxxxxxxxxxxxx.xxxxxxxxx..xxx.x.xx.xxxxxxx.xxxxxxx..xx..xx.x..x..x.xx.xxxx.xxxx.x...xxx.xxx...x..x
+
+T1137s2                                                                     I--YGDFF-NF-Y-AC--DLT--LKL-N--GL--Q-PGGPVRT-VRITTQPS-GRCTPK
+ERR1700712_3606117/99-292                                                   I--YGDFF-NF-Y-AC--DVT--LKL-N--GL--Q-PGGPVRT-VKVWSQPS-GRCTPQ
+#=GR ERR1700712_3606117/99-292                                           PP *..*****.**.*.**..***..***.*..**..*.*******.********.****95
+SRR5580693_8657307/679-872                                                  S--YGDWV-NF-Y-LC--DLT--LKT-D--GL--Q-PGGPVRT-VRIWQQPT-GRCTPQ
+#=GR SRR5580693_8657307/679-872                                          PP *..*****.**.*.**..***..***.*..**..*.*******.********.****95
+SRR3984885_12033178/444-635                                                 I--YGDFF-NF-Y-LC--DLS--LKV-N--GL--Q-PGGPVRS-VKLFQQPS-GRCT--
+#=GR SRR3984885_12033178/444-635                                         PP *..*****.**.*.**..***..***.*..**..*.*******.********.***9..
+SRR6516165_6500255/706-898                                                  I--YGDFF-NF-Y-LC--NLS--ITV-N--GL--Q-PGGPVRT-VKLIGRPK-GRGMP-
+#=GR SRR6516165_6500255/706-898                                          PP *..*****.**.*.**..***..***.*..**..*.*******.********.**877.
+ERR1700751_1592527/1-186                                                    L--YGDWV-NF-Y-LC--DLT--IKW-N--GL--Q-PGGPVRT-VRIWQQPT-GKL---
+#=GR ERR1700751_1592527/1-186                                            PP *..*****.**.*.**..***..***.*..**..*.*******.********.*86...
+SRR5574337_116662/287-469                                                   V--YGDFF-NF-Y-IC--DVT--FRL-N--GL--Q-PGGPIRK-VKTR-----------
+#=GR SRR5574337_116662/287-469                                           PP 9..*****.**.*.**..***..***.*..**..*.******9.9865...........
+SRR5579875_1468038/37-200                                                   L--YGDFS-TS-T-CA--I----------------------------------------
+#=GR SRR5579875_1468038/37-200                                           PP *..***97.65.4.44..4........................................
+ERR1700712_80697/261-450                                                    I--YGDFF-SF-Y-LC--DVV--LKL-N--GK----GGQPV-Y-VKLAGQDS-GRGAP-
+#=GR ERR1700712_80697/261-450                                            PP *..*****.**.*.**..***..***.*..*4....45566.7.9*******.**887.
+SRR5882757_5821731/690-880                                                  L--YGDYF-SF-Y-LC--EMV--LKV-N--GK----GGQPV-Y-VKLAGQDS-GRCTPK
+#=GR SRR5882757_5821731/690-880                                          PP 9..*****.**.*.**..***..***.*..*4....45566.7.9*******.*****8
+SRR5882757_2406290/427-617                                                  L--YGDYF-SF-Y-LC--EMV--LKV-N--GK----GGQPV-Y-VKLAGQDS-GRCTPK
+#=GR SRR5882757_2406290/427-617                                          PP 9..*****.**.*.**..***..***.*..*4....45566.7.9*******.*****8
+ERR1700722_15568042/639-829                                                 M--YGDFF-SF-Y-LC--EIV--LKL-N--GK----GGQPV-Y-VKVAGQST-GRCAPK
+#=GR ERR1700722_15568042/639-829                                         PP 9..*****.**.*.**..***..***.*..*4....45566.7.9*******.*****8
+SRR5882757_7345513/318-493                                                  L--YGDYF-AF-Y-LC--DVV--LKM-N--GK----GGQPV------------------
+#=GR SRR5882757_7345513/318-493                                          PP 9..*****.**.*.**..***..***.*..94....56666..................
+SRR5882757_7345513/647-807                                                  A--SGPFF-KA-Y-LA--NL---------------------------------------
+#=GR SRR5882757_7345513/647-807                                          PP 5..79999.99.9.88..77.......................................
+ERR1700677_2599725/342-532                                                  M--NGDYF-GF-Y-LC--EVL--LKV-N--GK----GGNPI-F-VKLLGQPS-GRCTPQ
+#=GR ERR1700677_2599725/342-532                                          PP 9..9****.**.*.**..***..***.*..*4....56776.6.99******.****95
+SRR5918999_76774/180-359                                                    S--HGSWF-NF-Y-LC--EFS--G-------T--I-GLGPLPT-YKITP----------
+#=GR SRR5918999_76774/180-359                                            PP 5..9****.**.*.**..986..4.......4..4.4578888.88875..........
+SRR5882757_5380715/371-557                                                  S--YGSWF-NF-Y-LC--GLQ--AKA-GYKGLAIL-PGGVLYT-PQVN-----------
+#=GR SRR5882757_5380715/371-557                                          PP 6..*****.**.*.**..**9..986.43354226.9998888.7775...........
+A0A1M6X7V9_PSETH/157-337                                                    S--YGSWF-NF-Y-LC--GAS--LTV----GV--S-PIVPPQK-IEL------------
+#=GR A0A1M6X7V9_PSETH/157-337                                            PP 5..*****.**.*.**..988..875....67..7.7666665.554............
+SRR5882757_74815/569-757                                                    A--YGSFI-QY-Y-IC--GLS--FRA-S--DL--Q--GRTVQF-PWI-KQET-GRCA--
+#=GR SRR5882757_74815/569-757                                            PP 6..*****.**.*.**..***..***.*..**..9..555555.444.6888.9996..
+ERR1700677_5051635/182-370                                                  A--YGAWF-PY-Y-LC--GLS--LRV-S--DL--Q-YR--TVE-VGITHQVT-GRCA--
+#=GR ERR1700677_5051635/182-370                                          PP 7..*****.**.*.**..***..***.*..**..9.64..335.789*****.***6..
+SRR5882757_129670/243-431                                                   L--FGSFV-TT-Y-LC--DVR--VKV-T--GP----NGQPLYT-PWVSSE-A-PRCS--
+#=GR SRR5882757_129670/243-431                                           PP 9..*****.**.*.**..***..***.*..95....4789999.888765.4.5776..
+SRR6185312_7040739/228-403                                                  A--YGAYF-NI-F-YC--STR--LKI-N--GP--S-VGLPLA-----------------
+#=GR SRR6185312_7040739/228-403                                          PP 9..*****.**.*.**..***..***.*..*9..9.999875.................
+SRR6478736_6090433/44-217                                                   A--YGSFF-NI-Y-YC--SIR--IKI-N--GS--A-GFG--------------------
+#=GR SRR6478736_6090433/44-217                                           PP 9..*****.**.*.**..***..***.*..*7..6.555....................
+SRR4051794_692484/236-413                                                   S--YGSWF-NF-Y-LC--AVG--GTV-N-FGG--Q-PIGAV------------------
+#=GR SRR4051794_692484/236-413                                           PP 5..*****.**.*.**..987..666.6.566..7.77766..................
+SRR3569833_649156/565-730                                                   S--YGSWF-NY-Y-LC--GIT--G-----------------------------------
+#=GR SRR3569833_649156/565-730                                           PP 6..*****.**.*.**..998..4...................................
+SRR6478609_3795971/331-499                                                  T--YGSWY-NY-Y-VC--GFS--GR----------------------------------
+#=GR SRR6478609_3795971/331-499                                          PP 8..*****.**.*.**..876..55..................................
+SRR5882762_8690974/378-545                                                  S--YGSWL-NF-Y-VC--SIT--GKI---------------------------------
+#=GR SRR5882762_8690974/378-545                                          PP 5..*****.**.*.**..**9..886.................................
+SRR3954469_23033829/226-394                                                 T--YGSWY-SY-Y-VC--GFS--GR----------------------------------
+#=GR SRR3954469_23033829/226-394                                         PP 8..*****.**.*.**..876..55..................................
+SRR5580658_3394076/242-411                                                  ---TGNWI-NV-Y-LC--NLT--INV-S--G----------------------------
+#=GR SRR5580658_3394076/242-411                                          PP ...69***.**.*.**..***..*99.9..8............................
+SRR6478672_4101785/506-684                                                  I--YGSWF-NF-Y-LC--HFQ--GRV-R------L-PGGKSLP-VD-------------
+#=GR SRR6478672_4101785/506-684                                          PP *..*****.**.*.**..987..665.4......5.7776555.55.............
+SRR5882757_1018426/292-457                                                  A--WGGYF-NV-Y-LC--GLG--IKL---------------------------------
+#=GR SRR5882757_1018426/292-457                                          PP 9..*****.**.*.**..***..998.................................
+SRR5664280_1023584/786-951                                                  T--YGSWF-NF-Y-LC--RA---------------------------------------
+#=GR SRR5664280_1023584/786-951                                          PP 8..*****.**.*.**..75.......................................
+SRR5882757_3794086/321-488                                                  Q--YGSWV-NL-Y-AC--SIS--VNI---------------------------------
+#=GR SRR5882757_3794086/321-488                                          PP 6..*****.**.*.**..998..765.................................
+SRR6478609_3301712/601-775                                                  T--YGSWF-NF-Y-LC--KFD--A-L-S--PI--L-PG---------------------
+#=GR SRR6478609_3301712/601-775                                          PP 8..*****.**.*.**..865..3.4.4..44..4.44.....................
+SRR3954453_6595310/422-588                                                  T--YGSWF-NF-Y-LC--DFT--GQ----------------------------------
+#=GR SRR3954453_6595310/422-588                                          PP 8..*****.**.*.**..*99..65..................................
+SRR6266498_1229344/224-399                                                  S--YGSWA-NM-Y-LC--SIE--AVM-S------L-PGAPAT-----------------
+#=GR SRR6266498_1229344/224-399                                          PP 7..*****.**.*.**..998..765.4......4.777764.................
+SRR3954447_25091019/613-775                                                 V--NGSWF-NF-Y-LC--GA---------------------------------------
+#=GR SRR3954447_25091019/613-775                                         PP 9..*****.**.*.**..75.......................................
+SRR4029078_6866993/17-180                                                   I--YGSWF-NF-Y-LC--QFQ--GKV---------------------------------
+#=GR SRR4029078_6866993/17-180                                           PP *..*****.**.*.**..987..766.................................
+SRR3954452_2044039/529-692                                                  V--NGSWF-NF-Y-LC--SA---------------------------------------
+#=GR SRR3954452_2044039/529-692                                          PP 9..*****.**.*.**..75.......................................
+SRR6478735_4409619/524-695                                                  S--YGSWL-NV-Y-LC--GIT--LRV-S--DL--Q------------------------
+#=GR SRR6478735_4409619/524-695                                          PP 6..*****.**.*.**..***..***.9..99..8........................
+SRR4051812_2581185/746-915                                                  S--YGAFL-NF-Y-VC--AVN---------FI--R------------------------
+#=GR SRR4051812_2581185/746-915                                          PP 8..*****.**.*.**..864.........33..3........................
+SRR5215475_3619145/370-557                                                  ---DGSWF-NF-F-MC--SFD--GQV-R--V---P-KVGTVNP-AEF-SGPS-ARC---
+#=GR SRR5215475_3619145/370-557                                          PP ...69***.**.*.**..987..766.5..3...3.3445555.554.3566.666...
+SRR5437764_3795250/236-340                                                  -----------------------------------------------------------
+#=GR SRR5437764_3795250/236-340                                          PP ...........................................................
+SRR5437764_3795250/491-588                                                  -----------------------------------------------------------
+#=GR SRR5437764_3795250/491-588                                          PP ...........................................................
+ERR1700712_160575/284-453                                                   T--YGSWY-QY-Y-LC--DFN--GKI---------------------------------
+#=GR ERR1700712_160575/284-453                                           PP 8..*****.**.*.**..*98..776.................................
+SRR3954464_15851031/1030-1201                                               V--NGSWF-NF-F-MCSADGT--VAL-P--G----------------------------
+#=GR SRR3954464_15851031/1030-1201                                       PP 9..*****.**.*.9933345..555.4..4............................
+SRR2546421_2373908/573-760                                                  ---SGSWF-NF-F-MC--GFD--GTV-T---V--P-GAGAVNP-ATFTSQ-A-ARC---
+#=GR SRR2546421_2373908/573-760                                          PP ...79***.**.*.**..765..444.3...2..2.2356666.666655.3.455...
+SRR2546423_552312/462-644                                                   S--YGSWV-NF-Y-LC--GFD--GQV----AL--P-RVGSVNP-ARLTS----------
+#=GR SRR2546423_552312/462-644                                           PP 6..*****.**.*.**..987..665....46..6.6677777.77776..........
+SRR5579863_288961/434-609                                                   S--YGSWF-NF-F-MC--DAA--LSG-V--KS--S-YGAP-------------------
+#=GR SRR5579863_288961/434-609                                           PP 5..*****.**.*.**..*98..764.4..44..4.4554...................
+SRR3546814_577506/237-366                                                   -----------------------------------------------------------
+#=GR SRR3546814_577506/237-366                                           PP ...........................................................
+SRR6478735_990830/212-379                                                   S--YGSWL-NT-Y-IC--SLS--IRT---------------------------------
+#=GR SRR6478735_990830/212-379                                           PP 6..*****.**.*.**..**9..874.................................
+SRR3954453_6570229/266-452                                                  S--YGSWF-NF-Y-LC--TVS--GII-S------F-PGGGSKT-FKFAEGSQ-ARCK--
+#=GR SRR3954453_6570229/266-452                                          PP 6..*****.**.*.**..987..666.5......5.9999999.99999888.8885..
+SRR5882757_965163/195-374                                                   T--NGAGY-EF-E-LC--GLK--LRL-T--GP----DGKPFIT-PQI------------
+#=GR SRR5882757_965163/195-374                                           PP 6..79999.**.*.**..***..***.*..95....4778777.666............
+ERR1700722_15031479/235-419                                                 T--SGNWI-QV-Y-VC--DLT--VNL-L--GP----GGGPAPP-LNISIIP--------
+#=GR ERR1700722_15031479/235-419                                         PP 6..8****.**.*.**..***..999.7..73....4789888.8887666........
+SRR5699024_7763442/2-159                                                    A--YGNFF-NY-Y-LC--TLR--IKI-S--G-----PDGHDLA-PTFFGQDT-GRCAPR
+#=GR SRR5699024_7763442/2-159                                            PP 6..*****.**.*.**..***..***.*..9.....7777777.88899***.***996
+SRR4051794_2977141/350-469                                                  -----------------------------------------------------------
+#=GR SRR4051794_2977141/350-469                                          PP ...........................................................
+SRR5437764_649587/432-536                                                   -----------------------------------------------------------
+#=GR SRR5437764_649587/432-536                                           PP ...........................................................
+R4LVY7_MYCTX/169-280                                                        -----------------------------------------------------------
+#=GR R4LVY7_MYCTX/169-280                                                PP ...........................................................
+SRR3546814_18026671/25-159                                                  A--YGSWF-NF-Y-LC--ALR--FRL---------------------------------
+#=GR SRR3546814_18026671/25-159                                          PP 9..*****.**.*.**..999..887.................................
+SRR5690349_22648666/1-118                                                   L--YGDR----------------------------------------------------
+#=GR SRR5690349_22648666/1-118                                           PP 9..**95....................................................
+SRR5689334_2381760/1-158                                                    A--YGSFF-NF-Y-LC--GAR--FKF-D--G-----PQGPQY-----------------
+#=GR SRR5689334_2381760/1-158                                            PP 9..*****.**.*.**..***..***.*..9.....556655.................
+Q0S3I6_RHOJR/154-328                                                        S--YGSWL-NI-Y-LC--TFI--VNV-D--GR--E--GAP-------------------
+#=GR Q0S3I6_RHOJR/154-328                                                PP 6..*****.**.*.**..***..*99.9..97..5..444...................
+SRR3546814_595772/340-457                                                   -----------------------------------------------------------
+#=GR SRR3546814_595772/340-457                                           PP ...........................................................
+SRR5579875_3069522/432-601                                                  ---SGNYL-AV-Y-VC--DLT--AEV-S--G----------------------------
+#=GR SRR5579875_3069522/432-601                                          PP ...7****.**.*.**..***..*99.8..8............................
+SRR5690348_15326377/2-159                                                   ---YENAG-NV-Y-AC--SIT--INL-A--GV--K------------------------
+#=GR SRR5690348_15326377/2-159                                           PP ...9999*.**.*.**..***..***.9..97..6........................
+SRR5262249_11606903/227-418                                                 S--YGSWL-NF-F-MC--NA----QV-S--GV--QQKFGPKPTGVGITAARC-KSCSP-
+#=GR SRR5262249_11606903/227-418                                         PP 5..*****.**.*.**..86....56.7..77..514677665467777666.66665.
+SRR3954468_639521/37-151                                                    -----------------------------------------------------------
+#=GR SRR3954468_639521/37-151                                            PP ...........................................................
+SRR5689334_17045666/10-137                                                  -----------------------------------------------------------
+#=GR SRR5689334_17045666/10-137                                          PP ...........................................................
+SRR3954469_1026311/2-170                                                    Q--NGNWV-NI-Y-PC--NVS--VHT-F--G----------------------------
+#=GR SRR3954469_1026311/2-170                                            PP 5..7****.**.*.**..*98..866.5..5............................
+SRR6478736_5988504/9-118                                                    M--NGDFF-SF-Y-LC--DLF--LKL-N--GK---------------------------
+#=GR SRR6478736_5988504/9-118                                            PP 9..9****.**.*.**..***..***.*..95...........................
+SRR5581483_6025193/177-321                                                  -----------------------------------------------------------
+#=GR SRR5581483_6025193/177-321                                          PP ...........................................................
+SRR5689334_4664240/239-365                                                  -----------------------------------------------------------
+#=GR SRR5689334_4664240/239-365                                          PP ...........................................................
+SRR5689334_20447199/2-139                                                   -----------------------------------------------------------
+#=GR SRR5689334_20447199/2-139                                           PP ...........................................................
+SRR5689334_18246123/2-158                                                   ---SGAWL-DI-F-IC-------------------------------------------
+#=GR SRR5689334_18246123/2-158                                           PP ...34455.55.5.55...........................................
+SRR5690606_7960004/5-138                                                    TSQYGSFF-NF-Y-VC--DLG--VH----------------------------------
+#=GR SRR5690606_7960004/5-138                                            PP 445*****.**.*.**..*97..65..................................
+SRR6059036_1446498/2-103                                                    -----------------------------------------------------------
+#=GR SRR6059036_1446498/2-103                                            PP ...........................................................
+A0A1A3JNT2_9MYCO/152-327                                                    D--SA-AM-SA-Q-AC--DFN--FTLFN--FL--K-PIVP-------------------
+#=GR A0A1A3JNT2_9MYCO/152-327                                            PP 6..55.57.89.9.**..*98..87647..78..8.8655...................
+SRR6266545_895399/290-455                                                   S--YGDFV-DF-F-LC--GVR--V-----------------------------------
+#=GR SRR6266545_895399/290-455                                           PP 6..*****.**.*.**..876..5...................................
+SRR5215469_6411099/456-535                                                  -----------------------------------------------------------
+#=GR SRR5215469_6411099/456-535                                          PP ...........................................................
+SRR5215469_6411099/800-961                                                  ---NGRWF-DA-Y-LC--GII--PK--S--YL--P-PG---------------------
+#=GR SRR5215469_6411099/800-961                                          PP ...69***.**.*.**..997..66..5..57..7.76.....................
+SRR5437763_3668782/3-141                                                    S--YGTWL-NV-Y-VC--DFV--------------------------------------
+#=GR SRR5437763_3668782/3-141                                            PP 5..*****.**.*.**..*75......................................
+ERR671922_480461/173-347                                                    T--YGEWA-NL-SVVC--INS--ICA-P--GF--E-PPGE-------------------
+#=GR ERR671922_480461/173-347                                            PP 7..*****.*8.5268..788..888.8..88..8.8775...................
+SRR6516162_9774910/204-285                                                  -----------------------------------------------------------
+#=GR SRR6516162_9774910/204-285                                          PP ...........................................................
+SRR6516162_9774910/534-695                                                  ---NGRWF-DA-Y-LC--GIL--PK--S--YL--P-PG---------------------
+#=GR SRR6516162_9774910/534-695                                          PP ...69***.**.*.**..986..55..5..67..7.77.....................
+SRR3954452_1760472/219-376                                                  R--NGEWL-N-------------------------------------------------
+#=GR SRR3954452_1760472/219-376                                          PP 3..45555.5.................................................
+X8AC78_MYCAV/151-333                                                        ---EGSYG-NA-Y-AC--DLN----A-T--GF--F-PGSTTSP-RSSSTRP--------
+#=GR X8AC78_MYCAV/151-333                                                PP ...69999.**.*.**..*86....6.7..99..9.9987766.5556655........
+SRR5581483_638727/277-434                                                   R--YGDWL-N-------------------------------------------------
+#=GR SRR5581483_638727/277-434                                           PP 6..99999.8.................................................
+SRR6202047_270365/108-162                                                   -----------------------------------------------------------
+#=GR SRR6202047_270365/108-162                                           PP ...........................................................
+SRR6202047_270365/233-295                                                   -----------------------------------------------------------
+#=GR SRR6202047_270365/233-295                                           PP ...........................................................
+X8CVC8_MYCIT/677-841                                                        ---QGAYG-NA-Y-VC--DVN--F-----------------------------------
+#=GR X8CVC8_MYCIT/677-841                                                PP ...79999.**.*.**..*86..4...................................
+SRR6266540_3359644/2-120                                                    S--HGSFF-NF-Y-LC--SVQ--LLV---------------------------------
+#=GR SRR6266540_3359644/2-120                                            PP 5..9****.**.*.**..998..755.................................
+SRR4051812_10052005/408-582                                                 ---YKGAL-NS-Y-LC--SLD--ATI-G--GV--K-VGS--------------------
+#=GR SRR4051812_10052005/408-582                                         PP ...55578.**.*.**..***..***.*..*9..9.886....................
+ERR1700712_1453707/2-153                                                    ---AGSYL-NA-Y-LC--NLT--VNL-TQPGL--A-PGSPTVP-LSISLVPG-------
+#=GR ERR1700712_1453707/2-153                                            PP ...69***.**.*.**..***..998.5559*..*.****999.98888775.......
+TergutCu122P5_1016488.scaffolds.fasta_scaffold666336_5/8-177                Q--EGSYL-NA-Y-AC--NAN--LTI---------------------------------
+#=GR TergutCu122P5_1016488.scaffolds.fasta_scaffold666336_5/8-177        PP 5..7****.**.*.**..988..865.................................
+SRR5580765_7047788/4-167                                                    ---DGSFV-SS-Y-IC--Q----------------------------------------
+#=GR SRR5580765_7047788/4-167                                            PP ...46666.66.6.66..5........................................
+SRR3954447_9634908/259-426                                                  Q--NGNWL-NV-Y-AC--NIY--VQ----------------------------------
+#=GR SRR3954447_9634908/259-426                                          PP 4..78999.99.9.99..887..65..................................
+SRR6516164_7231934/157-225                                                  -----------------------------------------------------------
+#=GR SRR6516164_7231934/157-225                                          PP ...........................................................
+A0A0U1DIE3_9MYCO/681-850                                                    ---QGAYG-NA-Y-VC--DVN--F---M--GF--F-P----------------------
+#=GR A0A0U1DIE3_9MYCO/681-850                                            PP ...79999.**.*.**..*86..5...3..44..4.4......................
+A0A0H5RVI8_9MYCO/631-800                                                    S--YGGFV-SL-Y-LC--NFT--LKI-R--S----------------------------
+#=GR A0A0H5RVI8_9MYCO/631-800                                            PP 6..9****.**.*.**..***..**9.7..5............................
+SRR2546429_338525/354-411                                                   -----------------------------------------------------------
+#=GR SRR2546429_338525/354-411                                           PP ...........................................................
+SRR3546814_7153313/124-204                                                  -----------------------------------------------------------
+#=GR SRR3546814_7153313/124-204                                          PP ...........................................................
+ERR1700739_3606884/227-394                                                  T--YGD----I-Y-AC--DVD--FA----------------------------------
+#=GR ERR1700739_3606884/227-394                                          PP 6..666....7.9.**..987..65..................................
+SRR3546814_10941801/62-124                                                  -----------------------------------------------------------
+#=GR SRR3546814_10941801/62-124                                          PP ...........................................................
+SRR5438309_2368827/148-269                                                  -----------------------------------------------------------
+#=GR SRR5438309_2368827/148-269                                          PP ...........................................................
+SRR3954454_12910414/66-212                                                  -----------------------------------------------------------
+#=GR SRR3954454_12910414/66-212                                          PP ...........................................................
+SRR3954469_1975435/221-378                                                  S--YGQWF-QI------------------------------------------------
+#=GR SRR3954469_1975435/221-378                                          PP 6..99998.75................................................
+ERR1700722_11665215/422-554                                                 -----------------------------------------------------------
+#=GR ERR1700722_11665215/422-554                                         PP ...........................................................
+ERR1700730_13954005/222-287                                                 -----------------------------------------------------------
+#=GR ERR1700730_13954005/222-287                                         PP ...........................................................
+SRR5579863_8919283/29-153                                                   -----------------------------------------------------------
+#=GR SRR5579863_8919283/29-153                                           PP ...........................................................
+SRR3954466_15072214/2-126                                                   I--YGSFF-NF-Y-LC--QFQ----G-N--VI--L-PTG--------------------
+#=GR SRR3954466_15072214/2-126                                           PP *..*****.**.*.**..863....4.5..55..5.555....................
+SRR4051794_18886535/42-130                                                  -----------------------------------------------------------
+#=GR SRR4051794_18886535/42-130                                          PP ...........................................................
+SRR5947209_1613693/363-536                                                  R--YGEWL-NQVI-PC--GAL--LNN-P--SS--G-PV---------------------
+#=GR SRR5947209_1613693/363-536                                          PP 6..99999.8514.56..655..544.4..43..4.44.....................
+SRR5919106_2448304/313-476                                                  S--YGKWF-NL-Y-VV--NLC--------------------------------------
+#=GR SRR5919106_2448304/313-476                                          PP 6..*****.**.*.99..886......................................
+SRR4051812_47053329/2-177                                                   K--YGEWL-NQ-T------IP--CGK-V--GY--N-PAVPVDT----------------
+#=GR SRR4051812_47053329/2-177                                           PP 6..88888.75.3......22..223.3..55..5.6666655................
+SRR5712692_433972/243-385                                                   -----------------------------------------------------------
+#=GR SRR5712692_433972/243-385                                           PP ...........................................................
+OpeIllAssembly_1097287.scaffolds.fasta_scaffold581035_1/51-171              -----------------------------------------------------------
+#=GR OpeIllAssembly_1097287.scaffolds.fasta_scaffold581035_1/51-171      PP ...........................................................
+SRR5713101_765220/320-492                                                   L--VAAYNPTF-H-RI--DLR--TQL---------------------------------
+#=GR SRR5713101_765220/320-492                                           PP 8..87664257.7.77..776..554.................................
+A0A200GNP9_MYCPC/171-310                                                    A--SGPFF-KA-I-VA--N----------------------------------------
+#=GR A0A200GNP9_MYCPC/171-310                                            PP 3..57777.66.6.55..5........................................
+SRR5437763_1118084/7-127                                                    S--YGSWF-NY-Y-LC--GITGTIGI-S--SL--D-ITLPIIP-IP-GTQRA-ERCGP-
+#=GR SRR5437763_1118084/7-127                                            PP 6..*****.**.*.**..99722566.6..77..7.7777766.54.45667.77766.
+SRR5581483_3462113/261-387                                                  -----------------------------------------------------------
+#=GR SRR5581483_3462113/261-387                                          PP ...........................................................
+SRR5581483_3462113/618-748                                                  -----------------------------------------------------------
+#=GR SRR5581483_3462113/618-748                                          PP ...........................................................
+X8B5I0_MYCAV/162-298                                                        -----------------------------------------------------------
+#=GR X8B5I0_MYCAV/162-298                                                PP ...........................................................
+X8B5I0_MYCAV/539-671                                                        -----------------------------------------------------------
+#=GR X8B5I0_MYCAV/539-671                                                PP ...........................................................
+SRR5919198_1499114/2-101                                                    S--YGSWF-QF-Y-LC--GFT--GTV----GL--T-IGG--------------------
+#=GR SRR5919198_1499114/2-101                                            PP 6..*****.**.*.**..*99..654....66..6.666....................
+GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold970268_2/26-156         -----------------------------------------------------------
+#=GR GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold970268_2/26-156 PP ...........................................................
+SRR5437764_2900920/352-478                                                  -----------------------------------------------------------
+#=GR SRR5437764_2900920/352-478                                          PP ...........................................................
+SRR5437660_1713481/6-131                                                    -----------------------------------------------------------
+#=GR SRR5437660_1713481/6-131                                            PP ...........................................................
+SRR5437660_1713481/203-310                                                  -----------------------------------------------------------
+#=GR SRR5437660_1713481/203-310                                          PP ...........................................................
+M3TSE7_9ACTN/182-317                                                        -----------------------------------------------------------
+#=GR M3TSE7_9ACTN/182-317                                                PP ...........................................................
+SRR5438094_9224422/3-137                                                    S--YGEWV-NL-Y-I--------------------------------------------
+#=GR SRR5438094_9224422/3-137                                            PP 7..99999.99.9.6............................................
+ERR1700733_14022830/396-523                                                 S---GPFF-KT-I-VA--N----------------------------------------
+#=GR ERR1700733_14022830/396-523                                         PP 4...7888.76.6.65..5........................................
+SRR6202000_3428539/250-405                                                  S---GPFF-K-------------------------------------------------
+#=GR SRR6202000_3428539/250-405                                          PP 4...7777.5.................................................
+SRR5579875_71823/354-504                                                    A--YDPVH---------------------------------------------------
+#=GR SRR5579875_71823/354-504                                            PP 5..55554...................................................
+SRR5581483_880941/393-529                                                   -----------------------------------------------------------
+#=GR SRR5581483_880941/393-529                                           PP ...........................................................
+SRR5579875_653727/608-750                                                   -----------------------------------------------------------
+#=GR SRR5579875_653727/608-750                                           PP ...........................................................
+SRR5919106_2705091/165-319                                                  S--YGEW----------------------------------------------------
+#=GR SRR5919106_2705091/165-319                                          PP 4..6665....................................................
+SRR5580704_5963657/420-562                                                  -----------------------------------------------------------
+#=GR SRR5580704_5963657/420-562                                          PP ...........................................................
+SRR3984957_8864128/392-555                                                  ---SGPFF-KA-S-LP--NLT--L-----------------------------------
+#=GR SRR3984957_8864128/392-555                                          PP ...48999.88.8.87..877..6...................................
+SRR5690625_728848/246-414                                                   S--YGGFV-NL-Y-LC--TMH--LEA-G-------------------------------
+#=GR SRR5690625_728848/246-414                                           PP 5..9****.**.*.**..998..876.5...............................
+SRR5947209_5693835/3-103                                                    S--YGAFL-NL-Y-AC--PV-------N--FL--R-PGGT-------------------
+#=GR SRR5947209_5693835/3-103                                            PP 8..*****.**.*.**..75.......7..78..8.9986...................
+SRR4029078_6225441/1-113                                                    A--YGSYF-NY-Y-IC--ATT--LKF-N--GP--A-GSDIFLP-IGGVPDPSKGRC---
+#=GR SRR4029078_6225441/1-113                                            PP 8..*****.**.*.**..***..***.*..*5..4.4333334.443444433566...
+SRR4051812_15259833/226-340                                                 -----------------------------------------------------------
+#=GR SRR4051812_15259833/226-340                                         PP ...........................................................
+SRR3954452_17549584/287-417                                                 -----------------------------------------------------------
+#=GR SRR3954452_17549584/287-417                                         PP ...........................................................
+#=GC PP_cons                                                                7..99999.99.9.9*..998..887.8..86..7.6777777.88888888.998886
+#=GC RF                                                                     x..xxxxx.xx.x.xx..xxx..xxx.x..xx..x.xxxxxxx.xxxxxxxx.xxxxxx
+//

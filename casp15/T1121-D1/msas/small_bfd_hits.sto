@@ -1,0 +1,38 @@
+# STOCKHOLM 1.0
+#=GF ID T1121-i1
+
+#=GS T1121                      DE JetD, Pseudomonas aeruginosa PA14, 381 residues|
+#=GS SRR3569833_957715/161-364  DE [subseq from] SRR3569833_957715
+#=GS SRR5574343_1428593/3-217   DE [subseq from] SRR5574343_1428593
+#=GS ERR1700722_3665619/8-172   DE [subseq from] ERR1700722_3665619
+#=GS SRR6185437_2948740/52-117  DE [subseq from] SRR6185437_2948740
+#=GS SRR5487761_1738296/110-175 DE [subseq from] SRR5487761_1738296
+
+T1121                              MKSPTDIGRNLARQWQRSSVRLERLLN-PG-SWPQSLNIGKPSARLFTDNIQAVLRHVENWRSVN---VGKVDWEPVSYRAGLAPISLPMRWHLRSPSEWIAASDD------PRVSQEYAQLEYLVEQVDS-AFHTLLVAQRSLWLTRTPEEVVATAQLATQLAPGCAQGRPLRLLAEHGVDTKFFERNATLLTKLLDER
+SRR3569833_957715/161-364          VKSPTELAGRLAKQWQLADNREARLLH-ED-ARPLTLPNGKPTPTQLTQQTAQVRTHLQLWRAVT---VGRVRFEPMTFRGGAEPVEVPVSWQLSSPKEWVTATAD------RGVQREYATLQRLLQNTQP-IFHRTLVRQRNLFAEESEQAVVRAAQIAMHLAPGCAQGRPLRALSVLGTDTNFFERHRRIMIDLLDAR
+#=GR SRR3569833_957715/161-364  PP 59*************************.**.**********************************...**************************************......*******************.********************************************************************
+SRR5574343_1428593/3-217           MKSPQDLAARLAQHWNSADWRERQLLG-TATAWPLTLPIGQPDTAVFLNDAAALRSHLQQWRAVEQQGLGSVQWQERRYRGSSDAIAVPTHWQLAKPSQCVAAINHFKVPGHAQVKSDYTRLGALIAAVERPGFQRLLVRRLVQWRDTPAEAVIAAARMALQLEPGCAQGRPLRALALQGNDSKFFARHANLLTALLDER
+#=GR SRR5574343_1428593/3-217   PP 89*******************999998.6537**********************9*******9954448*********************************9875222111467899**********9963799999999999998888999***********************************************
+ERR1700722_3665619/8-172           MKSPAELRIFLRRQWEAAAIREARLLGGSN-AWPIVASIGRPKPKAVASDLDSVRRHVDDWRRVK---IGEVVWAAVRYRAASNPVEMPLYWKLRQPAEWVAACAD------RSMREEFDSMSVFIEQTDA-CFHSLLIRRRSLWHTKAIDEILQATRLALALEPRCADNKPLRTL------------------------
+#=GR ERR1700722_3665619/8-172   PP 89***********************97256.8*********************************...**************************************......*******************.******************************************88........................
+SRR6185437_2948740/52-117          ------------------------------------------------------------------------------------------------------------------------------------------------------AEIIKAVELARTLEPGCAEGRPLRALAMCGIDSKFFERHRSLIAHLLDVR
+#=GR SRR6185437_2948740/52-117  PP ......................................................................................................................................................689999********************************************
+SRR5487761_1738296/110-175         -------------------------------ARPVLVSIGRPSAKKLNADLDSVKRHIAAWRQVR---VGKVMWESVRYRAASDAVEIPAQWCLRMPSEW----------------------------------------------------------------------------------------------------
+#=GR SRR5487761_1738296/110-175 PP ...............................4588899***************************...********************************....................................................................................................
+#=GC PP_cons                       79***********************98.77.79999****************************9...9**********************************998......8999**************9.9*************9999999*********************99************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+T1121                              FEGAASEQGLTTFLDA
+SRR3569833_957715/161-364          FDGQLTDLGLEAFLGA
+#=GR SRR3569833_957715/161-364  PP *************975
+SRR5574343_1428593/3-217           FDGEASRQGLVGFLGA
+#=GR SRR5574343_1428593/3-217   PP ************9975
+ERR1700722_3665619/8-172           ----------------
+#=GR ERR1700722_3665619/8-172   PP ................
+SRR6185437_2948740/52-117          FDRQVSDLGLEAFLGA
+#=GR SRR6185437_2948740/52-117  PP *************975
+SRR5487761_1738296/110-175         ----------------
+#=GR SRR5487761_1738296/110-175 PP ................
+#=GC PP_cons                       *************975
+#=GC RF                            xxxxxxxxxxxxxxxx
+//

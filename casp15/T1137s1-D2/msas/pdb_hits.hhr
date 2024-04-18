@@ -1,0 +1,308 @@
+Query         T1137s1 MceG complex, Mycobacterium smegmatis, subunit 1, 409 residues|
+Match_columns 240
+No_of_seqs    157 out of 3780
+Neff          5.84816
+Searched_HMMs 80799
+Date          Mon Jul 10 07:35:08 2023
+Command       /usr/bin/hhsearch -i /tmp/tmpy3ik86kq/query.a3m -o /tmp/tmpy3ik86kq/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4IYH_D Secreted protein EsxB;   36.0      31 0.00038   25.9   0.0   52   13-66     10-61  (98)
+  2 3H6P_C ESAT-6 LIKE PROTEIN ESX  35.9      31 0.00038   25.3   0.0   31    6-36     10-40  (96)
+  3 1WWQ_A Enhancer of rudimentary  35.3      32  0.0004   28.9   0.0   34   27-60     42-75  (111)
+  4 2NML_A HEF2/ERH; HEF2/ERH fold  34.0      35 0.00043   28.3   0.0   34   27-60     35-68  (104)
+  5 4J11_B SECRETED PROTEIN ESXB;   31.6      40  0.0005   24.0   0.0   33   14-46     14-46  (93)
+  6 2KG7_B Uncharacterized protein  30.2      44 0.00054   24.5   0.0   30    6-35     11-40  (97)
+  7 2KG7_A Uncharacterized protein  29.9      45 0.00056   24.7   0.0   29    7-35     11-39  (97)
+  8 1EZE_A CHOLESTERYL ESTER TRANS  29.8      45 0.00056   22.8   0.0   24   60-83      1-24  (38)
+  9 2VRZ_A VIRULENCE FACTOR ESXA;   26.9      55 0.00068   23.6   0.0   20   53-72     50-69  (99)
+ 10 3FAV_D ESAT-6-like protein esx  26.7      56 0.00069   23.7   0.0   57    7-72     10-66  (94)
+ 11 5IJN_Z NUCLEAR PORE COMPLEX PR  24.1      67 0.00083   33.9   0.0   63   27-89    332-394 (522)
+ 12 4YNL_A Heterocyst differentiat  23.6      69 0.00086   25.9   0.0   49   42-90     18-66  (90)
+ 13 4YNL_B Heterocyst differentiat  23.6      69 0.00086   25.9   0.0   49   42-90     18-66  (90)
+ 14 1WA8_A ESAT-6 LIKE PROTEIN ESX  23.6      69 0.00086   23.4   0.0   31    6-36      9-39  (99)
+ 15 1WA8_B ESAT-6 LIKE PROTEIN ESX  23.0      72 0.00089   23.0   0.0   23    8-30     12-34  (95)
+ 16 4GZR_C ESAT-6-like protein 6,   22.2      77 0.00095   24.3   0.0   30    6-35      9-38  (101)
+ 17 4LWS_B Uncharacterized protein  21.9      79 0.00098   23.7   0.0   29   15-43     19-47  (103)
+ 18 1ZVA_A E2 glycoprotein; SARS c  21.1      84   0.001   24.8   0.0   40    7-46      2-41  (77)
+ 19 4I0X_D ESAT-6-like protein; St  20.7      87  0.0011   23.4   0.0   27    7-33     16-42  (103)
+ 20 4I0X_F ESAT-6-like protein; St  20.7      87  0.0011   23.4   0.0   27    7-33     16-42  (103)
+
+No 1
+>4IYH_D Secreted protein EsxB; Structural Genomics, PSI-Biology, Protein Structure; HET: SO4, MSE; 1.881A {Bacillus anthracis}
+Probab=35.97  E-value=31  Score=25.88  Aligned_cols=52  Identities=6%  Similarity=0.133  Sum_probs=26.0  Template_Neff=10.000
+
+Q T1137s1          13 ALDGLGDKFGRSIVDGNAILADVNPRMPQIRRDITGLANLGEVYADASPDLFDG   66 (240)
+Q Consensus        13 AL~GRG~~LG~tl~~l~~yL~~lnP~lP~L~~Dl~~la~va~~YadaaPDLl~~   66 (240)
+                      .|+..++.|.+..+++++-+..++..+..+...+..-  .++.|.+..-++...
+T Consensus        10 ~l~~~a~~l~~~~~~l~~~~~~l~~~~~~l~~~W~G~--aa~a~~~~~~~~~~~   61 (98)
+T 4IYH_D           10 ELERIAGNFKNAAGEAQSQINRLEGDINSLEGQWAGA--TQAKFRGEFIQSKQA   61 (98)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGTTTS--CGGGGHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhccccH--HHHHHHHHHHHHHHH
+Confidence            4444555555555555555555555555555444432  244454444444333
+
+
+No 2
+>3H6P_C ESAT-6 LIKE PROTEIN ESXS, ESAT-6; Four-helix bundle, Structural Genomics, PSI-2; 1.91A {Mycobacterium tuberculosis}
+Probab=35.94  E-value=31  Score=25.31  Aligned_cols=31  Identities=16%  Similarity=0.094  Sum_probs=14.9  Template_Neff=10.600
+
+Q T1137s1           6 TLTAAAQALDGLGDKFGRSIVDGNAILADVN   36 (240)
+Q Consensus         6 tL~AlA~AL~GRG~~LG~tl~~l~~yL~~ln   36 (240)
+                      .|.+++..++..++++...+.++...+..+.
+T Consensus        10 ~l~~~a~~~~~~~~~~~~~~~~l~~~~~~~~   40 (96)
+T 3H6P_C           10 AMMAHAGDMAGYAGTLQSLGADIASEQAVLS   40 (96)
+T ss_dssp             ----------CHHHHHHHHHHHHHHHHHHTG
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            4666777777777777777777776666654
+
+
+No 3
+>1WWQ_A Enhancer of rudimentary homolog; structural genomics, regulation of cell; NMR {Mus musculus} SCOP: d.330.1.1
+Probab=35.26  E-value=32  Score=28.86  Aligned_cols=34  Identities=32%  Similarity=0.346  Sum_probs=27.5  Template_Neff=4.500
+
+Q T1137s1          27 DGNAILADVNPRMPQIRRDITGLANLGEVYADAS   60 (240)
+Q Consensus        27 ~l~~yL~~lnP~lP~L~~Dl~~la~va~~Yadaa   60 (240)
+                      -..+.|++.||.++.+.-|+..|-++.|...|..
+T Consensus        42 ~YE~~LK~~nP~~~~ITYdi~dLf~fID~l~Dls   75 (111)
+T 1WWQ_A           42 MYEEHLKRMNPNSPSITYDISQLFDFIDDLADLS   75 (111)
+T ss_dssp             HHHHHHHTTCSSCSSCCCCHHHHHHHHHHSSCCC
+T ss_pred             HHHHHHHHhCCCCCCCcccHHHHHHHHhhhhhee
+Confidence            3467899999999999999999887776665543
+
+
+No 4
+>2NML_A HEF2/ERH; HEF2/ERH fold, pseudo beta barrel; 1.55A {Homo sapiens} SCOP: d.330.1.1
+Probab=34.02  E-value=35  Score=28.32  Aligned_cols=34  Identities=32%  Similarity=0.346  Sum_probs=27.5  Template_Neff=4.700
+
+Q T1137s1          27 DGNAILADVNPRMPQIRRDITGLANLGEVYADAS   60 (240)
+Q Consensus        27 ~l~~yL~~lnP~lP~L~~Dl~~la~va~~Yadaa   60 (240)
+                      -..+.|++.||.++.+.-|+..|-++.|...|..
+T Consensus        35 ~YE~~LK~~nP~~~~ITYdi~dLf~fID~l~Dls   68 (104)
+T 2NML_A           35 MYEEHLKRMNPNSPSITYDISQLFDFIDDLADLS   68 (104)
+T ss_dssp             HHHHHHHHHSTTCSSCCCCHHHHHHHHHHSSEEE
+T ss_pred             HHHHHHHHhCCCCCCCcccHHHHHHHHhhhhhee
+Confidence            3467899999999999999999888776665544
+
+
+No 5
+>4J11_B SECRETED PROTEIN ESXB; STRUCTURAL GENOMICS, PSI-BIOLOGY, PROTEIN STRUCTURE; 1.44A {Bacillus anthracis}
+Probab=31.60  E-value=40  Score=24.05  Aligned_cols=33  Identities=6%  Similarity=0.227  Sum_probs=15.3  Template_Neff=11.200
+
+Q T1137s1          14 LDGLGDKFGRSIVDGNAILADVNPRMPQIRRDI   46 (240)
+Q Consensus        14 L~GRG~~LG~tl~~l~~yL~~lnP~lP~L~~Dl   46 (240)
+                      |+.-++++.+..+++++.+.++...+..+...+
+T Consensus        14 l~~~a~~~~~~~~~l~~~~~~l~~~~~~~~~~w   46 (93)
+T 4J11_B           14 LERIAGNFKNAAGEAQSQINRLEGDINSLEGQW   46 (93)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc
+Confidence            344444444444444444444444444444333
+
+
+No 6
+>2KG7_B Uncharacterized protein esxG (PE family; Protein complex, UNKNOWN FUNCTION; NMR {Mycobacterium tuberculosis}
+Probab=30.23  E-value=44  Score=24.46  Aligned_cols=30  Identities=10%  Similarity=0.054  Sum_probs=17.8  Template_Neff=10.700
+
+Q T1137s1           6 TLTAAAQALDGLGDKFGRSIVDGNAILADV   35 (240)
+Q Consensus         6 tL~AlA~AL~GRG~~LG~tl~~l~~yL~~l   35 (240)
+                      .|.+++..|+...++|.+.+.++..-+..+
+T Consensus        11 ~l~~~a~~l~~~~~~l~~~~~~l~~~~~~~   40 (97)
+T 2KG7_B           11 AMLGHAGDMAGYAGTLQSLGAEIAVEQAAL   40 (97)
+T ss_dssp             SSSSCCSCHHHHHHHHHHHHHHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            355666666666666666666555554443
+
+
+No 7
+>2KG7_A Uncharacterized protein esxG (PE family; Protein complex, UNKNOWN FUNCTION; NMR {Mycobacterium tuberculosis}
+Probab=29.92  E-value=45  Score=24.71  Aligned_cols=29  Identities=14%  Similarity=0.139  Sum_probs=13.8  Template_Neff=10.300
+
+Q T1137s1           7 LTAAAQALDGLGDKFGRSIVDGNAILADV   35 (240)
+Q Consensus         7 L~AlA~AL~GRG~~LG~tl~~l~~yL~~l   35 (240)
+                      |..++..++...++|.+.++++..-+..+
+T Consensus        11 l~~~a~~~~~~~~~l~~~~~~l~~~~~~l   39 (97)
+T 2KG7_A           11 LVASQSAFAAKAGLMRHTIGQAEQAAMSA   39 (97)
+T ss_dssp             SSSTTCHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34444555555555555444444444433
+
+
+No 8
+>1EZE_A CHOLESTERYL ESTER TRANSFERASE INHIBITOR; amphipathic helix, TRANSFERASE INHIBITOR; NMR {N/A} SCOP: j.39.1.1
+Probab=29.80  E-value=45  Score=22.85  Aligned_cols=24  Identities=25%  Similarity=0.368  Sum_probs=20.5  Template_Neff=3.300
+
+Q T1137s1          60 SPDLFDGLDNAVTTARTLNEQRGN   83 (240)
+Q Consensus        60 aPDLl~~Ldn~ttTs~Tlv~~~~~   83 (240)
+                      +||+-.+++.+...+++|.|+-..
+T Consensus         1 ~~~~s~~~~qvkefg~~l~EKaK~   24 (38)
+T 1EZE_A            1 APDVSSALDKLKEFGNTLEDKAWE   24 (38)
+T ss_dssp             CCGGGGSSHHHHHHTTHHHHHHHH
+T ss_pred             CCchhHHHHHHHHHHHHHHHHHHH
+Confidence            588999999999999999988644
+
+
+No 9
+>2VRZ_A VIRULENCE FACTOR ESXA; SECRETED, VIRULENCE, VIRULENCE FACTOR, FOUR; 1.9A {STAPHYLOCOCCUS AUREUS}
+Probab=26.94  E-value=55  Score=23.58  Aligned_cols=20  Identities=5%  Similarity=0.019  Sum_probs=9.4  Template_Neff=11.300
+
+Q T1137s1          53 GEVYADASPDLFDGLDNAVT   72 (240)
+Q Consensus        53 a~~YadaaPDLl~~Ldn~tt   72 (240)
+                      ++.|.+....+...++.+..
+T Consensus        50 ~~~~~~~~~~~~~~~~~~~~   69 (99)
+T 2VRZ_A           50 FSRFEEQFQQLSPKVEKFAQ   69 (99)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHH
+Confidence            44555555444444444433
+
+
+No 10
+>3FAV_D ESAT-6-like protein esxB, 6 kDa; Complex, Operon structure, Four-helical-bundle, Coiled-coil; 2.15A {Mycobacterium tuberculosis}
+Probab=26.65  E-value=56  Score=23.67  Aligned_cols=57  Identities=18%  Similarity=0.184  Sum_probs=26.9  Template_Neff=10.800
+
+Q T1137s1           7 LTAAAQALDGLGDKFGRSIVDGNAILADVNPRMPQIRRDITGLANLGEVYADASPDLFDGLDNAVT   72 (240)
+Q Consensus         7 L~AlA~AL~GRG~~LG~tl~~l~~yL~~lnP~lP~L~~Dl~~la~va~~YadaaPDLl~~Ldn~tt   72 (240)
+                      |..++..++..+++|.+.+.++...+..       +...+..  ..+..|.+..-.+...++.+..
+T Consensus        10 l~~~a~~~~~~~~~l~~~~~~~~~~~~~-------~~~~w~G--~a~~a~~~~~~~~~~~~~~~~~   66 (94)
+T 3FAV_D           10 IEAAASAIQGNVTSIHSLLDEGKQSLTK-------LAAAWGG--SGSEAYQGVQQKWDATATELNN   66 (94)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHH-------TGGGGTC--TTSHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHH-------HHHHhcc--hHHHHHHHHHHHHHHHHHHHHH
+Confidence            4445555555555555544444444433       3333332  2455565555555554444433
+
+
+No 11
+>5IJN_Z NUCLEAR PORE COMPLEX PROTEIN NUP155; Nuclear pore complex, Nucleocytoplasmic transport; 21.4A {Homo sapiens}
+Probab=24.09  E-value=67  Score=33.91  Aligned_cols=63  Identities=10%  Similarity=0.075  Sum_probs=36.1  Template_Neff=4.800
+
+Q T1137s1          27 DGNAILADVNPRMPQIRRDITGLANLGEVYADASPDLFDGLDNAVTTARTLNEQRGNLDQALV   89 (240)
+Q Consensus        27 ~l~~yL~~lnP~lP~L~~Dl~~la~va~~YadaaPDLl~~Ldn~ttTs~Tlv~~~~~L~~lL~   89 (240)
+                      +|++.+.+++-+|..-.+++.+.|.-.+.|+...=+=-+-|-.+..-.+-|...|.+|+.-|.
+T Consensus       332 ~LEeiINkW~~ELe~qek~F~~QA~qVnaWDr~LieNgekI~~L~~eVekvk~~Qk~LdqeLD  394 (522)
+T 5IJN_Z          332 QLESLINKWSLELEDQERHFLQQATQVNAWDRTLIENGEKITSLHREVEKVKLDQKRLDQELD  394 (522)
+T ss_dssp             --CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHcHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            467777777777777777777777766666665544444444444444444444444444443
+
+
+No 12
+>4YNL_A Heterocyst differentiation control protein, Heterocyst; Heterocyst differentiation, Transcription factor, TRANSCRIPTION; 2.1A {Nostoc sp. PCC 7120}
+Probab=23.62  E-value=69  Score=25.87  Aligned_cols=49  Identities=14%  Similarity=0.256  Sum_probs=42.7  Template_Neff=2.300
+
+Q T1137s1          42 IRRDITGLANLGEVYADASPDLFDGLDNAVTTARTLNEQRGNLDQALVA   90 (240)
+Q Consensus        42 L~~Dl~~la~va~~YadaaPDLl~~Ldn~ttTs~Tlv~~~~~L~~lL~~   90 (240)
+                      +.+|..+.-++...+++.-|..+++|+.+-.....+-+...+|+.++..
+T Consensus        18 MvEDTARyFRlMrdWaerqp~vmRiLEeLDIppe~~~qA~~ELDeiiR~   66 (90)
+T 4YNL_A           18 MVEDTARYFRMMKDWAEKRPNAMRALEELDVPPERWDEAMQELDEIIRT   66 (90)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCTTCEEEEEEEEECGGGHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHHhCCCcchhHhhcCCCHHHHHHHHHHHHHHHHH
+Confidence            5567777778888999999999999999999999999999999988764
+
+
+No 13
+>4YNL_B Heterocyst differentiation control protein, Heterocyst; Heterocyst differentiation, Transcription factor, TRANSCRIPTION; 2.1A {Nostoc sp. PCC 7120}
+Probab=23.62  E-value=69  Score=25.87  Aligned_cols=49  Identities=14%  Similarity=0.256  Sum_probs=42.7  Template_Neff=2.300
+
+Q T1137s1          42 IRRDITGLANLGEVYADASPDLFDGLDNAVTTARTLNEQRGNLDQALVA   90 (240)
+Q Consensus        42 L~~Dl~~la~va~~YadaaPDLl~~Ldn~ttTs~Tlv~~~~~L~~lL~~   90 (240)
+                      +.+|..+.-++...+++.-|..+++|+.+-.....+-+...+|+.++..
+T Consensus        18 MvEDTARyFRlMrdWaerqp~vmRiLEeLDIppe~~~qA~~ELDeiiR~   66 (90)
+T 4YNL_B           18 MVEDTARYFRMMKDWAEKRPNAMRALEELDVPPERWDEAMQELDEIIRT   66 (90)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCTTCEEEEEEEEECGGGHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHHhCCCcchhHhhcCCCHHHHHHHHHHHHHHHHH
+Confidence            5567777778888999999999999999999999999999999988764
+
+
+No 14
+>1WA8_A ESAT-6 LIKE PROTEIN ESXB, 6; TUBERCULOSIS, CFP-10, ESAT-6, HELIX-TURN-HELIX, FOUR; NMR {MYCOBACTERIUM BOVIS} SCOP: a.25.3.1
+Probab=23.61  E-value=69  Score=23.43  Aligned_cols=31  Identities=13%  Similarity=0.204  Sum_probs=20.2  Template_Neff=10.800
+
+Q T1137s1           6 TLTAAAQALDGLGDKFGRSIVDGNAILADVN   36 (240)
+Q Consensus         6 tL~AlA~AL~GRG~~LG~tl~~l~~yL~~ln   36 (240)
+                      .|.+.+..|+...++|.+.++++...+..+.
+T Consensus         9 ~l~~~a~~l~~~~~~l~~~~~~l~~~~~~~~   39 (99)
+T 1WA8_A            9 TLAQEAGNFERISGDLKTQIDQVESTAGSLQ   39 (99)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHch
+Confidence            3556677777777777777766666655553
+
+
+No 15
+>1WA8_B ESAT-6 LIKE PROTEIN ESXB, 6; TUBERCULOSIS, CFP-10, ESAT-6, HELIX-TURN-HELIX, FOUR; NMR {MYCOBACTERIUM BOVIS} SCOP: a.25.3.1
+Probab=23.03  E-value=72  Score=23.05  Aligned_cols=23  Identities=26%  Similarity=0.304  Sum_probs=9.5  Template_Neff=10.900
+
+Q T1137s1           8 TAAAQALDGLGDKFGRSIVDGNA   30 (240)
+Q Consensus         8 ~AlA~AL~GRG~~LG~tl~~l~~   30 (240)
+                      .+++..|+...++|...++++..
+T Consensus        12 ~~~a~~~~~~~~~l~~~~~~~~~   34 (95)
+T 1WA8_B           12 EAAASAIQGNVTSIHSLLDEGKQ   34 (95)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHH
+Confidence            33444444444444444433333
+
+
+No 16
+>4GZR_C ESAT-6-like protein 6, ESAT-6-like protein; WXG100, Structural Genomics, TB Structural; 2.553A {Mycobacterium tuberculosis}
+Probab=22.22  E-value=77  Score=24.26  Aligned_cols=30  Identities=3%  Similarity=-0.119  Sum_probs=16.7  Template_Neff=9.400
+
+Q T1137s1           6 TLTAAAQALDGLGDKFGRSIVDGNAILADV   35 (240)
+Q Consensus         6 tL~AlA~AL~GRG~~LG~tl~~l~~yL~~l   35 (240)
+                      .|..+++.|+...++|.+.++++..-+..+
+T Consensus         9 ~l~~~a~~l~~~~~~l~~~~~~l~~~~~~l   38 (101)
+T 4GZR_C            9 DVDAHGAMIRAQAGLLEAEHQAIVRDVLAA   38 (101)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            345556666666666666555555544443
+
+
+No 17
+>4LWS_B Uncharacterized protein; ESX Secretion, Signal Sequence, Type; HET: ACT, GOL; 2.0A {Thermomonospora curvata}
+Probab=21.88  E-value=79  Score=23.69  Aligned_cols=29  Identities=10%  Similarity=0.001  Sum_probs=11.6  Template_Neff=10.300
+
+Q T1137s1          15 DGLGDKFGRSIVDGNAILADVNPRMPQIR   43 (240)
+Q Consensus        15 ~GRG~~LG~tl~~l~~yL~~lnP~lP~L~   43 (240)
+                      +.-...|....+++..-+.+++..+..+.
+T Consensus        19 ~~~a~~l~~~~~~l~~~~~~l~~~~~~~~   47 (103)
+T 4LWS_B           19 SEGEAQFSMTARALLDELTDLEGKLRAKL   47 (103)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            33333344444444444444444443433
+
+
+No 18
+>1ZVA_A E2 glycoprotein; SARS coronavirus, membrane fusion, S2; 1.5A {SARS coronavirus} SCOP: h.3.3.1
+Probab=21.13  E-value=84  Score=24.84  Aligned_cols=40  Identities=5%  Similarity=0.071  Sum_probs=30.4  Template_Neff=4.100
+
+Q T1137s1           7 LTAAAQALDGLGDKFGRSIVDGNAILADVNPRMPQIRRDI   46 (240)
+Q Consensus         7 L~AlA~AL~GRG~~LG~tl~~l~~yL~~lnP~lP~L~~Dl   46 (240)
+                      |+.+=+.....|+.+-+..++|+.+.+.+..+++.+...+
+T Consensus         2 l~k~q~vvn~~~~~L~~f~~eL~~~FkaiSSsi~di~~rl   41 (77)
+T 1ZVA_A            2 LGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDISGGR   41 (77)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTS
+T ss_pred             chHHHHHHHHHHHHHHHHHHHHHHHhchhhhchhhhcCCC
+Confidence            4455566677888888888888888888888887776654
+
+
+No 19
+>4I0X_D ESAT-6-like protein; Structural Genomics, PSI-2, Protein Structure; HET: GOL, BME; 1.956A {Mycobacterium abscessus}
+Probab=20.66  E-value=87  Score=23.39  Aligned_cols=27  Identities=4%  Similarity=0.041  Sum_probs=11.8  Template_Neff=10.400
+
+Q T1137s1           7 LTAAAQALDGLGDKFGRSIVDGNAILA   33 (240)
+Q Consensus         7 L~AlA~AL~GRG~~LG~tl~~l~~yL~   33 (240)
+                      |.+.+..|+..+++|-..+..+..-+.
+T Consensus        16 l~~~a~~l~~~~~~l~~~~~~l~~~~~   42 (103)
+T 4I0X_D           16 IEQVTSRARGFKEFVTENLDQLESRAQ   42 (103)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            344444444444444444444433333
+
+
+No 20
+>4I0X_F ESAT-6-like protein; Structural Genomics, PSI-2, Protein Structure; HET: GOL, BME; 1.956A {Mycobacterium abscessus}
+Probab=20.66  E-value=87  Score=23.39  Aligned_cols=27  Identities=4%  Similarity=0.041  Sum_probs=11.8  Template_Neff=10.400
+
+Q T1137s1           7 LTAAAQALDGLGDKFGRSIVDGNAILA   33 (240)
+Q Consensus         7 L~AlA~AL~GRG~~LG~tl~~l~~yL~   33 (240)
+                      |.+.+..|+..+++|-..+..+..-+.
+T Consensus        16 l~~~a~~l~~~~~~l~~~~~~l~~~~~   42 (103)
+T 4I0X_F           16 IEQVTSRARGFKEFVTENLDQLESRAQ   42 (103)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            344444444444444444444433333
+
+

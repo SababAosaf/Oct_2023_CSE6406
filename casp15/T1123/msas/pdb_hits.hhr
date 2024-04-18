@@ -1,0 +1,294 @@
+Query         T1123 Genbank YP_002290968.1, Human Astrovirus MLB1, 266 residues|
+Match_columns 266
+No_of_seqs    4 out of 7
+Neff          1.58079
+Searched_HMMs 80799
+Date          Sun Jul  9 11:40:42 2023
+Command       /usr/bin/hhsearch -i /tmp/tmpiejwifre/query.a3m -o /tmp/tmpiejwifre/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3QSQ_A Capsid polyprotein; rec  99.2 2.3E-14 2.8E-19  127.1   0.0  185   17-229     7-205 (241)
+  2 5W1N_D Capsid polyprotein VP90  99.1 6.9E-14 8.6E-19  124.3   0.0  175   32-230    14-196 (243)
+  3 5KOV_G Capsid polyprotein VP25  99.1 1.5E-13 1.8E-18  120.9   0.0  174   32-230    14-195 (228)
+  4 5EWO_A Structural protein; vir  98.9 1.2E-12 1.5E-17  115.1   0.0  168   50-230    16-192 (228)
+  5 3V33_A Ribonuclease ZC3H12A (E  75.7     1.9 2.4E-05   38.2   0.0   43  198-244   115-158 (223)
+  6 5H9V_C Ribonuclease ZC3H12A(E.  54.4      10 0.00012   33.3   0.0   44  197-244    96-140 (210)
+  7 3V32_A Ribonuclease ZC3H12A (E  45.7      17 0.00021   31.2   0.0   33  213-245   126-159 (185)
+  8 3V34_A Ribonuclease ZC3H12A (E  45.7      17 0.00021   31.2   0.0   33  213-245   126-159 (185)
+  9 3V34_B Ribonuclease ZC3H12A (E  45.7      17 0.00021   31.2   0.0   33  213-245   126-159 (185)
+ 10 3PGW_Q U1-A , U1-70K , Sm-D3;   28.8      48  0.0006   31.0   0.0    8   67-74     14-21  (231)
+ 11 6ID1_b Pre-mRNA-processing-spl  28.8      48  0.0006   31.0   0.0    8   67-74     14-21  (231)
+ 12 5J0F_B Superoxide dismutase [C  24.9      63 0.00078   25.0   0.0    6  113-118     4-9   (114)
+ 13 5YZG_i Pre-mRNA-processing-spl  22.0      78 0.00096   29.6   0.0    8   67-74     14-21  (229)
+ 14 6ASO_F Lsm2-8 spliceosome U6 P  21.9      79 0.00098   23.2   0.0    6   69-74     25-30  (88)
+
+No 1
+>3QSQ_A Capsid polyprotein; receptor binding domain, astrovirus capsid; 1.8A {Human astrovirus 8}
+Probab=99.17  E-value=2.3e-14  Score=127.06  Aligned_cols=185  Identities=15%  Similarity=0.209  Sum_probs=166.7  Template_Neff=5.300
+
+Q T1123            17 TGPRSIVTPETPIGPSSYP---MT---PSSLVLMAGYFSGPEISDNFGKYMPLLFQQNTSKVTF-RSGSHTIKIVSMVLV   89 (266)
+Q Consensus        17 ~GPrg~v~P~~PigPssyP---mt---~sSlvLm~gyFs~PEi~~nfg~ym~ylfqq~~~ki~f-rsgs~~tkvv~~~~v   89 (266)
+                      ....|||+|++|++|++++   ++   +++++||++++ +|+              +++++||| +|++||++|+||+||
+T Consensus         7 t~~~sip~p~~p~~p~~~~~~~~~~~~~~~~~~~~~~~-~~~--------------~~~~~VKi~~~~~hy~~i~~~~~I   71 (241)
+T 3QSQ_A            7 TFGRSIPEPGEQFRVLLTVGPPMAPNTANSQNWVNKTI-VPP--------------ENQYTVKIGIDLEHYTTMQGFTPV   71 (241)
+T ss_dssp             ----------CEEEEEEEECSCCTTCCTTSCCCEECCS-SCS--------------TTCCCEEEEEETTEEEECCEEEEE
+T ss_pred             cccccCCCCCCCccceecCCCCCCCCCCCCcceeeeee-cCC--------------CCeeEEEEEecCCceeEEEEEEEe
+Confidence            4557888999999999876   66   99999999997 554              46899999 899999999999999
+
+
+Q T1123            90 DRLMWLDKHFNQYTNEPDGVFGDVGNVFV--DNDNVAKVITMS----GSSAPANRGATLMLCRATKNIQTFNFAATVYIP  163 (266)
+Q Consensus        90 d~~~wldkhfn~ytnepdgvfgdvgni~i--ngdnvakvitms----gss~t~n~g~t~mlcrttk~i~tf~v~a~vyip  163 (266)
+                      ++|+||+.+     ++|+|+|+||+||+|  |++|+|||||++    .++|+++|++||||||+|+++++++++++|   
+T Consensus        72 ~s~~w~~~~-----~~p~p~p~pi~~l~V~~~~tk~gdV~a~~Q~~~~~t~~~~~itt~fLvk~T~~~~~t~~~s~~---  143 (241)
+T 3QSQ_A           72 ESVSWYTAD-----FQPSDEPSPIPGLYARVNNTKKADVYGVQQFKSSHTNNRHQITSVFLVRVTTSFQVINYTSYF---  143 (241)
+T ss_dssp             EEEEEEETT-----SCBCCCCCCCTTCEEEETTEEEEEEEEEEEEEEEEETTEEEEEEEEEEEESSCEEEEEEEECE---
+T ss_pred             cccceecCC-----CCCCCCCCCCCceEEEeCCceEEEEEEEEEEEEecCCCceEEEEEEEEEecCCeeeEeccceE---
+Confidence            999999999     999999999999999  999999999999    777789999999999999999999999999   
+
+
+Q T1123           164 AYKVKDGAGGKDVVLNVAQWEANKTLTYPAIPKDTYFMVVTMGGAS-FTIQRYVVYNEGIGDGLELP  229 (266)
+Q Consensus       164 ~~rv~dg~ggkd~~i~~~~wednk~l~f~amp~~~yfmv~tmggg~-f~~k~yvvyne~~~~~~~l~  229 (266)
+                        ++++++|+ +++ ++++|+++++++| +|++|+||||+|+++++ +++++|+|+++||+++++++
+T Consensus       144 --~~~~~~g~-~~~-~~~~~~~t~~~~~-sl~~G~WYL~~s~~~~t~~~~~gwvw~~~~l~~n~~~~  205 (241)
+T 3QSQ_A          144 --IRGAESGS-NVS-NLKIRDQTYHTPL-QFTQGKWYLLTSTVMHDGPTSSGWVWMNQELTNNIAYR  205 (241)
+T ss_dssp             --ECCCCSTT-CCC-CBEECSSCEEEEE-EECTTCEEEEEEEEEEESSCCCSCCCCCCCCCTTCCBC
+T ss_pred             --EEEeccCC-ceE-EeeeccCccceeE-EecCccEEEEEEEeeecCCCCCCceeecCcCCCCceee
+Confidence              99999999 999 9999999999999 99999999999999999 99999999999999999976
+
+
+No 2
+>5W1N_D Capsid polyprotein VP90; viral protein, capsid protein, icosahedral; 1.348A {Human astrovirus 2}
+Probab=99.10  E-value=6.9e-14  Score=124.30  Aligned_cols=175  Identities=11%  Similarity=0.151  Sum_probs=162.7  Template_Neff=5.200
+
+Q T1123            32 SSYPMTPSSLVLMAGYFSGPEISDNFGKYMPLLFQQNTSKVTF-RSGSHTIKIVSMVLVDRLMWLDKHFNQYTNEPDGVF  110 (266)
+Q Consensus        32 ssyPmt~sSlvLm~gyFs~PEi~~nfg~ym~ylfqq~~~ki~f-rsgs~~tkvv~~~~vd~~~wldkhfn~ytnepdgvf  110 (266)
+                      .+.|+++++++||++++++|. .   +        .++++||| +|++||++|+||+||++|+||+.+     ++|+|+|
+T Consensus        14 ~~~~~~~~~~~~v~~~~~~p~-~---~--------~~~l~VKi~~~~thy~~i~~f~rI~sp~wyt~~-----~~p~p~p   76 (243)
+T 5W1N_D           14 IMSPNSADRQVWLNKTLTAPG-T---N--------PNDNLVKIAHDLGHYLIMQGFMHIKTVEWYTPD-----FQPSRDP   76 (243)
+T ss_dssp             CCTTCCTTSCCCEECCSSCCS-S---S--------GGGGCCEEEETTSCEEECCEEEEEEEEEEECTT-----SCBCCCC
+T ss_pred             CCCCCCCccceeeeeeccCCC-C---C--------CCccEEEEEecCCcceeEEEEEEeccccccCCC-----CCCCCCC
+Confidence            356688999999999976453 1   1        16899999 899999999999999999999999     9999999
+
+
+Q T1123           111 GDVGNVFV--DNDNVAKVITMS----GSSAPANRGATLMLCRATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQWE  184 (266)
+Q Consensus       111 gdvgni~i--ngdnvakvitms----gss~t~n~g~t~mlcrttk~i~tf~v~a~vyip~~rv~dg~ggkd~~i~~~~we  184 (266)
+                      +||+||+|  |++|+|||||++    .++|+++|++||||||+|+++++++++++|     ++++++|+++++ ++++|+
+T Consensus        77 ~pi~~l~V~~n~tk~gdV~a~~Q~~~~~tn~~~~itt~fLVkvT~~~~~t~~~s~~-----~~~~~~g~~~~~-~~~~r~  150 (243)
+T 5W1N_D           77 TPIAGMSVMVNITKKADVYFMKQFKNSHTNNRHQITSIFLIKPLADFKVQCYMSYF-----KRESHDNNDGVA-NLTVRS  150 (243)
+T ss_dssp             CCCTTEEEEETTEEEEEEEEEEEEEEECSTTEEEEEEEEEEEESSCEEEEEEEECE-----EECCCSSSSCCC-CEEECS
+T ss_pred             CCCCceEEEeCCceEEEEEEEEEEEeccCCCceEEEEEEEEEecCCcceeeeeceE-----EEEecCCCCCeE-Eeeeec
+Confidence            99999999  999999999999    777789999999999999999999999999     999999998999 999999
+
+
+Q T1123           185 ANKTLTYPAIPKDTYFMVVTMGGAS-FTIQRYVVYNEGIGDGLELPA  230 (266)
+Q Consensus       185 dnk~l~f~amp~~~yfmv~tmggg~-f~~k~yvvyne~~~~~~~l~a  230 (266)
+                      ++++++| +|++|+||||+||++++ +++++|+|+++||++|+++++
+T Consensus       151 ~Tt~~~~-sL~~G~WYL~~s~~~~t~~s~~gWvw~~~els~n~~~~~  196 (243)
+T 5W1N_D          151 MTSPKTI-RFQAGEWYLLTSTTLKENNLPEGWVWDRVELKSDTPYYA  196 (243)
+T ss_dssp             SCEEEEE-EECTTCEEEEEEEEEEESSCCSSCCCCCCCCCBTCCBCC
+T ss_pred             ccCCeEE-EeCCccEEEEEEEeeecCCCCCCceeecccCCCCCceec
+Confidence            9999999 99999999999999999 999999999999999999663
+
+
+No 3
+>5KOV_G Capsid polyprotein VP25, PL-2 scFv; viral protein, capsid protein, icosahedral; HET: NAG; 3.245A {Human astrovirus-2}
+Probab=99.06  E-value=1.5e-13  Score=120.85  Aligned_cols=174  Identities=11%  Similarity=0.141  Sum_probs=162.7  Template_Neff=5.500
+
+Q T1123            32 SSYPMTPSSLVLMAGYFSGPEISDNFGKYMPLLFQQNTSKVTF-RSGSHTIKIVSMVLVDRLMWLDKHFNQYTNEPDGVF  110 (266)
+Q Consensus        32 ssyPmt~sSlvLm~gyFs~PEi~~nfg~ym~ylfqq~~~ki~f-rsgs~~tkvv~~~~vd~~~wldkhfn~ytnepdgvf  110 (266)
+                      .+.|+++++++||++++++|.+.            +++++||| +|++||++|+||+||++|+||+.+     ++|+|+|
+T Consensus        14 ~~~~~~~~~~~~v~~~~~~p~~~------------~~~l~VKi~~~~th~~~i~~~~rI~sp~wyt~~-----~~p~p~p   76 (228)
+T 5KOV_G           14 IMSPNSADRQVWLNKTLTAPGTN------------SNDNLVKIAHDLGHYLIMQGFMHIKTVEWYTPD-----FQPSRDP   76 (228)
+T ss_pred             CCCCCCCCcceeeeeecCCCCCC------------CCccEEEEEecCCceeeEEEEEEeccccccCCC-----CCCCCCC
+Confidence            35668899999999997645321            56899999 899999999999999999999999     9999999
+
+
+Q T1123           111 GDVGNVFV--DNDNVAKVITMS----GSSAPANRGATLMLCRATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQWE  184 (266)
+Q Consensus       111 gdvgni~i--ngdnvakvitms----gss~t~n~g~t~mlcrttk~i~tf~v~a~vyip~~rv~dg~ggkd~~i~~~~we  184 (266)
+                      +||+||+|  |++|+|||||++    .++|+++|++||||||+|++++++++++++     +++.++|+ +++ +++.|+
+T Consensus        77 ~pi~~l~V~~n~tk~gdV~a~~Q~~~~~t~~~~~i~t~yLvk~T~~~~~t~~~s~~-----~~~~~~g~-~~~-~~~~~~  149 (228)
+T 5KOV_G           77 TPIAGMSVMVNITKKADVYFMKQFKNSYTNNRHQITSIFLIKPLADFKVQCYMSYF-----KRESHDND-GVA-NLTVRS  149 (228)
+T ss_pred             CCCCceEEEeCCceEEEEEEEEEEEecccCCceEEEEEEEEEecCCcceeeeecEE-----EEEecCCC-CeE-Eeeeec
+Confidence            99999999  999999999999    777789999999999999999999999999     99999999 999 999999
+
+
+Q T1123           185 ANKTLTYPAIPKDTYFMVVTMGGAS-FTIQRYVVYNEGIGDGLELPA  230 (266)
+Q Consensus       185 dnk~l~f~amp~~~yfmv~tmggg~-f~~k~yvvyne~~~~~~~l~a  230 (266)
+                      ++++++| +|++|+||||+|+++++ +++++|+|+++||++++++++
+T Consensus       150 ~T~~~~~-sl~~G~WYL~~s~~~~t~~~~~gWvw~~~~ls~n~~~~~  195 (228)
+T 5KOV_G          150 MTSPETI-RFQVGEWYLLTSTTLKENNLPEGWVWDRVELKSDTPYYA  195 (228)
+T ss_pred             ccCCeEE-EecCccEEEEEEEeeeeCCCCCCceeecccCCCCCceec
+Confidence            9999999 99999999999999999 999999999999999999663
+
+
+No 4
+>5EWO_A Structural protein; viral protein, capsid protein, icosahedral; HET: SO4; 0.95A {Human astrovirus-1}
+Probab=98.92  E-value=1.2e-12  Score=115.11  Aligned_cols=168  Identities=12%  Similarity=0.168  Sum_probs=157.7  Template_Neff=5.500
+
+Q T1123            50 GPEISDNFGKY-MPLLFQQNTSKVTF-RSGSHTIKIVSMVLVDRLMWLDKHFNQYTNEPDGVFGDVGNVFV--DNDNVAK  125 (266)
+Q Consensus        50 ~PEi~~nfg~y-m~ylfqq~~~ki~f-rsgs~~tkvv~~~~vd~~~wldkhfn~ytnepdgvfgdvgni~i--ngdnvak  125 (266)
+                      +|++.+.+.|. +++++++++++||| +|++||++|+||+||++|+||+.+     ++|+|+|+||+||+|  |++|+||
+T Consensus        16 ~p~~~~~~~~~~~~~~~~~~~~~VKi~~~~thy~~i~~~~rI~sp~w~t~~-----~~p~p~p~pi~~l~V~~n~tk~gd   90 (228)
+T 5EWO_A           16 SPNANNKQTWVNKPLDAPSGHYNVKIAKDVDHYLTMQGFTSIASVDWYTID-----FQPSEAPAPIKGLQVLVNISKKAD   90 (228)
+T ss_dssp             TTCCTTSCCCEECSSCCSTTCCCEEEEEETTEEEECCCEEEEEEEEEECTT-----SCEECCCCCCTTCEEEETTEEEEE
+T ss_pred             CCCccccceeecCCCCCCCCeeEEEEeeCCCceeEEEEEEEecccceecCC-----CCcCCCCCCcCceEEEeCCceEEE
+Confidence            34666666553 67889999999999 899999999999999999999999     999999999999999  9999999
+
+
+Q T1123           126 VITMS----GSSAPANRGATLMLCRATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQWEANKTLTYPAIPKDTYFM  201 (266)
+Q Consensus       126 vitms----gss~t~n~g~t~mlcrttk~i~tf~v~a~vyip~~rv~dg~ggkd~~i~~~~wednk~l~f~amp~~~yfm  201 (266)
+                      |||++    .++|+++|++||||||+|++++++++++++     +++.++|+ +++ +++.|+++++++| +|++|+|||
+T Consensus        91 V~a~~Q~~~~~t~~~~~i~t~fLvk~T~~~~~t~~~s~~-----~~~~~~g~-~~~-~~~~~~~t~~~~~-sl~~G~WYL  162 (228)
+T 5EWO_A           91 VYAVKQFVTAQTNNKHQVTSLFLVKVTTGFQVNNYLSYF-----YRASATGD-ATT-NLLVRGDTYTAGI-SFTQGGWYL  162 (228)
+T ss_dssp             EEEEEEEEEEEETTEEEEEEEEEEEESSCEEEEEEEECE-----ECCCCSTT-CCC-CBEECSSCEEEEE-EECTTCEEE
+T ss_pred             EEEEEEEEEeecCCceEEEEEEEEEecCCeeeeecceEE-----EEEeccCC-ceE-EEEeeccccceeE-EecCceEEE
+Confidence            99999    777789999999999999999999999999     99999999 999 9999999999999 999999999
+
+
+Q T1123           202 VVTMGGAS-FTIQRYVVYNEGIGDGLELPA  230 (266)
+Q Consensus       202 v~tmggg~-f~~k~yvvyne~~~~~~~l~a  230 (266)
+                      |+|+++++ +++++|+|+++||++++++++
+T Consensus       163 ~~s~~~~t~~~~~gwvw~~~~l~~n~~~~~  192 (228)
+T 5EWO_A          163 LTNTSIVDGAMPPGWVWNNVELKTNTAYHM  192 (228)
+T ss_dssp             EEEEEEEESCCCSSSCCCCCCCCSSSCBCC
+T ss_pred             EEEEEEecCCCCCCceeeccccCcCceeee
+Confidence            99999999 999999999999999999763
+
+
+No 5
+>3V33_A Ribonuclease ZC3H12A (E.C.3.1.-.-); Rossmann-like sandwich fold, RNase, cytoplastic; 2.005A {Homo sapiens}
+Probab=75.68  E-value=1.9  Score=38.19  Aligned_cols=43  Identities=21%  Similarity=0.301  Sum_probs=21.8  Template_Neff=7.100
+
+Q T1123           198 TYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQ-LYGFSW  244 (266)
+Q Consensus       198 ~yfmv~tmggg~f~~k~yvvyne~~~~~~~l~a~w~kylsq-~fg~sw  244 (266)
+                      .+|++..-...    .+.++.|..+.+=......|.|++.+ .+.++|
+T Consensus       115 D~yiL~~A~~~----~~~IVSND~~RDh~~~~~~f~kw~~~r~i~~~f  158 (223)
+T 3V33_A          115 DRFIVKLAYES----DGIVVSNDTYRDLQGERQEWKRFIEERLLMYSF  158 (223)
+T ss_dssp             HHHHHHHHHHT----TCEEECSCCCHHHHTTCHHHHHHHHHHEECCEE
+T ss_pred             HHHHHHHHHhC----CcEEEECCCcchhhhcCHHHHHHHHcceeEEEe
+Confidence            35655433221    46777777666654444445555433 234444
+
+
+No 6
+>5H9V_C Ribonuclease ZC3H12A(E.C.3.1.-.-); RNase, HYDROLASE; HET: MSE; 2.75A {Mus musculus}
+Probab=54.41  E-value=10  Score=33.29  Aligned_cols=44  Identities=23%  Similarity=0.317  Sum_probs=22.5  Template_Neff=7.400
+
+Q T1123           197 DTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQ-LYGFSW  244 (266)
+Q Consensus       197 ~~yfmv~tmggg~f~~k~yvvyne~~~~~~~l~a~w~kylsq-~fg~sw  244 (266)
+                      ..+|++..--..    .+.++.|..+.+=......|.|++.+ ...++|
+T Consensus        96 DD~~iL~~A~~~----~~~IVSND~~RDh~~~~~~f~kw~~~r~i~y~f  140 (210)
+T 5H9V_C           96 DDRFIVKLAFES----DGVVVSNDTYRDLQGERQEWKRFIEERLLMYSF  140 (210)
+T ss_dssp             HHHHHHHHHHHT----TCEEECSCCCHHHHHHCHHHHHHHHHHEECCEE
+T ss_pred             chHHHHHHHHhC----CcEEEECcchhhhhhhcHHHHHHHHcceEEEEe
+Confidence            346655433222    46777777666655444445555443 234444
+
+
+No 7
+>3V32_A Ribonuclease ZC3H12A (E.C.3.1.-.-); Rossmann-like sandwich fold, RNase, cytoplastic; 2.0A {Homo sapiens}
+Probab=45.66  E-value=17  Score=31.23  Aligned_cols=33  Identities=21%  Similarity=0.344  Sum_probs=17.2  Template_Neff=7.500
+
+Q T1123           213 QRYVVYNEGIGDGLELPAFWGKYLSQ-LYGFSWS  245 (266)
+Q Consensus       213 k~yvvyne~~~~~~~l~a~w~kylsq-~fg~sws  245 (266)
+                      .++++.|..+.+=..-...|.+++.. ...++|.
+T Consensus       126 ~~~IVSND~frDh~~~~~~~~~w~~~r~i~~~f~  159 (185)
+T 3V32_A          126 DGIVVSNDTYRDLQGERQEWKRFIEERLLMYSFV  159 (185)
+T ss_dssp             TCEEECSCCCHHHHHHCHHHHHHHHHHEECCEEE
+T ss_pred             CCEEEECCchhHHhhhCHHHHHHHHcceeEEEee
+Confidence            46777777666544433445554432 3344443
+
+
+No 8
+>3V34_A Ribonuclease ZC3H12A (E.C.3.1.-.-); Rossmann-like sandwich fold, RNase, cytoplastic; 2.003A {Homo sapiens}
+Probab=45.66  E-value=17  Score=31.23  Aligned_cols=33  Identities=21%  Similarity=0.344  Sum_probs=17.2  Template_Neff=7.500
+
+Q T1123           213 QRYVVYNEGIGDGLELPAFWGKYLSQ-LYGFSWS  245 (266)
+Q Consensus       213 k~yvvyne~~~~~~~l~a~w~kylsq-~fg~sws  245 (266)
+                      .++++.|..+.+=..-...|.+++.. ...++|.
+T Consensus       126 ~~~IVSND~frDh~~~~~~~~~w~~~r~i~~~f~  159 (185)
+T 3V34_A          126 DGIVVSNDTYRDLQGERQEWKRFIEERLLMYSFV  159 (185)
+T ss_dssp             TCEEECSCCCHHHHHHCHHHHHHHHHHEECCEEE
+T ss_pred             CCEEEECCchhHHhhhCHHHHHHHHcceeEEEee
+Confidence            46777777666544433445554432 3344443
+
+
+No 9
+>3V34_B Ribonuclease ZC3H12A (E.C.3.1.-.-); Rossmann-like sandwich fold, RNase, cytoplastic; 2.003A {Homo sapiens}
+Probab=45.66  E-value=17  Score=31.23  Aligned_cols=33  Identities=21%  Similarity=0.344  Sum_probs=17.2  Template_Neff=7.500
+
+Q T1123           213 QRYVVYNEGIGDGLELPAFWGKYLSQ-LYGFSWS  245 (266)
+Q Consensus       213 k~yvvyne~~~~~~~l~a~w~kylsq-~fg~sws  245 (266)
+                      .++++.|..+.+=..-...|.+++.. ...++|.
+T Consensus       126 ~~~IVSND~frDh~~~~~~~~~w~~~r~i~~~f~  159 (185)
+T 3V34_B          126 DGIVVSNDTYRDLQGERQEWKRFIEERLLMYSFV  159 (185)
+T ss_dssp             TCEEECSCCCHHHHHHCHHHHHHHHHHEECCEEE
+T ss_pred             CCEEEECCchhHHhhhCHHHHHHHHcceeEEEee
+Confidence            46777777666544433445554432 3344443
+
+
+No 10
+>3PGW_Q U1-A , U1-70K , Sm-D3; PROTEIN-RNA COMPLEX, U1 snRNA, Sm; 4.4A {Homo sapiens}
+Probab=28.76  E-value=48  Score=31.01  Aligned_cols=8  Identities=0%  Similarity=0.086  Sum_probs=3.8  Template_Neff=5.600
+
+Q T1123            67 QNTSKVTF   74 (266)
+Q Consensus        67 q~~~ki~f   74 (266)
+                      +..++|++
+T Consensus        14 n~rVrV~L   21 (231)
+T 3PGW_Q           14 DYRMRCIL   21 (231)
+T ss_pred             CCEEEEEE
+Confidence            33455555
+
+
+No 11
+>6ID1_b Pre-mRNA-processing-splicing factor 8, 116 kDa; Human Intron Lariat Spliceosome, SPLICING; HET: SEP, GTP, I6P; 2.86A {Homo sapiens}
+Probab=28.76  E-value=48  Score=31.01  Aligned_cols=8  Identities=0%  Similarity=0.086  Sum_probs=3.8  Template_Neff=5.600
+
+Q T1123            67 QNTSKVTF   74 (266)
+Q Consensus        67 q~~~ki~f   74 (266)
+                      +..++|++
+T Consensus        14 n~rVrV~L   21 (231)
+T 6ID1_b           14 DYRMRCIL   21 (231)
+T ss_pred             CCEEEEEE
+Confidence            33455555
+
+
+No 12
+>5J0F_B Superoxide dismutase [Cu-Zn],OXIDOREDUCTASE,Superoxide dismutase [Cu-Zn]; SOD1, OXIDOREDUCTASE; HET: GOL; 1.25A {Homo sapiens}
+Probab=24.90  E-value=63  Score=24.99  Aligned_cols=6  Identities=50%  Similarity=0.750  Sum_probs=2.4  Template_Neff=8.500
+
+Q T1123           113 VGNVFV  118 (266)
+Q Consensus       113 vgni~i  118 (266)
+                      +++|.+
+T Consensus         4 lg~i~~    9 (114)
+T 5J0F_B            4 LGNVTA    9 (114)
+T ss_dssp             EEEEEE
+T ss_pred             cccEEe
+Confidence            344444
+
+
+No 13
+>5YZG_i Pre-mRNA-processing-splicing factor 8, 116 kDa; Structure of a Human Catalytic; HET: ADP, GTP, SEP, ATP, I6P; 4.1A {Homo sapiens}
+Probab=22.03  E-value=78  Score=29.63  Aligned_cols=8  Identities=0%  Similarity=0.086  Sum_probs=4.2  Template_Neff=5.700
+
+Q T1123            67 QNTSKVTF   74 (266)
+Q Consensus        67 q~~~ki~f   74 (266)
+                      +..++|++
+T Consensus        14 n~rVrV~L   21 (229)
+T 5YZG_i           14 DYRMRCIL   21 (229)
+T ss_pred             CCEEEEEE
+Confidence            34555555
+
+
+No 14
+>6ASO_F Lsm2-8 spliceosome U6 Prp24; Lsm2-8 spliceosome U6 Prp24, SPLICING; HET: UBD; 2.71A {Saccharomyces cerevisiae}
+Probab=21.86  E-value=79  Score=23.20  Aligned_cols=6  Identities=33%  Similarity=0.434  Sum_probs=2.5  Template_Neff=8.700
+
+Q T1123            69 TSKVTF   74 (266)
+Q Consensus        69 ~~ki~f   74 (266)
+                      .+.|+.
+T Consensus        25 ~v~V~l   30 (88)
+T 6ASO_F           25 TVNVKL   30 (88)
+T ss_dssp             EEEEEE
+T ss_pred             EEEEEe
+Confidence            344444
+
+

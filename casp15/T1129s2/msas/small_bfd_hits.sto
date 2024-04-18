@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+#=GF ID T1129s2-i1
+
+#=GS T1129s2         DE P06971; P23207, E. coli; enterobacteriophage T5, subunit 2, 640 residues|
+#=GS RBP5_BPT5/1-640 DE [subseq from] RBP5_BPT5
+
+T1129s2                 MSFFAGKLNNKSILSLRRGSGGDTNQHINPDSQTIFHSDMSHVIITETHSTGLRLDQGAGDYYWSEMPSRVTQLHNNDPNRVVLTEIEFSDGSRHMLSGMSMGVGAKAYGIINPQIMSQGGLKTQITASADLSLDVGYFNTGTSGTIPQKLRDGTGCQHMFGAFSGRRGFASSAMYLGGAALYKSAWSGSGYVVADAGTL
+RBP5_BPT5/1-640         MSFFAGKLNNKSILSLRRGSGGDTNQHINPDSQTIFHSDMSHVIITETHSTGLRLDQGAGDYYWSEMPSRVTQLHNNDPNRVVLTEIEFSDGSRHMLSGMSMGVGAKAYGIINPQIMSQGGLKTQITASADLSLDVGYFNTGTSGTIPQKLRDGTGCQHMFGAFSGRRGFASSAMYLGGAALYKSAWSGSGYVVADAGTL
+#=GR RBP5_BPT5/1-640 PP 89******************************************************************************************************************************************************************************************************
+#=GC PP_cons            89******************************************************************************************************************************************************************************************************
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+T1129s2                 TIPSDYVRHPGARNFGFNAIYVRGRSCNRVLYGMEGPNYTTGGAVQGASSSGALNFTYNPSNPESPKYSVGFARADPTNYAYWESMGDPNDSANGPIGIYSEHLGIYPSKITWYVTNLVYNGSGYNIDGGLFNGNDIKLSPREFIIKGVNVNNTSWKFINFIEKNFNVGNRADFRDVGCNLSKDSPSTGISGIATFGLPT
+RBP5_BPT5/1-640         TIPSDYVRHPGARNFGFNAIYVRGRSCNRVLYGMEGPNYTTGGAVQGASSSGALNFTYNPSNPESPKYSVGFARADPTNYAYWESMGDPNDSANGPIGIYSEHLGIYPSKITWYVTNLVYNGSGYNIDGGLFNGNDIKLSPREFIIKGVNVNNTSWKFINFIEKNFNVGNRADFRDVGCNLSKDSPSTGISGIATFGLPT
+#=GR RBP5_BPT5/1-640 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons            ********************************************************************************************************************************************************************************************************
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+T1129s2                 TESNNAPSIKGGNVGGLHANVVSIYNFLPSASWYVSSNPPKIGNNYGDVWSENLLPLRLLGGSGSTILSGNIVFQGNGSVHVGTVGLDLNSSRNGAIVCTMEFIDDTWLSAGGIGCFNPTEMLSQGAEYGDSRFRIGGNTINKKLHQILSLPAGEYVPFFTIKGTVVNACKLQAAAYNPTPYWVSGLPGSVGQTGYYTLT
+RBP5_BPT5/1-640         TESNNAPSIKGGNVGGLHANVVSIYNFLPSASWYVSSNPPKIGNNYGDVWSENLLPLRLLGGSGSTILSGNIVFQGNGSVHVGTVGLDLNSSRNGAIVCTMEFIDDTWLSAGGIGCFNPTEMLSQGAEYGDSRFRIGGNTINKKLHQILSLPAGEYVPFFTIKGTVVNACKLQAAAYNPTPYWVSGLPGSVGQTGYYTLT
+#=GR RBP5_BPT5/1-640 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons            ********************************************************************************************************************************************************************************************************
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+T1129s2                 YYMRNDGNNNISIWLDSSMSNIIGMKACLPNIKLIIQRLT
+RBP5_BPT5/1-640         YYMRNDGNNNISIWLDSSMSNIIGMKACLPNIKLIIQRLT
+#=GR RBP5_BPT5/1-640 PP **************************************98
+#=GC PP_cons            **************************************98
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

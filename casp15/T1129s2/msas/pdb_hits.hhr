@@ -1,0 +1,160 @@
+Query         T1129s2 P06971; P23207, E. coli; enterobacteriophage T5, subunit 2, 640 residues|
+Match_columns 640
+No_of_seqs    28 out of 30
+Neff          3.40337
+Searched_HMMs 80799
+Date          Sun Jul  9 18:37:40 2023
+Command       /usr/bin/hhsearch -i /tmp/tmpag67m4y7/query.a3m -o /tmp/tmpag67m4y7/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6OGM_A 4-oxalocrotonate tautom  14.5 1.5E+02  0.0019   23.2   0.0   48   39-90      1-48  (64)
+  2 6OGM_E 4-oxalocrotonate tautom  14.5 1.5E+02  0.0019   23.2   0.0   48   39-90      1-48  (64)
+  3 1WPL_R GTP cyclohydrolase I(E.  13.3 1.7E+02  0.0021   27.6   0.0   23   72-94     45-67  (84)
+  4 3H0D_A CtsR; protein DNA compl  10.2 2.5E+02  0.0031   29.5   0.0   45  301-346    31-76  (155)
+  5 2X4K_B 4-OXALOCROTONATE TAUTOM   9.1 2.9E+02  0.0036   21.4   0.0   49   38-90      1-49  (63)
+  6 2GV1_A Probable acylphosphatas   8.7 3.1E+02  0.0038   24.8   0.0   32  598-629    31-62  (92)
+  7 2LXF_A Uncharacterized protein   8.4 3.3E+02   0.004   26.9   0.0   32  598-629    61-92  (121)
+  8 1WMI_D hypothetical protein PH   8.3 3.3E+02  0.0041   25.3   0.0   12  628-639    12-23  (67)
+  9 1APS_A ACYLPHOSPHATASE (E.C.3.   8.1 3.4E+02  0.0042   25.1   0.0   24  599-622    35-58  (98)
+ 10 4HI2_B Acylphosphatase (E.C.3.   7.7 3.6E+02  0.0045   24.3   0.0   24  599-622    32-55  (91)
+
+No 1
+>6OGM_A 4-oxalocrotonate tautomerase; HYDROLASE; HET: GOL, FMT; 1.865A {Burkholderia lata (strain ATCC 17760 / DSM 23089 / LMG 22485 / NCIMB 9086 / R18194 / 383)}
+Probab=14.48  E-value=1.5e+02  Score=23.16  Aligned_cols=48  Identities=4%  Similarity=0.036  Sum_probs=28.0  Template_Neff=10.300
+
+Q T1129s2          39 DMSHVIITETHSTGLRLDQGAGDYYWSEMPSRVTQLHNNDPNRVVLTEIEFS   90 (640)
+Q Consensus        39 DMP~vlV~~tyea~L~~~~~g~gYfv~~MP~~i~~~~sNd~~rVIlt~ve~n   90 (640)
+                      ||||+.++-.  ..++  ....-=+...+-..+.+.+.-++++|.++-.+..
+T Consensus         1 ~MP~i~i~~~--~~~~--~~~~~~l~~~l~~~~~~~l~~~~~~i~v~~~~~~   48 (64)
+T 6OGM_A            1 XMPVIVAILI--AGRT--DEQKRALIAALSETSASVLDAPLQATRVMIKDIP   48 (64)
+T ss_dssp             -CCEEEEEEE--SCCC--HHHHHHHHHHHHHHHHHHHTCCGGGCEEEEEEEC
+T ss_pred             CCCEEEEEEe--CCCC--HHHHHHHHHHHHHHHHHHhCCCHHHEEEEEEEeC
+Confidence            6999888744  1122  2223335666667777777777777765544443
+
+
+No 2
+>6OGM_E 4-oxalocrotonate tautomerase; HYDROLASE; HET: GOL, FMT; 1.865A {Burkholderia lata (strain ATCC 17760 / DSM 23089 / LMG 22485 / NCIMB 9086 / R18194 / 383)}
+Probab=14.48  E-value=1.5e+02  Score=23.16  Aligned_cols=48  Identities=4%  Similarity=0.036  Sum_probs=28.0  Template_Neff=10.300
+
+Q T1129s2          39 DMSHVIITETHSTGLRLDQGAGDYYWSEMPSRVTQLHNNDPNRVVLTEIEFS   90 (640)
+Q Consensus        39 DMP~vlV~~tyea~L~~~~~g~gYfv~~MP~~i~~~~sNd~~rVIlt~ve~n   90 (640)
+                      ||||+.++-.  ..++  ....-=+...+-..+.+.+.-++++|.++-.+..
+T Consensus         1 ~MP~i~i~~~--~~~~--~~~~~~l~~~l~~~~~~~l~~~~~~i~v~~~~~~   48 (64)
+T 6OGM_E            1 XMPVIVAILI--AGRT--DEQKRALIAALSETSASVLDAPLQATRVMIKDIP   48 (64)
+T ss_dssp             -CCEEEEEEE--TTCC--HHHHHHHHHHHHHHHHHHHTCCGGGCEEEEEEEC
+T ss_pred             CCCEEEEEEe--CCCC--HHHHHHHHHHHHHHHHHHhCCCHHHEEEEEEEeC
+Confidence            6999888744  1122  2223335666667777777777777765544443
+
+
+No 3
+>1WPL_R GTP cyclohydrolase I(E.C.3.5.4.16)/GTP cyclohydrolase I; ENZYME-REGULATORY PROTEIN COMPLEX, HYDROLASE-PROTEIN BINDING; HET: 3PO, NA, HBI, ZN; 2.8A {Rattus norvegicus} SCOP: d.205.1.1
+Probab=13.28  E-value=1.7e+02  Score=27.59  Aligned_cols=23  Identities=30%  Similarity=0.365  Sum_probs=15.5  Template_Neff=5.300
+
+Q T1129s2          72 TQLHNNDPNRVVLTEIEFSDGSR   94 (640)
+Q Consensus        72 ~~~~sNd~~rVIlt~ve~n~g~r   94 (640)
+                      ..+..+++-|+||.+.|..+=+-
+T Consensus        45 ~~y~~~~~P~~VLn~LE~lGykV   67 (84)
+T 1WPL_R           45 YEYYVNDPPRIVLDKLECRGFRV   67 (84)
+T ss_dssp             CEEEESSCHHHHHHHHHHTTEEE
+T ss_pred             eEEEEcCCHHHHHHHHHHcCCEE
+Confidence            34555778888888888755443
+
+
+No 4
+>3H0D_A CtsR; protein DNA complex, winged HTH; HET: PO4; 2.4A {Bacillus stearothermophilus}
+Probab=10.15  E-value=2.5e+02  Score=29.49  Aligned_cols=45  Identities=22%  Similarity=0.326  Sum_probs=38.2  Template_Neff=4.900
+
+Q T1129s2         301 SEHLGIYPSKITWYVTNLVYNG-SGYNIDGGLFNGNDIKLSPREFII  346 (640)
+Q Consensus       301 ~~~~~~tP~kV~WyvlNLryn~-~gy~v~~n~FtGndIkiSp~~F~I  346 (640)
+                      .+.++|.|.++. ||++=||+. .||.|++==--|.=|+|.+=.+.=
+T Consensus        31 A~~F~CvPSQIN-YVL~TRFT~e~GY~VESrRGGGGyIRI~ri~~~~   76 (155)
+T 3H0D_A           31 ANKFRCVPSQIN-YVINTRFTLERGYIVESKRGGGGYIRIMKVKTKS   76 (155)
+T ss_dssp             HHHTTSCTHHHH-HHHHHHSSGGGTEEEEEECSTTCEEEEEEEEECT
+T ss_pred             HHHhCCCHHhcc-eeeeeccCcccCeEEEEeccCCceEEEEEEecCc
+Confidence            358999999987 799999966 599999999999999998876643
+
+
+No 5
+>2X4K_B 4-OXALOCROTONATE TAUTOMERASE; ISOMERASE; HET: PO4; 1.1A {STAPHYLOCOCCUS AUREUS}
+Probab=9.08  E-value=2.9e+02  Score=21.43  Aligned_cols=49  Identities=16%  Similarity=0.087  Sum_probs=27.7  Template_Neff=10.400
+
+Q T1129s2          38 SDMSHVIITETHSTGLRLDQGAGDYYWSEMPSRVTQLHNNDPNRVVLTEIEFS   90 (640)
+Q Consensus        38 SDMP~vlV~~tyea~L~~~~~g~gYfv~~MP~~i~~~~sNd~~rVIlt~ve~n   90 (640)
+                      |+||++-+.-.  ..+.  ....-=+..+|-..+.+.+.-++++|.+.-.++.
+T Consensus         1 ~~Mp~i~i~~~--~~~~--~~~~~~l~~~i~~~~~~~~~~p~~~i~v~~~~~~   49 (63)
+T 2X4K_B            1 SMMPIVNVKLL--EGRS--DEQLKNLVSEVTDAVEKTTGANRQAIHVVIEEMK   49 (63)
+T ss_dssp             CCCCEEEEEEE--SCCC--HHHHHHHHHHHHHHHHHHHCCCGGGCEEEEEEEC
+T ss_pred             CCCcEEEEEEe--CCCC--HHHHHHHHHHHHHHHHHHHCCCHHhEEEEEEecC
+Confidence            78998877543  1221  1223345566666677766666666655544443
+
+
+No 6
+>2GV1_A Probable acylphosphatase (E.C.3.6.1.7); globular alpha-helix/beta-sheet protein, Hydrolase; NMR {Escherichia coli}
+Probab=8.68  E-value=3.1e+02  Score=24.79  Aligned_cols=32  Identities=16%  Similarity=0.181  Sum_probs=22.8  Template_Neff=8.200
+
+Q T1129s2         598 TLTYYMRNDGNNNISIWLDSSMSNIIGMKACL  629 (640)
+Q Consensus       598 s~~y~ikN~gnGnV~~~v~~~~~~~~~~~~~l  629 (640)
+                      -+.=|++|..||.|++.+.-....+--+...|
+T Consensus        31 ~l~G~v~n~~dg~V~i~~~G~~~~v~~f~~~l   62 (92)
+T 2GV1_A           31 GLTGYAKNLDDGSVEVVACGEEGQVEKLMQWL   62 (92)
+T ss_dssp             TCCCEEEECSSSCEEEEECSCHHHHHHHHHHH
+T ss_pred             CCEEEEEECCCCeEEEEEEeCHHHHHHHHHHH
+Confidence            34567999999999999988776543343333
+
+
+No 7
+>2LXF_A Uncharacterized protein; Beaver fever, giardiasis, Seattle Structural; NMR {Giardia lamblia}
+Probab=8.39  E-value=3.3e+02  Score=26.90  Aligned_cols=32  Identities=16%  Similarity=0.245  Sum_probs=23.1  Template_Neff=6.600
+
+Q T1129s2         598 TLTYYMRNDGNNNISIWLDSSMSNIIGMKACL  629 (640)
+Q Consensus       598 s~~y~ikN~gnGnV~~~v~~~~~~~~~~~~~l  629 (640)
+                      .+.=|++|+.||.||+.+.-....+--+...|
+T Consensus        61 gL~G~VrN~~dG~Vei~~~G~~~~I~~f~~~l   92 (121)
+T 2LXF_A           61 SLVGYVTNNEDGSVSGVVQGPKEQVDAFVKYL   92 (121)
+T ss_dssp             TCEEEEEECTTSCEEEEEEEEHHHHHHHHHHH
+T ss_pred             CCEEEEEECCCCeEEEEEEccHHHHHHHHHHH
+Confidence            34567999999999999988776553343333
+
+
+No 8
+>1WMI_D hypothetical protein PHS013, hypothetical protein; toxin-antitoxin complex, HYDROLASE-HYDROLASE INHIBITOR COMPLEX; 2.3A {Pyrococcus horikoshii} SCOP: a.137.13.1
+Probab=8.28  E-value=3.3e+02  Score=25.27  Aligned_cols=12  Identities=50%  Similarity=0.592  Sum_probs=10.5  Template_Neff=1.900
+
+Q T1129s2         628 CLPNIKLIIQRL  639 (640)
+Q Consensus       628 ~lp~~ri~vqrl  639 (640)
+                      =|-++|+.||||
+T Consensus        12 ELeRlkveiQrL   23 (67)
+T 1WMI_D           12 ELERLKVEIQRL   23 (67)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+Confidence            478999999998
+
+
+No 9
+>1APS_A ACYLPHOSPHATASE (E.C.3.6.1.7) (NMR, 5 STRUCTURES); HYDROLASE(ACTING ON ACID ANHYDRIDES); NMR {Equus caballus} SCOP: d.58.10.1
+Probab=8.14  E-value=3.4e+02  Score=25.12  Aligned_cols=24  Identities=4%  Similarity=0.212  Sum_probs=19.4  Template_Neff=7.800
+
+Q T1129s2         599 LTYYMRNDGNNNISIWLDSSMSNI  622 (640)
+Q Consensus       599 ~~y~ikN~gnGnV~~~v~~~~~~~  622 (640)
+                      +.=|++|+.||.|++.+.-....+
+T Consensus        35 l~G~v~N~~dg~V~i~~~G~~~~i   58 (98)
+T 1APS_A           35 VVGWVKNTSKGTVTGQVQGPEEKV   58 (98)
+T ss_dssp             CEEEEECCTTCEEEEEEEEEHHHH
+T ss_pred             CEEEEEECCCCeEEEEEECCHHHH
+Confidence            456799999999999998876644
+
+
+No 10
+>4HI2_B Acylphosphatase (E.C.3.6.1.7); Ferredoxin fold, Hydrolase; HET: SO4; 3.1A {Vibrio cholerae O395}
+Probab=7.70  E-value=3.6e+02  Score=24.31  Aligned_cols=24  Identities=21%  Similarity=0.295  Sum_probs=19.2  Template_Neff=8.200
+
+Q T1129s2         599 LTYYMRNDGNNNISIWLDSSMSNI  622 (640)
+Q Consensus       599 ~~y~ikN~gnGnV~~~v~~~~~~~  622 (640)
+                      +.=|++|..+|.|++.+.-....+
+T Consensus        32 l~G~v~n~~dg~V~i~~~G~~~~i   55 (91)
+T 4HI2_B           32 LTGYAKNLNNGDVEVVACGTPERL   55 (91)
+T ss_dssp             CEEEEEECSSSCEEEEEEECHHHH
+T ss_pred             CEEEEEECCCCeEEEEEEeCHHHH
+Confidence            355799999999999888776544
+
+
